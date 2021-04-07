@@ -1,3 +1,44 @@
+<footer class="footer"> 
+    <a href="mailto:rday37@bruinmail.slcc.edu" class="footer__link">rday37@bruinmail.slcc.edu</a>
+        <ul class="social-list">
+            <li class="social-list__item">
+                <a class="social-list__link" href="https://codepen.io">
+                    <i class="fab fa-codepen"></i>
+                </a>
+            </li>
+            <li class="social-list__item">
+                <a class="social-list__link" href="http://dribbble.com">
+                    <i class="fab fa-dribbble"></i>
+                </a>
+            </li>
+            <li class="social-list__item">
+                <a class="social-list__link" href="https://twitter.com">
+                    <i class="fab fa-twitter"></i>
+                </a>
+            </li>
+            <li class="social-list__item">
+                <a class="social-list__link" href="https://github.com">
+                    <i class="fab fa-github"></i>
+                </a>
+            </li>
+            <li class="social-list__item">
+                <a class="social-list__social-link" href="https://www.facebook.com" target="_blank">
+                    <i class="fab fa-facebook"></i>
+                </a>
+            </li>
+            <li class="social-list__item">
+                <a class="social-list__social-link" href="https://www.youtube.com" target="_blank">
+                    <i class="fab fa-youtube"></i>
+                </a>
+            </li>
+            <li class="social-list__item">
+                <a class="social-list__social-link" href="https://www.instagram.com" target="_blank">
+                    <i class="fab fa-instagram"></i>
+                </a>
+            </li>
+        </ul>
+    </footer>
+
     <!-- Optional JavaScript -->
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
