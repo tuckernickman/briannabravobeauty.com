@@ -8,16 +8,25 @@
             <div class="navbar-nav">
             <ul class="navbar-nav mr-auto">
              <li class="nav-item active">
-                    <a class="nav-link active" href="index.php">Home</a>
+                    <a class="nav-link active" href="index.php">Brianna Bravo Beauty</a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="about.php">About</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="archive.php">Archive</a>
+                    <a class="nav-link" href="services.php">Services</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="portfolio.php">Portfolio</a>
+                    <a class="nav-link" href="fashion.php">Fashion</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="fashion.php">Budoire</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="fashion.php">Fashion</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="fashion.php">Fashion</a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="videos.php">Videos</a>
