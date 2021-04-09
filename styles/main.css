@@ -2,7 +2,7 @@
 /////
 Barley Corn: #a4a457
 
-Apriot Peach: #fcd1c6
+Apricot Peach: #fcd1c6
 
 Gray Nurse: #e2e8df
 
@@ -56,11 +56,11 @@ body {
     min-height: 100vh;
 }
 .btn {
-    background-color:#c8ee1fb6;
+    background-color:#ba968e;
 }
 .navbar, .btn button{
-    background-image: linear-gradient(#5c72ee,#f4b0f7,#c8ee1fb6, #c8ee1f00);
-	background: -webkit-linear-gradient(#5c72ee, #f4b0f7,#c8ee1fb6, #c8ee1f00);
+    background-image: linear-gradient(#7baf8e,#986572,#f8ddc0, #f8ddc000);
+	background: -webkit-linear-gradient(#7baf8e,#986572,#f8ddc0, #f8ddc000);
     /* background-color:#5c72ee; */
 }
 #content{
@@ -77,8 +77,8 @@ p, a, label, input, textarea, td, th, h4, h2, h1, h3, h5, h6, header, div {
 
 p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
  .navbar-brand, .nav-link, .btn{
-    color:#5c72ee;
-    text-shadow:1px 3px 30px #c8ee1fe1;
+    color:#415053;
+    text-shadow:1px 3px 30px #986572;
     -moz-transition: all 0.2s ease-in;
     -o-transition: all 0.2s ease-in;
     -webkit-transition: all 0.2s ease-in;
@@ -89,7 +89,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
 p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
  .navbar-brand, .nav-link, .btn :hover {
     color:#c8ee1fe1;
-    text-shadow:1px 3px 30px #f625cc;
+    text-shadow:1px 3px 30px #986572;
     -moz-transition: all 0.2s ease-in;
     -o-transition: all 0.2s ease-in;
     -webkit-transition: all 0.2s ease-in;
@@ -97,8 +97,8 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
 }
 
 .font-change:hover {
-    color:#c8ee1fe1;
-    text-shadow:1px 3px 30px #f625cc;
+    color:#415053;
+    text-shadow:1px 3px 30px #986572;
     -moz-transition: all 0.2s ease-in;
     -o-transition: all 0.2s ease-in;
     -webkit-transition: all 0.2s ease-in;
