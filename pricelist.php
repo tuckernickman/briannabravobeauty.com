@@ -26,3 +26,4 @@ embrace your inner goddess
 
 *simple hair: curled or straightened  
 -->
+

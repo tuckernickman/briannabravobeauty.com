@@ -83,8 +83,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
     -o-transition: all 0.2s ease-in;
     -webkit-transition: all 0.2s ease-in;
     transition: all 0.2s ease-in;
-    /* font-family:'Roboto Slab', 'Nunito Sans', 'Open Sans', 'Raleway', 'sans-serif'; */
-    font-family:'Gugi', 'Modak', 'Pinyon Script', 'Source Sans Pro', 'DotGothic16';
+    font-family: 'Chonburi', 'Lora', 'Oi'; 
 }
 
 p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
@@ -104,6 +103,6 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
     -o-transition: all 0.2s ease-in;
     -webkit-transition: all 0.2s ease-in;
     transition: all 0.2s ease-in;
-    font-family:'Pinyon Script', 'Modak', 'Source Sans Pro', 'DotGothic16', 'Gugi';
+    font-family: 'Anton', 'Kumbh Sans','Train One'; 
 }
 
