@@ -13,9 +13,7 @@
 
     <!--home page-->
 
-    <?php include "mainsection1.php"; ?> 
-
-    <?php include "mainsection2.php";?>
+    <?php include "imggallery1.php"; ?>
 
     <?php include "footer.php"; ?>
 
