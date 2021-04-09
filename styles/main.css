@@ -41,15 +41,19 @@ font-family: 'Anton', 'Kumbh Sans','Train One';
 */
 
 /* css for background image
-
-
 background-image:url('img/1160.jpg');
 background-attachment: fixed;
 background-position: center;
 background-size: cover;
 -webkit-background-size: cover;
 -moz-background-size: cover;
--o-background-size: cover; */
+-o-background-size: cover; 
+*/
+
+/* 
+Blur effect for images
+filter: blur(4px); 
+*/
 
 body {
     margin:0;
