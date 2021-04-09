@@ -18,18 +18,18 @@
         <h2>Layla</h2>
         <div class="grid">
           <figure class="effect-layla">
-            <img src="https://tympanus.net/Development/HoverEffectIdeas/img/6.jpg" alt="img06"/>
+            <img src="simplewedding.jpg" alt="Wedding_Makeup"/>
             <figcaption>
-              <h2>Crazy <span>Layla</span></h2>
-              <p>When Layla appears, she brings an eternal summer along.</p>
+              <h2> <span>Bridal</span></h2>
+              <p>day of makeup, trials are available at an additional cost  * each bridesmaid is $75</p>
               <a href="#">View more</a>
             </figcaption>     
           </figure>
           <figure class="effect-layla">
-            <img src="https://tympanus.net/Development/HoverEffectIdeas/img/3.jpg" alt="img03"/>
+            <img src="whitebudoire.jpg" alt="Budoire_Makeup"/>
             <figcaption>
-              <h2>Crazy <span>Layla</span></h2>
-              <p>When Layla appears, she brings an eternal summer along.</p>
+              <h2> <span>Boudoir</span></h2>
+              <p>embrace your inner goddess * simple hair curls or straightened $100</p>
               <a href="#">View more</a>
             </figcaption>     
           </figure>
