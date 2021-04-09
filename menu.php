@@ -23,7 +23,7 @@
                     <a class="nav-link" href="fashion.php">Budoire</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="fashion.php">Fashion</a>
+                    <a class="nav-link" href="fashion.php">Wedding</a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="fashion.php">Fashion</a>
