@@ -1,4 +1,4 @@
-<nav id="mainNav" class="navbar navbar-expand-lg navbar-light">
+<nav class="navbar navbar-expand-lg navbar-light">
         <div class="container-fluid" id="grad">
           <a class="navbar-brand" href="index.php">Brianna Bravo Beauty</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -20,15 +20,14 @@
                     <a class="nav-link" href="fashion.php">Fashion</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="fashion.php">Budoire</a>
+                    <a class="nav-link" href="budoire.php">Budoire</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="fashion.php">Wedding</a>
+                    <a class="nav-link" href="wedding.php">Wedding</a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="videos.php">Videos</a>
                 </li>
-                
             </ul>
             </div>
           </div>
