@@ -26,9 +26,6 @@
                     <a class="nav-link" href="fashion.php">Wedding</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="fashion.php">Fashion</a>
-                </li>
-                <li class="nav-item active">
                     <a class="nav-link" href="videos.php">Videos</a>
                 </li>
                 
