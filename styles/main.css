@@ -40,7 +40,70 @@ Font Family 2 (clean-modern-bold)
 font-family: 'Anton', 'Kumbh Sans','Train One'; 
 */
 
-body {
+/* css for background image
 
+
+background-image:url('img/1160.jpg');
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover; */
+
+body {
+    margin:0;
+    min-height: 100vh;
+}
+.btn {
+    background-color:#c8ee1fb6;
+}
+.navbar, .btn button{
+    background-image: linear-gradient(#5c72ee,#f4b0f7,#c8ee1fb6, #c8ee1f00);
+	background: -webkit-linear-gradient(#5c72ee, #f4b0f7,#c8ee1fb6, #c8ee1f00);
+    /* background-color:#5c72ee; */
+}
+#content{
+    display:inline-block;
+    align-content: center;
+    text-align:center;
+    padding:5, 10;
+}
+
+p, a, label, input, textarea, td, th, h4, h2, h1, h3, h5, h6, header, div {
+    text-align:center;
+    padding:10px;
+}
+
+p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
+ .navbar-brand, .nav-link, .btn{
+    color:#5c72ee;
+    text-shadow:1px 3px 30px #c8ee1fe1;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+    /* font-family:'Roboto Slab', 'Nunito Sans', 'Open Sans', 'Raleway', 'sans-serif'; */
+    font-family:'Gugi', 'Modak', 'Pinyon Script', 'Source Sans Pro', 'DotGothic16';
+}
+
+p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
+ .navbar-brand, .nav-link, .btn :hover {
+    color:#c8ee1fe1;
+    text-shadow:1px 3px 30px #f625cc;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+}
+
+.font-change:hover {
+    color:#c8ee1fe1;
+    text-shadow:1px 3px 30px #f625cc;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+    font-family:'Pinyon Script', 'Modak', 'Source Sans Pro', 'DotGothic16', 'Gugi';
 }
 
