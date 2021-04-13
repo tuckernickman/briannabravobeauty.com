@@ -11,7 +11,7 @@
                     <a class="nav-link active" href="index.php">Brianna Bravo Beauty</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="about.php">About</a>
+                    <a class="nav-link" href="briannabravo.php">About</a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="services.php">Services</a>
