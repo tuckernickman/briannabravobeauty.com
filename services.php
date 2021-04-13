@@ -12,9 +12,6 @@
 
 <h1>Services</h1>
 <div class="content">
-       
-     
-       
         <h2>Layla</h2>
         <div class="grid">
           <figure class="effect-layla">
