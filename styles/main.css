@@ -165,8 +165,8 @@ figure.effect-ruby {
   /* footer */
 
 .footer {
-  background: #111;
-  color: var(--clr-accent);
+  background:#986572;
+  color:#f8ddc0 ;
   text-align: center;
   padding: 2.5em 0;
   font-size: var(--fs-h3);
@@ -174,7 +174,7 @@ figure.effect-ruby {
 }
 
 .footer a { 
-  color: inherit;
+  color:#f8ddc0;
   text-decoration: none;
 }
 
