@@ -15,7 +15,7 @@ h2 {
 }
 
 .container_foto {
-  background-color: RGBA(152,101,114,0.13);
+  background-color:RGBA(152,101,114,0.13);
   padding: 0;
   overflow: hidden;
   max-width: 350px;
@@ -121,10 +121,7 @@ h2 {
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 /* #56721c */
 
-body {
-    font-family: 'Raleway', sans-serif;
-    background-color: #56721c ;
-  }
+
   
   .contenedor {
     height: 100%;
@@ -132,7 +129,7 @@ body {
   }
   
   h1 {
-    color: #FCFBFA;
+    color: #f8ddc0;
   }
   
   .container_foto {
