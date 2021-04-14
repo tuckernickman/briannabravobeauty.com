@@ -9,6 +9,7 @@
 
 </head>
 <body>
+
     <?php include "menu.php"; ?>
 
     <!--home page-->
