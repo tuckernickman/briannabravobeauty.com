@@ -23,6 +23,7 @@
 
 <body>
 <section>
+
   <div>
   <h1 class="text-center">Services I Offer</h1>
   <h3 class="text-center">Please note that all services include lash application.</h3>
