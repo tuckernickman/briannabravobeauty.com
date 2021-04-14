@@ -22,16 +22,16 @@
       <img class="d-block w-100" src="/assets/img/maternity.jpg" alt="maternity makeup photoshoot">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/img/whitebudoire.jpg" alt="budoire with white details">
+      <img class="d-block w-100" src="/assets/img/stpatricksday.jpg" alt="st. patricks day look">
     </div>
     <div class="carousel-item active">
-      <img class="d-block w-100" src="/assets/img/blacklace.jpg" alt="model wearing black lace dress, with sleek makeup">
+      <img class="d-block w-100" src="/assets/img/headshot.jpg" alt="headshot">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/img/purplebudoire.jpg" alt="budoire with purple details">
+      <img class="d-block w-100" src="/assets/img/simplemakeup.jpg" alt="simple makeup look">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/img/whitebudoire.jpg" alt="budoire with white details">
+      <img class="d-block w-100" src="/assets/img/simplewedding.jpg" alt="simple wedding makeup">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -46,7 +46,7 @@
 
 
 <!-- A grid of images -->
-<section> 
+<!-- <section> 
     <div class="col section-content perspective">
         <h2 id="content">Brianna Bravo Beauty</h2>
             <div id="content" class="col-sm">
@@ -113,4 +113,4 @@
                 </a>
             </div>
     </div>
-</section>
+</section> -->
