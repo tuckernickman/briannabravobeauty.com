@@ -5,14 +5,14 @@
             <div id="content" class="col-sm">
                 <a href="" class="field-group-link project-link d-block p-visible">
                     <div class="project-img bg">
-                        <img class="img-fluid" src="/briannabravobeauty.com/assets/img/brianna1.jpg" alt="photo of brianna">
+                        <img class="img-fluid" src="/assets/img/brianna1.jpg" alt="photo of brianna">
                     </div>
                 </a>
             </div>
             <div id="content" class="col-sm">
                 <a href="" class="field-group-link project-link d-block p-visible">
                     <div class="project-img bg">
-                        <img class="img-fluid" src="/briannabravobeauty.com/assets/img/brianna2.jpg" alt="photo of brianna">
+                        <img class="img-fluid" src="/assets/img/brianna2.jpg" alt="photo of brianna">
                     </div>
                 </a>
             </div>
