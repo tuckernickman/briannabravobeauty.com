@@ -1,5 +1,6 @@
 <footer class="footer"> 
-    <a href="mailto:rday37@bruinmail.slcc.edu" class="footer__link">rday37@bruinmail.slcc.edu</a>
+<section>
+    <a href="mailto:bribravobeauty@gmail.com" class="footer__link">Email</a>
         <ul class="social-list">
             <li class="social-list__item">
                 <a class="social-list__link" href="https://codepen.io">
@@ -37,6 +38,7 @@
                 </a>
             </li>
         </ul>
+    </section>
     </footer>
 
     <!-- Optional JavaScript -->

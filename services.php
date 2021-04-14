@@ -15,7 +15,7 @@
         <h2>Layla</h2>
         <div class="grid">
           <figure class="effect-layla">
-            <img src="/briannabravobeauty.com/assets/img/purplebudoire.jpg" alt="budoire with purple details"/>
+            <img src="/assets/img/purplebudoire.jpg" alt="budoire with purple details"/>
             <figcaption>
               <h2>Crazy <span>Layla</span></h2>
               <p>When Layla appears, she brings an eternal summer along.</p>
@@ -23,7 +23,7 @@
             </figcaption>     
           </figure>
           <figure class="effect-layla">
-            <img src="/briannabravobeauty.com/assets/img/whitebudoire.jpg" alt="budoire with white details"/>
+            <img src="/assets/img/whitebudoire.jpg" alt="budoire with white details"/>
             <figcaption>
               <h2>Crazy <span>Layla</span></h2>
               <p>When Layla appears, she brings an eternal summer along.</p>
@@ -35,7 +35,7 @@
         <h2>Roxy</h2>
         <div class="grid">
           <figure class="effect-roxy">
-            <img src="/briannabravobeauty.com/assets/img/reddress.jpg" alt="look with a red dress"/>
+            <img src="/assets/img/reddress.jpg" alt="look with a red dress"/>
             <figcaption>
               <h2>Charming <span>Roxy</span></h2>
               <p>Roxy was my best friend. She'd cross any border for me.</p>
@@ -43,7 +43,7 @@
             </figcaption>     
           </figure>
           <figure class="effect-roxy">
-            <img src="/briannabravobeauty.com/assets/img/maternity.jpg" alt="maternity makeup photoshoot"/>
+            <img src="/assets/img/maternity.jpg" alt="maternity makeup photoshoot"/>
             <figcaption>
               <h2>Charming <span>Roxy</span></h2>
               <p>Roxy was my best friend. She'd cross any border for me.</p>
@@ -56,7 +56,7 @@
         <h2>Chico</h2>
         <div class="grid">
           <figure class="effect-chico">
-            <img src="/briannabravobeauty.com/assets/img/simplemakeup.jpg" alt="simple makeup look"/>
+            <img src="/assets/img/simplemakeup.jpg" alt="simple makeup look"/>
             <figcaption>
               <h2>Silly <span>Chico</span></h2>
               <p>Chico's main fear was missing the morning bus.</p>
@@ -64,7 +64,7 @@
             </figcaption>     
           </figure>
           <figure class="effect-chico">
-            <img src="/briannabravobeauty.com/assets/img/simplewedding.jpg" alt="simple wedding makeup"/>
+            <img src="/assets/img/simplewedding.jpg" alt="simple wedding makeup"/>
             <figcaption>
               <h2>Silly <span>Chico</span></h2>
               <p>Chico's main fear was missing the morning bus.</p>
