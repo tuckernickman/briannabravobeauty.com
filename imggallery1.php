@@ -1,5 +1,6 @@
 <!-- a carousel of images -->
 <section>
+<div class="col-sm">
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -8,22 +9,46 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="col-sm" src="/assets/img/blacklace.jpg" alt="model wearing black lace dress, with sleek makeup">
+        <img class="col-sm" src="/assets/img/blacklace.jpg" alt="model wearing black lace dress, with sleek makeup">
+        <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+        <p></p>
+        </div>
     </div>
     <div class="carousel-item">
-      <img class="col-sm" src="/assets/img/purplebudoire.jpg" alt="budoire with purple details">
+        <img class="col-sm" src="/assets/img/purplebudoire.jpg" alt="budoire with purple details">
+        <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+        <p></p>
+        </div>
     </div>
     <div class="carousel-item">
-      <img class="col-sm" src="/assets/img/whitebudoire.jpg" alt="budoire with white details">
+        <img class="col-sm" src="/assets/img/whitebudoire.jpg" alt="budoire with white details">
+        <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+        <p></p>
+        </div>
     </div>
     <div class="carousel-item">
-      <img class="col-sm" src="/assets/img/reddress.jpg" alt="look with a red dress">
+        <img class="col-sm" src="/assets/img/reddress.jpg" alt="look with a red dress">
+        <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+        <p></p>
+        </div>
     </div>
     <div class="carousel-item">
-      <img class="col-sm" src="/assets/img/maternity.jpg" alt="maternity makeup photoshoot">
+        <img class="col-sm" src="/assets/img/maternity.jpg" alt="maternity makeup photoshoot">
+        <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+        <p></p>
+        </div>
     </div>
     <div class="carousel-item">
-      <img class="col-sm" src="/assets/img/stpatricksday.jpg" alt="st. patricks day look">
+        <img class="col-sm" src="/assets/img/stpatricksday.jpg" alt="st. patricks day look">
+        <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+        <p></p>
+        </div>
     </div>
     <div class="carousel-item">
       <img class="col-sm" src="/assets/img/headshot.jpg" alt="headshot">
@@ -43,6 +68,7 @@
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
+</div>
 </div>
 </section>
 
