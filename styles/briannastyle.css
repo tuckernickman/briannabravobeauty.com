@@ -15,7 +15,7 @@ h2 {
 }
 
 .container_foto {
-  background-color: RGBA(152,101,114,0.13));
+  background-color: RGBA(152,101,114,0.13);
   padding: 0;
   overflow: hidden;
   max-width: 350px;
