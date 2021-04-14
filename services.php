@@ -25,7 +25,7 @@
 <section>
   <div>
   <h1 class="text-center">Services I Offer</h1>
-  <p class="text-center">Please note that all services include lash application.</p>
+  <h3 class="text-center">Please note that all services include lash application.</h3>
   </div>
 </section>
 
@@ -33,7 +33,7 @@
    <h1 class="text-center"></h1>
    <div class=" container text-center">
    <div class="row">
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto ">
+      <div class="col-sm-4 container_foto ">
          <div class="ver_mas text-center">
         
          </div>
@@ -43,7 +43,7 @@
          </article>
          <img src="assets/img/simplewedding.jpg" alt="">
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
+      <div class="col-sm-4 container_foto">
          <div class="ver_mas text-center">
             <span id="click" class="lnr lnr-eye"></span>
          </div>
@@ -53,7 +53,7 @@
          </article>
          <img src="assets/img/whitebudoire.jpg" alt="">
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
+      <div class="col-sm-4 container_foto">
          <div class="ver_mas text-center">
             <span class="lnr lnr-eye"></span>
          </div>
@@ -66,7 +66,7 @@
       </div>
 
       <div class="row">
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
+      <div class="col-sm-4 container_foto">
          <div class="ver_mas text-center">
             <span id="click" class="lnr lnr-eye"></span>
          </div>
@@ -76,7 +76,7 @@
          </article>
          <img src="assets/img/simplemakeup1.jpg" alt="">
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
+      <div class="col-sm-4 container_foto">
          <div class="ver_mas text-center">
             <span id="click" class="lnr lnr-eye"></span>
          </div>
@@ -86,12 +86,12 @@
          </article>
          <img src="assets/img/reddress.jpg" alt="">
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
+      <div class="col-sm-4 container_foto">
          <div class="ver_mas text-center">
             <span id="click" class="lnr lnr-eye"></span>
          </div>
          <article class="text-left">
-            <h2>Hair & Makeup Combo<br> $120 ^</h2>
+            <h2>Hair & Makeup Combo<br> $120 +</h2>
             <h4>Depending on the complexity of what you would like prices are subject to change.</h4>
          </article>
          <img src="assets/img/stpatricksday.jpg" alt="">
