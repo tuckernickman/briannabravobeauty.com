@@ -66,8 +66,8 @@ body {
     background-color:#ba968e;
 }
 .navbar, .btn button{
-    background-image: linear-gradient(#7baf8e,#986572,#f8ddc0, #f8ddc000);
-	background: -webkit-linear-gradient(#7baf8e,#986572,#f8ddc0, #f8ddc000);
+    background-image: linear-gradient(#986572,#f8ddc0, #f8ddc000);
+	  background: -webkit-linear-gradient(#986572,#f8ddc0, #f8ddc000);
     /* background-color:#5c72ee; */
 }
 #content{
