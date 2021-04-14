@@ -4,21 +4,21 @@
             <div id="content" class="col-sm">
                 <a href="" class="field-group-link project-link d-block p-visible">
                     <div class="project-img bg">
-                        <img class="img-fluid" src="/briannabravobeauty.com/assets/img/stpatricksday.jpg" alt="st. patricks day look">
+                        <img class="img-fluid" src="/assets/img/stpatricksday.jpg" alt="st. patricks day look">
                     </div>
                 </a>
             </div>
             <div id="content" class="col-sm">
                 <a href="" class="field-group-link project-link d-block p-visible">
                     <div class="project-img bg">
-                        <img class="img-fluid" src="/briannabravobeauty.com/assets/img/headshot.jpg" alt="headshot">
+                        <img class="img-fluid" src="/assets/img/headshot.jpg" alt="headshot">
                     </div>
                 </a>
             </div>
             <div id="content" class="col-sm">
                 <a href="" class="field-group-link project-link d-block p-visible">
                     <div class="project-img bg">
-                        <img class="img-fluid" src="/briannabravobeauty.com/assets/img/simplemakeup.jpg" alt="simple makeup look">
+                        <img class="img-fluid" src="/assets/img/simplemakeup.jpg" alt="simple makeup look">
                     </div>
                 </a>
             </div>

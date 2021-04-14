@@ -26,7 +26,7 @@
 
   <div>
   <h1 class="text-center">Services I Offer</h1>
-  <p class="text-center">Please note that all services include lash application.</p>
+  <h3 class="text-center">Please note that all services include lash application.</h3>
   </div>
 </section>
 
@@ -34,7 +34,7 @@
    <h1 class="text-center"></h1>
    <div class=" container text-center">
    <div class="row">
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto ">
+      <div class="col-sm-4 container_foto ">
          <div class="ver_mas text-center">
         
          </div>
@@ -44,7 +44,7 @@
          </article>
          <img src="assets/img/simplewedding.jpg" alt="">
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
+      <div class="col-sm-4 container_foto">
          <div class="ver_mas text-center">
             <span id="click" class="lnr lnr-eye"></span>
          </div>
@@ -54,7 +54,7 @@
          </article>
          <img src="assets/img/whitebudoire.jpg" alt="">
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
+      <div class="col-sm-4 container_foto">
          <div class="ver_mas text-center">
             <span class="lnr lnr-eye"></span>
          </div>
@@ -67,7 +67,7 @@
       </div>
 
       <div class="row">
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
+      <div class="col-sm-4 container_foto">
          <div class="ver_mas text-center">
             <span id="click" class="lnr lnr-eye"></span>
          </div>
@@ -77,7 +77,7 @@
          </article>
          <img src="assets/img/simplemakeup1.jpg" alt="">
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
+      <div class="col-sm-4 container_foto">
          <div class="ver_mas text-center">
             <span id="click" class="lnr lnr-eye"></span>
          </div>
@@ -87,12 +87,12 @@
          </article>
          <img src="assets/img/reddress.jpg" alt="">
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
+      <div class="col-sm-4 container_foto">
          <div class="ver_mas text-center">
             <span id="click" class="lnr lnr-eye"></span>
          </div>
          <article class="text-left">
-            <h2>Hair & Makeup Combo<br> $120 ^</h2>
+            <h2>Hair & Makeup Combo<br> $120 +</h2>
             <h4>Depending on the complexity of what you would like prices are subject to change.</h4>
          </article>
          <img src="assets/img/stpatricksday.jpg" alt="">
@@ -109,7 +109,11 @@
         <h2>Layla</h2>
         <div class="grid">
           <figure class="effect-layla">
+<<<<<<< HEAD
+            <img src="/assets/img/purplebudoire.jpg" alt="budoire with purple details"/>
+=======
             <img src="https://tympanus.net/Development/HoverEffectIdeas/img/6.jpg" alt="img06"/>
+>>>>>>> 5e35d0d84ed46b93da15a8e161012930fda0f81c
             <figcaption>
               <h2>Crazy <span>Layla</span></h2>
               <p>When Layla appears, she brings an eternal summer along.</p>
@@ -117,7 +121,11 @@
             </figcaption>     
           </figure>
           <figure class="effect-layla">
+<<<<<<< HEAD
+            <img src="/assets/img/whitebudoire.jpg" alt="budoire with white details"/>
+=======
             <img src="whitebudoire.jpg" alt="img03"/>
+>>>>>>> 5e35d0d84ed46b93da15a8e161012930fda0f81c
             <figcaption>
               <h2> <span>Boudoir</span></h2>
               <p>embrace your inner goddess * simple hair curls or straightened $100<</p>
@@ -129,7 +137,11 @@
         <h2>Roxy</h2>
         <div class="grid">
           <figure class="effect-roxy">
+<<<<<<< HEAD
+            <img src="/assets/img/reddress.jpg" alt="look with a red dress"/>
+=======
             <img src="https://tympanus.net/Development/HoverEffectIdeas/img/15.jpg" alt="img15"/>
+>>>>>>> 5e35d0d84ed46b93da15a8e161012930fda0f81c
             <figcaption>
               <h2>Charming <span>Roxy</span></h2>
               <p>Roxy was my best friend. She'd cross any border for me.</p>
@@ -137,7 +149,11 @@
             </figcaption>     
           </figure>
           <figure class="effect-roxy">
+<<<<<<< HEAD
+            <img src="/assets/img/maternity.jpg" alt="maternity makeup photoshoot"/>
+=======
             <img src="https://tympanus.net/Development/HoverEffectIdeas/img/1.jpg" alt="img01"/>
+>>>>>>> 5e35d0d84ed46b93da15a8e161012930fda0f81c
             <figcaption>
               <h2>Charming <span>Roxy</span></h2>
               <p>Roxy was my best friend. She'd cross any border for me.</p>
@@ -150,7 +166,11 @@
         <h2>Chico</h2>
         <div class="grid">
           <figure class="effect-chico">
+<<<<<<< HEAD
+            <img src="/assets/img/simplemakeup.jpg" alt="simple makeup look"/>
+=======
             <img src="https://tympanus.net/Development/HoverEffectIdeas/img/15.jpg" alt="img15"/>
+>>>>>>> 5e35d0d84ed46b93da15a8e161012930fda0f81c
             <figcaption>
               <h2>Silly <span>Chico</span></h2>
               <p>Chico's main fear was missing the morning bus.</p>
@@ -158,7 +178,11 @@
             </figcaption>     
           </figure>
           <figure class="effect-chico">
+<<<<<<< HEAD
+            <img src="/assets/img/simplewedding.jpg" alt="simple wedding makeup"/>
+=======
             <img src="https://tympanus.net/Development/HoverEffectIdeas/img/4.jpg" alt="img04"/>
+>>>>>>> 5e35d0d84ed46b93da15a8e161012930fda0f81c
             <figcaption>
               <h2>Silly <span>Chico</span></h2>
               <p>Chico's main fear was missing the morning bus.</p>
