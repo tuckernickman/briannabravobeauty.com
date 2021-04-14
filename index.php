@@ -15,6 +15,10 @@
 
     <?php include "imggallery1.php"; ?>
 
+    <?php include "services.php"; ?>
+
+    <?php include "contactform.php";?>
+
     <?php include "footer.php"; ?>
 
 </body>
