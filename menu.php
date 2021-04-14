@@ -7,9 +7,6 @@
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
             <ul class="navbar-nav mr-auto">
-             <li class="nav-item active">
-                    <a class="nav-link active" href="index.php">Brianna Bravo Beauty</a>
-                </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="briannabravo.php">About</a>
                 </li>
