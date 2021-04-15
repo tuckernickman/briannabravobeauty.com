@@ -14,7 +14,7 @@
 
     <!--home page-->
 
-    <?php include "imggallery1.php"; ?>
+    <?php include "photoslide.php"; ?>
 
     <?php include "services.php"; ?>
 
