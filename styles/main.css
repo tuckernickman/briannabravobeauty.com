@@ -65,10 +65,11 @@ body {
     background-image:url('/assets/logo/logo2.svg');
     background-attachment: fixed;
     background-position: center;
-    background-size: cover;
+    background-size: 75%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    stroke:#7baf8e;
 }
 .btn {
     background-color:#ba968e;
