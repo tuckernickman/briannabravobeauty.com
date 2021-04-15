@@ -101,7 +101,6 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
     transition: all 0.2s ease-in;
     font-family: 'Chonburi', 'Lora', 'Oi'; 
 }
-
 p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
  .navbar-brand, .nav-link, .btn :hover {
     color:#415053;
@@ -121,7 +120,6 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
     transition: all 0.2s ease-in;
     font-family: 'Anton', 'Kumbh Sans','Train One'; 
 }
-
 figure.effect-ruby {
     background-color: #17819c;
   }
