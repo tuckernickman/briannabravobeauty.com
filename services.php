@@ -91,7 +91,7 @@
             <span id="click" class="lnr lnr-eye"></span>
          </div>
          <article class="text-left">
-            <h2>Hair & Makeup Combo<br> $120 ^</h2>
+            <h2>Hair & Makeup Combo<br> $120+</h2>
             <h4>Depending on the complexity of what you would like prices are subject to change.</h4>
          </article>
          <img src="/assets/img/stpatricksday.jpg" alt="">
