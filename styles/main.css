@@ -66,9 +66,9 @@ body {
     background-attachment: fixed;
     background-position: center;
     background-size: 75%;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    -webkit-background-size: 75%;
+    -moz-background-size: 75%;
+    -o-background-size: 75%;
     stroke:#7baf8e;
 }
 .btn {
