@@ -23,4 +23,5 @@
 	
     <!-- CSS -->
     <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" type="text/css" href="mystyles2.css">
 </head>
