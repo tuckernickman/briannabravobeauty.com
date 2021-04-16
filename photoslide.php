@@ -26,7 +26,7 @@
 <div class="carousel-container">
   <h2></h2>
   
-  <div class="carousel my-carousel carousel--translate">
+  <div class="carousel my-carousel carousel--translate col-sm">
     <ul  class="carousel my-carousel carousel--thumb">
     <input class="carousel__activator" type="radio" name="thumb" id="F" checked="checked"/>
     <input class="carousel__activator" type="radio" name="thumb" id="G"/>
