@@ -103,8 +103,9 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
     -o-transition: all 0.2s ease-in;
     -webkit-transition: all 0.2s ease-in;
     transition: all 0.2s ease-in;
-    font-family: 'Chonburi', 'Lora', 'Oi'; 
+    font-family: 'Oi', 'Chonburi', 'Lora', 'Oi'; 
 }
+
 p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
  .navbar-brand, .nav-link, .btn :hover {
     color:#415053;
