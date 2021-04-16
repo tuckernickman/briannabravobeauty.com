@@ -66,6 +66,7 @@ body {
     background-attachment: fixed;
     background-position: center;
     background-size: 75%;
+    background-repeat:no-repeat;
     -webkit-background-size: 75%;
     -moz-background-size: 75%;
     -o-background-size: 75%;
