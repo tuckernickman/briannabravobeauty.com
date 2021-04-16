@@ -1,4 +1,5 @@
 /*
+Logo Color:#547861;
 /////
 Barley Corn: #a4a457
 
@@ -62,21 +63,17 @@ body {
     margin:0;
     min-height: 100vh;
     background-color:  #E8dcbc;
-    background-image:url('/assets/logo/logo2.svg');
+    background-image:url('/assets/logo/logo2.1.svg');
     background-attachment: fixed;
     background-position: center;
-<<<<<<< HEAD
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-=======
     background-size: 75%;
     -webkit-background-size: 75%;
     -moz-background-size: 75%;
     -o-background-size: 75%;
-    padding:10vw;
->>>>>>> d3dc904915fcef44db117728f080312a6d92a3bf
+    background-repeat:no-repeat;
+    -webkit-background-size: no-repeat;
+    -moz-background-size: no-repeat;
+    -o-background-size: no-repeat;
 }
 .btn {
     background-color:#ba968e;
@@ -127,6 +124,56 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
     transition: all 0.2s ease-in;
     font-family: 'Anton', 'Kumbh Sans','Train One'; 
 }
+<<<<<<< HEAD
+=======
+figure.effect-ruby {
+    background-color: #17819c;
+  }
+  
+  figure.effect-ruby img {
+    opacity: 0.7;
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+    -webkit-transform: scale(1.15);
+    transform: scale(1.15);
+  }
+  
+  figure.effect-ruby:hover img {
+    opacity: 0.5;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+  
+  figure.effect-ruby h2 {
+    margin-top: 20%;
+    -webkit-transition: -webkit-transform 0.35s;
+    transition: transform 0.35s;
+    -webkit-transform: translate3d(0,20px,0);
+    transform: translate3d(0,20px,0);
+  }
+  
+  figure.effect-ruby p {
+    margin: 1em 0 0;
+    padding: 3em;
+    border: 1px solid #fff;
+    opacity: 0;
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+    -webkit-transform: translate3d(0,20px,0) scale(1.1);
+    transform: translate3d(0,20px,0) scale(1.1);
+  } 
+  
+  figure.effect-ruby:hover h2 {
+    -webkit-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+  }
+  
+  figure.effect-ruby:hover p {
+    opacity: 1;
+    -webkit-transform: translate3d(0,0,0) scale(1);
+    transform: translate3d(0,0,0) scale(1);
+  }
+>>>>>>> b8ff44f3caa4364e4b4f40a24756b938adc139ed
 
 
   /* footer */
@@ -176,9 +223,12 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
 
 
 
+<<<<<<< HEAD
 /*slider*/
 
 
+=======
+>>>>>>> b8ff44f3caa4364e4b4f40a24756b938adc139ed
 
 @import url("https://fonts.googleapis.com/css?family=Roboto:900");
 /**
