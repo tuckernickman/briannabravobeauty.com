@@ -7,10 +7,6 @@
 
     <?php include "header.php"; ?>
 
-    <?php include "servicesheader.php"; ?>
-
-    <?php include "contactheader.php"; ?> 
-    
 </head>
 <body>
 
@@ -22,7 +18,15 @@
 
     <?php include "photoslide.php"; ?>
 
+    <style>
+    <?php include "servicesheader.php"; ?>
+    </style>
+    
     <?php include "services.php"; ?>
+
+    <style>
+    <?php include "contactheader.php"; ?> 
+    </style>
 
     <?php include "contact2.php";?>
 
