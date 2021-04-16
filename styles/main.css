@@ -79,13 +79,13 @@ body {
     background-color:#ba968e;
 }
 .navbar, .btn button{
-    background-image: linear-gradient(#98657294,#f8ddc0b0, #f8ddc000);
-	  background: -webkit-linear-gradient(#98657294,#f8ddc0b0, #f8ddc000);
+    background-image: linear-gradient(#99667294,#f8ddc294, #f8ddc000);
+	  background: -webkit-linear-gradient(#98657294,#f8ddc294, #f8ddc000);
     /* background-color:#5c72ee; */
 }
 #content{
     display:inline-block;
-    align-content: center;
+    align-content: center;  
     text-align:center;
     padding:5, 10;
 }
