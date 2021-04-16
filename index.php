@@ -7,12 +7,18 @@
 
     <?php include "header.php"; ?>
 
+    <?php include "servicesheader.php"; ?>
+
+    <?php include "contactheader.php"; ?> 
+    
 </head>
 <body>
 
     <?php include "menu.php"; ?>
 
     <!--home page-->
+
+    <?php include "about.php"; ?>
 
     <?php include "photoslide.php"; ?>
 

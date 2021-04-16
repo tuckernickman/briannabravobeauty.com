@@ -13,7 +13,7 @@
 
         </div>
 
-        <div class="ocntact-form">
+        <div class="contact-form">
 
             <form id="contact-form" method="post" action="">
 
