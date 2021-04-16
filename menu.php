@@ -8,13 +8,13 @@
             <div class="navbar-nav">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="briannabravo.php">About</a>
+                    <a class="nav-link" href="about.php">About</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="services.php">Services</a>
+                    <a class="nav-link" href="myservices.php">Services</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="Contact.php">Contact</a>
+                    <a class="nav-link" href="contact2.php">Contact</a>
                 </li>
             </ul>
             </div>
