@@ -66,13 +66,13 @@ body {
     background-attachment: fixed;
     background-position: center;
     background-size: 75%;
+    -webkit-background-size: 75%;
+    -moz-background-size: 75%;
+    -o-background-size: 75%;
     background-repeat:no-repeat;
     -webkit-background-size: no-repeat;
     -moz-background-size: no-repeat;
     -o-background-size: no-repeat;
-    -webkit-background-size: 75%;
-    -moz-background-size: 75%;
-    -o-background-size: 75%;
 }
 .btn {
     background-color:#ba968e;
