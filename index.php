@@ -10,27 +10,9 @@
 </head>
 <body>
 
-    <?php include "menu.php"; ?>
-
-    <!--home page-->
-
-    <?php include "about.php"; ?>
-
-    <?php include "photoslide.php"; ?>
-
-    <style>
-    <?php include "servicesheader.php"; ?>
-    </style>
-    
-    <?php include "services.php"; ?>
-
-    <style>
-    <?php include "contactheader.php"; ?> 
-    </style>
-
-    <?php include "contact2.php";?>
-
-    <?php include "footer.php"; ?>
+    <a href="home.php">
+    <div>Welcome</div>
+    </a>
 
 </body>
 </html>
