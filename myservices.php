@@ -10,9 +10,7 @@
 </head>
 <body>
 
-    <a href="home.php">
-    <div>Welcome</div>
-    </a>
+    <?php include "services.php"; ?>
 
     <?php include "footer.php"; ?>
 </body>
