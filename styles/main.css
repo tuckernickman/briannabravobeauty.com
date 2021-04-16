@@ -108,7 +108,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
 p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
  .navbar-brand, .nav-link, .btn :hover {
     color:#415053;
-    text-shadow:1px 3px 30px #986572;
+    text-shadow:1px 3px 30px #9f7726;
     -moz-transition: all 0.2s ease-in;
     -o-transition: all 0.2s ease-in;
     -webkit-transition: all 0.2s ease-in;
