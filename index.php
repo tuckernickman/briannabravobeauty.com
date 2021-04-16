@@ -18,7 +18,7 @@
 
     <?php include "services.php"; ?>
 
-    <?php include "contactform.php";?>
+    <?php include "contact2.php";?>
 
     <?php include "footer.php"; ?>
 
