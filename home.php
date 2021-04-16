@@ -16,7 +16,7 @@
 
     <?php include "about.php"; ?>
 
-    <?php include "photoslide.php"; ?>
+   
 
     <a>
     <style>
@@ -26,7 +26,7 @@
     <?php include "services.php"; ?>
     </a>
 
-    <a>
+    <a style="text-decoration: none">
     <style>
     <?php include "contactheader.php"; ?> 
     </style>
