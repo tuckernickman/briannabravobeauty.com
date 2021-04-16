@@ -62,16 +62,14 @@ body {
     margin:0;
     min-height: 100vh;
     background-color:  #E8dcbc;
-}
-.logo {
-  background-image:url('/assets/logo/logo2.svg');
-  background-attachment: fixed;
-  background-position: center;
-  background-size: 75%;
-  -webkit-background-size: 75%;
-  -moz-background-size: 75%;
-  -o-background-size: 75%;
-  padding:10vw;
+    background-image:url('/assets/logo/logo2.svg');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 75%;
+    -webkit-background-size: 75%;
+    -moz-background-size: 75%;
+    -o-background-size: 75%;
+    padding:10vw;
 }
 .btn {
     background-color:#ba968e;

@@ -9,20 +9,18 @@
 
 </head>
 <body>
-    <div class="logo">
 
-        <?php include "menu.php"; ?>
+    <?php include "menu.php"; ?>
 
-        <!--home page-->
+    <!--home page-->
 
-        <?php include "photoslide.php"; ?>
+    <?php include "photoslide.php"; ?>
 
-        <?php include "services.php"; ?>
+    <?php include "services.php"; ?>
 
-        <?php include "contactform.php";?>
+    <?php include "contactform.php";?>
 
-        <?php include "footer.php"; ?>
+    <?php include "footer.php"; ?>
 
-    </div>
 </body>
 </html>
