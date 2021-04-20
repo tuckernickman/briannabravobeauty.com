@@ -27,12 +27,15 @@
  
   
   <div class="carousel my-carousel carousel--translate">
+  
     <ul  class="carousel my-carousel carousel--thumb">
+      
     <input class="carousel__activator" type="radio" name="thumb" id="F" checked="checked"/>
     <input class="carousel__activator" type="radio" name="thumb" id="G"/>
     <input class="carousel__activator" type="radio" name="thumb" id="H"/>
     <input class="carousel__activator" type="radio" name="thumb" id="I"/>
     <input class="carousel__activator" type="radio" name="thumb" id="J"/>
+
     <div class="carousel__controls">
       <label class="carousel__control carousel__control--backward" for="J"></label>
       <label class="carousel__control carousel__control--forward" for="G"></label>
@@ -53,6 +56,7 @@
       <label class="carousel__control carousel__control--backward" for="I"></label>
       <label class="carousel__control carousel__control--forward" for="F"></label>
     </div>
+
     <div class="carousel__track">
       <li class="carousel__slide">
         <h1></h1>
@@ -70,6 +74,7 @@
         <h1></h1>
       </li>
     </div>
+
     <div class="carousel__indicators">
       <label class="carousel__indicator" for="F"></label>
       <label class="carousel__indicator" for="G"></label>
@@ -77,7 +82,8 @@
       <label class="carousel__indicator" for="I"></label>
       <label class="carousel__indicator" for="J"></label>
     </div>
-</ul>
+
+    </ul>
 </div>
 </div>
 <!--
