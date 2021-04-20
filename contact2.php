@@ -5,26 +5,26 @@
 
     <body>
 
-        <div>
+        <div class="col-sm">
 
             <h1>Contact Form</h1>
             <h2>Fill out this form to contact me</h2>
 
         </div>
 
-        <div class="contact-form">
+        <div class="col-sm contact-form">
 
-            <form id="contact-form" method="post" action="">
+            <form id="contact-form" class="col-sm" method="post" action="">
 
-            <input name="name" type="text" class="form-control" placeholder="Your Name" required><br>
+            <input name="name" type="text" class="col-sm form-control" placeholder="Your Name" required><br>
             
-            <input name="phone" type="phone" class="form-control" placeholder="Your Phone" required><br>
+            <input name="phone" type="phone" class="col-sm form-control" placeholder="Your Phone" required><br>
 
-            <input name="email" type="email" class="form-control" placeholder="Your Email" required><br>
+            <input name="email" type="email" class="col-sm form-control" placeholder="Your Email" required><br>
             
-            <textarea name="message" class="form-control" placeholder="Message" rows="4" require></textarea><br>
+            <textarea name="message" class="col-sm form-control" placeholder="Message" rows="4" require></textarea><br>
 
-            <input type="submit" class="form-control submit" value="SEND MESSAGE">
+            <input type="submit" class="col-sm form-control submit" value="SEND MESSAGE">
 
             </form>
         </div> 
