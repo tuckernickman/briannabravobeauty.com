@@ -13,11 +13,8 @@
     <?php include "menu.php"; ?>
 
     <!--home page-->
-    <a href="about.php">
+    
     <?php include "about.php"; ?>
-    </a>
-
-   
 
     <a href="services.php" style="text-decoration: none">
     <style>
@@ -28,13 +25,11 @@
     </a>
     <?php include "photoslide.php"; ?>
 
-    <a style="text-decoration: none">
     <style>
     <?php include "contactheader.php"; ?> 
     </style>
     
     <?php include "contact2.php";?>
-    </a>
 
     <?php include "footer.php"; ?>
 
