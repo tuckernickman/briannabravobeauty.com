@@ -30,7 +30,7 @@ form{
     border: none;
     outline: none;
     border-bottom: 1px solid gray;
-    color: #fff;
+    /* color: #fff; */
     font-size: 18px;
     margin-bottom: 16px;
 }
@@ -42,13 +42,14 @@ input{
 form .submit{
     background: blanchedalmond;
     border-color: transparent;
-    color: #fff;
+    /* color: #fff; */
     font-size: 20px;
     font-weight: bold;
     letter-spacing: 2px;
     height: 50px;
     margin-top: 20px;
 }
+
 form .submit:hover{
     background-color: #b30b67;
     cursor: pointer;
