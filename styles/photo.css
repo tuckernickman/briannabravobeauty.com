@@ -2,7 +2,6 @@
 /**
   * style variables
 */
-
 /**
   * Control & indicator mixin
 */
@@ -217,7 +216,12 @@
   box-sizing: border-box;
 }
 html,
-
+body {
+  background-color: #111;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  color: #fff;
+}
 .carousel-container {
   display: inline-block;
 }
@@ -232,10 +236,25 @@ html,
   height: 30px;
   width: 30px;
 }
-
+h1 {
+  font-size: 50px;
+  line-height: 50px;
+  color: #fafafa;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  margin-top: -25px;
+}
+h2,
+h3 {
+  color: #fafafa;
+}
+h3 {
+  font-size: 50px;
+}
 .carousel__indicator {
   background-color: #fafafa;
-  position: absolute;
 }
 .carousel__slide:nth-of-type(1),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(1) {
@@ -259,7 +278,7 @@ html,
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(4) {
   background-image: url("/assets/img/headshot.jpg");
   background-size: cover;
-  background-position: justify;
+  background-position: center;
 }
 .carousel__slide:nth-of-type(5),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(5) {

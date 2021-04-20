@@ -17,7 +17,7 @@
     <?php include "about.php"; ?>
     </a>
 
-    <?php include "photoslide.php"; ?>
+   
 
     <a href="services.php">
     <style>
@@ -27,7 +27,11 @@
     <?php include "services.php"; ?>
     </a>
 
+<<<<<<< HEAD
+    <a style="text-decoration: none">
+=======
     <a href="contact2">
+>>>>>>> 03ac5c947763f9c6f606b9fa8ec0baaf2e141b6d
     <style>
     <?php include "contactheader.php"; ?> 
     </style>
