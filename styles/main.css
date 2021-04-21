@@ -138,7 +138,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
 
 }
 
-.footer a { 
+.footer, .footer-links a { 
   color:#f8ddc0;
   text-decoration: none;
 }

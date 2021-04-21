@@ -4,7 +4,7 @@
 <section>
     <div class="container">
         <div class="row">
-            <div class="col-xs-6 col-md-3">
+            <div class="col-md-8 col-sm-6 col-xs-12">
                 <h6>Quick Links</h6>
                 <ul class="footer-links">
                     <li><a href="home.php">Home</a></li>
@@ -13,13 +13,6 @@
                     <li><a href="Contact.php">Contact</a></li>
                 </ul>
             </div>
-        </div>
-    </div>
-</section>
-
-<section>
-    <div class="container">
-        <div class="row">
             <div class="col-md-8 col-sm-6 col-xs-12">
                 <p> Copyright &copy; 
                     <?php echo date("Y"); ?> 
