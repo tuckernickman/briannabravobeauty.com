@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
-    integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+     integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" integrity="sha256-46qynGAkLSFpVbEBog43gvNhfrOj+BmwXdxFgVK/Kvc=" crossorigin="anonymous" />  
    <link rel="stylesheet" href="/styles/briannastyle.css">
@@ -32,11 +32,11 @@
 </div>
 </section>
 
-<div id="content" class="container-fluid contenedor text-center">
+<div class="container-fluid contenedor text-center">
    <h1 class="text-center"></h1>
    <div class=" container text-center">
    <div class="row">
-      <div id="content" class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto ">
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto ">
          <div class="ver_mas text-center">
         
          </div>
@@ -46,7 +46,7 @@
          </article>
          <img src="/assets/img/simplewedding.jpg" alt="">
       </div>
-      <div id="content" class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
          <div class="ver_mas text-center">
             <span id="click" class="lnr lnr-eye"></span>
          </div>
@@ -56,7 +56,7 @@
          </article>
          <img src="/assets/img/whitebudoire.jpg" alt="">
       </div>
-      <div id="content" class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
          <div class="ver_mas text-center">
             <span class="lnr lnr-eye"></span>
          </div>
@@ -68,8 +68,8 @@
       </div>
       </div>
 
-      <div id="content" class="row">
-      <div id="content" class="col-lg-3 col-md-4 col-sm-8 col-xs-12 container_foto">
+      <div class="row">
+      <div class="col-lg-3 col-md-4 col-sm-8 col-xs-12 container_foto">
          <div class="ver_mas text-center">
             <span  class="lnr lnr-eye"></span>
          </div>
@@ -79,7 +79,7 @@
          </article>
          <img src="/assets/img/simplemakeup1.jpg" alt="">
       </div>
-      <div id="content" class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
          <div class="ver_mas text-center">
             <span  class="lnr lnr-eye"></span>
          </div>
@@ -89,7 +89,7 @@
          </article>
          <img src="/assets/img/reddress.jpg" alt="">
       </div>
-      <div id="content" class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
          <div class="ver_mas text-center">
             <span  class="lnr lnr-eye"></span>
          </div>

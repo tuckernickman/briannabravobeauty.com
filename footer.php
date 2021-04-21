@@ -5,7 +5,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-sm-6 col-xs-12">
-                <h6>Quick Links</h6>
+                <h6 class="footer" >Quick Links</h6>
                 <ul class="social-list">
                     <li class="social-list__item"><a href="home.php">Home</a></li>
                     <li class="social-list__item"><a href="about.php">About</a></li>
