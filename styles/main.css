@@ -103,7 +103,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
     -o-transition: all 0.2s ease-in;
     -webkit-transition: all 0.2s ease-in;
     transition: all 0.2s ease-in;
-    font-family: 'Oi', 'Chonburi', 'Lora', 'Oi'; 
+    font-family: 'Kumbh Sans', 'Anton', 'Train One'; 
 }
 
 p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
@@ -138,7 +138,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
 
 }
 
-.footer a { 
+.footer, .footer-links a { 
   color:#f8ddc0;
   text-decoration: none;
 }
@@ -173,8 +173,8 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
 }
 
 /* Contact Form */
-
-form{
+/* 
+form {
   margin-top: 50px;
   transition: all 4s ease-in-out;
 }
@@ -184,7 +184,6 @@ form{
   border: none;
   outline: none;
   border-bottom: 1px solid gray;
-  /* color: #fff; */
   font-size: 18px;
   margin-bottom: 16px;
 }
@@ -196,7 +195,6 @@ input{
 form .submit{
   background: #ba968e;
   border-color: transparent;
-  /* color: #fff; */
   font-size: 20px;
   font-weight: bold;
   letter-spacing: 2px;
@@ -206,4 +204,4 @@ form .submit{
 form .submit:hover{
   background-color: #986572;
   cursor: pointer;
-}
+} */

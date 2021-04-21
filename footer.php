@@ -1,29 +1,48 @@
 <footer class="footer"> 
-<section>
-    <a href="mailto:bribravobeauty@gmail.com" class="footer__link">brianna@briannabravobeauty.com</a>
-    <link rel="stylesheet" href="styles/main.css">
+<link rel="stylesheet" href="styles/main.css">
 
-        <ul class="social-list">
-            
-            
-            <li class="social-list__item">
-                <a class="social-list__link" href="https://twitter.com">
-                    <i class="fab fa-twitter"></i>
-                </a>
-            </li>
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-sm-6 col-xs-12">
+                <h6>Quick Links</h6>
+                <ul class="footer-links">
+                    <li><a href="home.php">Home</a></li>
+                    <li><a href="about.php">About</a></li>
+                    <li><a href="myservices.php">Services</a></li>
+                    <li><a href="Contact.php">Contact</a></li>
+                </ul>
+            </div>
+            <div class="col-md-8 col-sm-6 col-xs-12">
+                <p> Copyright &copy; 
+                    <?php echo date("Y"); ?> 
+                    <a href="#">Brianna Bravo Beauty</a> 
+                </p>
+            </div>
+            <div class="col-md-8 col-sm-6 col-xs-12">
+                <a href="mailto:bribravobeauty@gmail.com" class="footer__link">brianna@briannabravobeauty.com</a>
+                <ul class="social-list">   
+                <li class="social-list__item">
+                    <a class="social-list__link" href="https://twitter.com">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                </li>
            
-            <li class="social-list__item">
-                <a class="social-list__social-link" href="https://www.facebook.com" target="_blank">
-                    <i class="fab fa-facebook"></i>
-                </a>
-            </li>
+                <li class="social-list__item">
+                    <a class="social-list__social-link" href="https://www.facebook.com" target="_blank">
+                        <i class="fab fa-facebook"></i>
+                    </a>
+                </li>
         
-            <li class="social-list__item">
-                <a class="social-list__social-link" href="https://www.instagram.com" target="_blank">
-                    <i class="fab fa-instagram"></i>
-                </a>
-            </li>
-        </ul>
+                <li class="social-list__item">
+                    <a class="social-list__social-link" href="https://www.instagram.com/barefootbeautybybri/" target="_blank">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                </li>
+            </ul>
+            </div>
+        </div>
+    </div>
     </section>
     </footer>
 
