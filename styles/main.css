@@ -173,7 +173,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
 }
 
 /* Contact Form */
-
+/* 
 form {
   margin-top: 50px;
   transition: all 4s ease-in-out;
@@ -204,4 +204,4 @@ form .submit{
 form .submit:hover{
   background-color: #986572;
   cursor: pointer;
-}
+} */
