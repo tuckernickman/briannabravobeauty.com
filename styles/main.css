@@ -135,7 +135,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
   text-align: center;
   padding: 2.5em 0;
   font-size: var(--fs-h3);
-
+  
 }
 
 .footer, .footer-links a { 
