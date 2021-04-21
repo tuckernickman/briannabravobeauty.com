@@ -103,7 +103,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
     -o-transition: all 0.2s ease-in;
     -webkit-transition: all 0.2s ease-in;
     transition: all 0.2s ease-in;
-    font-family: 'Anton', 'Kumbh Sans','Train One'; 
+    font-family: 'Kumbh Sans', 'Anton', 'Train One'; 
 }
 
 p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
