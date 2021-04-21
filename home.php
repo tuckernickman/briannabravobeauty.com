@@ -24,7 +24,11 @@
     
     <?php include "services.php"; ?>
     
+<<<<<<< HEAD
     
+=======
+    <?php include "photoslide.php"; ?>
+>>>>>>> 433c07952f6baf489f6fe857f28f3dc2410eee22
 
     <style>
     <?php include "contactheader.php"; ?> 
