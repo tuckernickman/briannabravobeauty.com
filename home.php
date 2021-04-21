@@ -16,14 +16,13 @@
     
     <?php include "about.php"; ?>
 
-    <a href="services.php" style="text-decoration: none">
+    <?php include "photoslide.php"; ?>
+
     <style>
     <?php include "servicesheader.php"; ?>
     </style>
     
     <?php include "services.php"; ?>
-    </a>
-    <?php include "photoslide.php"; ?>
 
     <style>
     <?php include "contactheader.php"; ?> 
