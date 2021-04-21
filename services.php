@@ -29,11 +29,11 @@
   </div>
 </section>
 
-<div class="container-fluid contenedor text-center">
+<div id="content" class="container-fluid contenedor text-center">
    <h1 class="text-center"></h1>
    <div class=" container text-center">
    <div class="row">
-      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto ">
+      <div id="content" class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto ">
          <div class="ver_mas text-center">
         
          </div>
@@ -43,7 +43,7 @@
          </article>
          <img src="/assets/img/simplewedding.jpg" alt="">
       </div>
-      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
+      <div id="content" class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
          <div class="ver_mas text-center">
             <span id="click" class="lnr lnr-eye"></span>
          </div>
@@ -53,7 +53,7 @@
          </article>
          <img src="/assets/img/whitebudoire.jpg" alt="">
       </div>
-      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
+      <div id="content" class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
          <div class="ver_mas text-center">
             <span class="lnr lnr-eye"></span>
          </div>
@@ -65,8 +65,8 @@
       </div>
       </div>
 
-      <div class="row">
-      <div class="col-lg-3 col-md-4 col-sm-8 col-xs-12 container_foto">
+      <div id="content" class="row">
+      <div id="content" class="col-lg-3 col-md-4 col-sm-8 col-xs-12 container_foto">
          <div class="ver_mas text-center">
             <span  class="lnr lnr-eye"></span>
          </div>
@@ -76,7 +76,7 @@
          </article>
          <img src="/assets/img/simplemakeup1.jpg" alt="">
       </div>
-      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
+      <div id="content" class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
          <div class="ver_mas text-center">
             <span  class="lnr lnr-eye"></span>
          </div>
@@ -86,7 +86,7 @@
          </article>
          <img src="/assets/img/reddress.jpg" alt="">
       </div>
-      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
+      <div id="content" class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
          <div class="ver_mas text-center">
             <span  class="lnr lnr-eye"></span>
          </div>
