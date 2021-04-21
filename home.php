@@ -16,7 +16,7 @@
     
     <?php include "about.php"; ?>
 
-<?php include "photoslide.php"; ?>
+    <?php include "photoslide.php"; ?>
 
     <style>
     <?php include "servicesheader.php"; ?>

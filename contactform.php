@@ -1,3 +1,5 @@
+<!-- Rachel's contact form - not currently being used -->
+
 <?php
 		$nameErr = $emailErr = $yesnoRadioErr = "";
 		$name = $email = $yesnoRadio = $comment = "";

@@ -6,6 +6,7 @@
     <title>Brianna Bravo Beauty</title>
 
     <?php include "header.php"; ?>
+    <?php include "servicesheader.php"; ?>
 
 </head>
 <body>

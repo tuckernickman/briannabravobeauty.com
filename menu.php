@@ -8,7 +8,7 @@
             <div class="navbar-nav">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="about.php">About</a>
+                    <a class="nav-link" href="aboutme.php">About</a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="myservices.php">Services</a>
