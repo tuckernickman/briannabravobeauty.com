@@ -23,6 +23,8 @@
 	
     <!-- CSS -->
     
-    <!-- <link rel="stylesheet" href="main.css">
-    <link rel="stylesheet" type="text/css" href="mystyles2.css"> -->
+    <link rel="stylesheet" type="text/css" href="/styles/main.css">
+    <link rel="stylesheet" type="text/css" href="/styles/briannastyle.css">
+    <link rel="stylesheet" type="text/css" href="/styles/mystyles2.css">
+    <link rel="stylesheet" type="text/css" href="/styles/photo.css">
 </head>
