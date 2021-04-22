@@ -5,14 +5,14 @@
 
     <body>
 
-        <div id="content" class="col-sm">
+        <div class="col-sm">
 
             <h1 class="col-sm">Contact Form</h1>
             <h2 class="col-sm">Fill out this form to contact me</h2>
 
         </div>
 
-        <div id="content" class="col-sm contact-form">
+        <div class="col-sm contact-form">
 
             <form id="contact-form" class="col-sm" method="post" action="">
 
