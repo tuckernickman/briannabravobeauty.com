@@ -59,6 +59,12 @@ a {
     padding:0;
     margin:0;
 }
+
+a:hover {
+  color:none;
+  text-decoration:none;
+}
+
 body {
     margin:0;
     min-height: 100vh;
