@@ -16,12 +16,12 @@
     
     <?php include "about.php"; ?>
 
-<?php include "carousel02.php"; ?>
+    <?php include "photoslide.php"; ?>
 
     <style>
     <?php include "servicesheader.php"; ?>
     <?php include "services.php"; ?>
-   
+    </style>
 
 
     <style>

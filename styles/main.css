@@ -58,11 +58,13 @@ filter: blur(4px);
 a {
     padding:0;
     margin:0;
+    list-style-type:none
 }
 
 a:hover {
   padding:0;
   margin:0;
+  list-style-type:none
 }
 
 body {
