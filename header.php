@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="styles/briannastyle.css">
     <link rel="icon" href="/assets/logo/logo2.svg" type="image/icon type">
     
+    <title>Brianna Bravo Beauty</title>
    
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
     integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
@@ -36,4 +37,6 @@
     <link rel="stylesheet" type="text/css" href="/styles/mystyles2.css">
     <link rel="stylesheet" type="text/css" href="/styles/photo.css">
     <link rel="stylesheet" href="/styles/carousel02.css">
+    
+    
 </head>
