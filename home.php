@@ -20,6 +20,7 @@
 
     <style>
     <?php include "servicesheader.php"; ?>
+    </style
     <?php include "services.php"; ?>
    
 
