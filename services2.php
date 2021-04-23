@@ -22,20 +22,18 @@
 </head>
 
 <body>
-   <div class='container'>
 <section class="intro_services">
   <div class="transbox">
-  <h2><strong>Services I Offer</strong></h2>
+  <h1><strong>Services I Offer</strong></h1>
  <p >
   <h3>Please note that all services include lash application.</h3>
   <h3>I also offer hourly lessons, please email me with any inquiries. </h3>
 </p> 
 </div>
-</div>
 </section>
 
 <div class="container-fluid contenedor text-center">
-   
+   <h1 class="text-center"></h1>
    <div class=" container text-center">
    <div class="row">
       <div class="col container_foto ">
@@ -71,7 +69,7 @@
       </div>
 
       <div class="row">
-      <div class="col container_foto">
+      <div class="col-lg-3 col-md-4 col-sm-8 col-xs-12 container_foto">
          <div class="ver_mas text-center">
             <span  class="lnr lnr-eye"></span>
          </div>
@@ -81,7 +79,7 @@
          </article>
          <img src="/assets/img/simplemakeup1.jpg" alt="">
       </div>
-      <div class="col container_foto">
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
          <div class="ver_mas text-center">
             <span  class="lnr lnr-eye"></span>
          </div>
@@ -91,7 +89,7 @@
          </article>
          <img src="/assets/img/reddress.jpg" alt="">
       </div>
-      <div class="col container_foto">
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
          <div class="ver_mas text-center">
             <span  class="lnr lnr-eye"></span>
          </div>

@@ -6,14 +6,15 @@
   * Control & indicator mixin
 */
 .carousel {
-  height: 500px;
-  width: 800px;
+  height: 50vh;
+  width: 100vw;
   overflow: hidden;
   text-align: center;
   position: relative;
   padding: 0;
+  margin: auto;
   list-style: none;
-  
+  align-content: center;
 /**
   * Where the magic happens
   */
@@ -207,7 +208,7 @@
 .carousel__slide {
   height: 100%;
   position: absolute;
-  overflow-y: auto;
+  /* overflow-y: auto; */
   opacity: 0;
 }
 /**
@@ -221,10 +222,10 @@ html,
 .carousel-container {
   display: inline-block;
 }
-.my-carousel {
+/* .my-carousel {
   border-radius: 5px;
   margin: 30px;
-}
+} */
 .carousel__slide {
   overflow: hidden;
 }
@@ -232,16 +233,7 @@ html,
   height: 30px;
   width: 30px;
 }
-h1 {
-  font-size: 50px;
-  line-height: 50px;
-  color: #fafafa;
-  position: absolute;
-  top: 50%;
-  width: 100%;
-  text-align: center;
-  margin-top: -25px;
-}
+
 h2,
 h3 {
   color: #fafafa;
@@ -254,31 +246,31 @@ h3 {
 }
 .carousel__slide:nth-of-type(1),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(1) {
-  background-image: url("/assets/img/blacklace.jpg");
+  background-image: url("../assets/img/blacklace.jpg");
   background-size: cover;
   background-position: center;
 }
 .carousel__slide:nth-of-type(2),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(2) {
-  background-image: url("/assets/img/bridal.jpg");
+  background-image: url("../assets/img/bridal.jpg");
   background-size: cover;
   background-position: center;
 }
 .carousel__slide:nth-of-type(3),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(3) {
-  background-image: url("/assets/img/purplebudoire.jpg");
+  background-image: url("../assets/img/purplebudoire.jpg");
   background-size: cover;
   background-position: justify;
 }
 .carousel__slide:nth-of-type(4),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(4) {
-  background-image: url("/assets/img/headshot.jpg");
+  background-image: url("../assets/img/headshot.jpg");
   background-size: cover;
   background-position: center;
 }
 .carousel__slide:nth-of-type(5),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(5) {
-  background-image: url("/assets/img/whitebudoire.jpg");
+  background-image: url("../assets/img/whitebudoire.jpg");
   background-size: cover;
   background-position: justify;
 }
