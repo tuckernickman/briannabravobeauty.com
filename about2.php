@@ -48,14 +48,19 @@
 <style>
   
   .pat{margin-bottom: 5%;
-    font-size: 300%;
+    font-size: 200%;
     text-align: center;
    }
-  
+  .sat{
+  margin: 5%;
+  background: linear-gradient(#ffffff, #ffe8d6);
+  box-shadow: rgb(79, 114, 114);
+
+}
 </style> 
 
-
 </head>
+
 <body>
     
   <section> 
@@ -68,9 +73,9 @@
                     </div>
                 </a>
             </div>
-            <div id="content" class="col-sm">
+            <div id="content" class="sat">
                 <h1>Hey dollface!</h1>
-    <h1>  
+    <h1 class="pat">  
         I est​ablished my little business in 2018 based on my love for not only makeup, but the way I felt in it.
         I'm a HMUA who specializes in boudoir and bridal.
         I'm all about pushing the world's expectations of us as womxn.
