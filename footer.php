@@ -2,9 +2,9 @@
 <link rel="stylesheet" href="styles/main.css">
 
 <section>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8 col-sm-6 col-xs-12">
+    <div class="container social-list">
+        <div class="row social-list">
+            <div class="col-md-8 col-sm-6 col-xs-12 col-12">
                 <h6 class="footer" >Quick Links</h6>
                 <ul class="social-list">
                     <li class="social-list__item"><a href="home.php">Home</a></li>
@@ -13,17 +13,21 @@
                     <li class="social-list__item"><a href="Contact.php">Contact</a></li>
                 </ul>
             </div>
-            <div class="col-md-8 col-sm-6 col-xs-12">
-                <p class="footer"> Pushing the world's expectations of us as womxn!
-                </p>
-            </div>
-            <div class="col-md-8 col-sm-6 col-xs-12">
+            <div class="col-md-8 col-sm-6 col-xs-12 col-12">
                 <p class="footer"> Copyright &copy; 
                     <?php echo date("Y"); ?> 
                     <a href="#">Brianna Bravo Beauty</a> 
                 </p>
             </div>
-            <div class="col-md-8 col-sm-6 col-xs-12">
+        </div>
+    </div>
+    <div class="container social-list">
+        <div class="row social-list">
+            <div class="col-md-8 col-sm-6 col-xs-12 col-12">
+                <p class="footer"> Pushing the world's expectations of us as womxn!
+                </p>
+            </div>
+            <div class="col-md-8 col-sm-6 col-xs-12 col-12">
                 <a href="mailto:bribravobeauty@gmail.com" class="footer__link">brianna@briannabravobeauty.com</a>
                 <ul class="social-list">   
                 <li class="social-list__item">
@@ -33,7 +37,7 @@
                 </li>
            
                 <li class="social-list__item">
-                    <a class="social-list__social-link" href="https://www.facebook.com" target="_blank">
+                    <a class="social-list__social-link" href="https://www.facebook.com/bri.briannabeauty" target="_blank">
                         <i class="fab fa-facebook"></i>
                     </a>
                 </li>
