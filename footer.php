@@ -14,13 +14,16 @@
                 </ul>
             </div>
             <div class="col-md-8 col-sm-6 col-xs-12">
-                <p class="footer"> Pushing the world's expectations of us as womxn!
-                </p>
-            </div>
-            <div class="col-md-8 col-sm-6 col-xs-12">
                 <p class="footer"> Copyright &copy; 
                     <?php echo date("Y"); ?> 
                     <a href="#">Brianna Bravo Beauty</a> 
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-8 col-sm-6 col-xs-12">
+                <p class="footer"> Pushing the world's expectations of us as womxn!
                 </p>
             </div>
             <div class="col-md-8 col-sm-6 col-xs-12">
