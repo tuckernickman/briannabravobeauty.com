@@ -36,7 +36,7 @@
                 </li>
            
                 <li class="social-list__item">
-                    <a class="social-list__social-link" href="https://www.facebook.com" target="_blank">
+                    <a class="social-list__social-link" href="https://www.facebook.com/bri.briannabeauty" target="_blank">
                         <i class="fab fa-facebook"></i>
                     </a>
                 </li>
