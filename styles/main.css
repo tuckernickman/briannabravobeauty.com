@@ -102,12 +102,43 @@ body {
     padding: 5, 10;
 }
 
-p, a, label, input, textarea, td, th, h4, h2, h1, h3, h5, h6, header, div {
+h1 {
+  background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
+  background-size: cover;
+  color: transparent;
+  -moz-background-clip: text;
+  -webkit-background-clip: text;
+  text-transform: uppercase;
+  /* font-size: 120px; */
+  line-height: .75;
+  margin: 10px 0;
+}
+/* styling my button */
+
+.white-mode {
+  text-decoration: none;
+  padding: 7px 10px;
+  background-color: #122;
+  border-radius: 3px;
+  color: #FFF;
+  transition: .35s ease-in-out;
+  position: absolute;
+  left: 15px;
+  bottom: 15px;
+  font-family: "Montserrat";
+}
+
+.white-mode:hover {
+  background-color: #FFF;
+  color: #122;
+}
+
+p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
     text-align:center;
     padding: 10px;
 }
 
-p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
+p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
  .navbar-brand, .nav-link, .btn{
     background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
     background-size: cover;
@@ -123,7 +154,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
     font-family: 'Kumbh Sans', 'Anton', 'Train One'; 
 }
 
-p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
+p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
  .navbar-brand, .nav-link, .btn :hover {
     color:#f8ddc0;
     text-shadow:1px 3px 30px #986572;
