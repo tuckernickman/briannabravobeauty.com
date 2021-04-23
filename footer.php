@@ -31,7 +31,7 @@
                 <a href="mailto:bribravobeauty@gmail.com" class="footer__link">brianna@briannabravobeauty.com</a>
                 <ul class="social-list">   
                 <li class="social-list__item">
-                    <a class="social-list__link" href="https://twitter.com">
+                    <a class="social-list__social-link" href="https://twitter.com">
                         <i class="fab fa-twitter"></i>
                     </a>
                 </li>
