@@ -20,18 +20,15 @@
 
     <style>
     <?php include "servicesheader.php"; ?>
-    </style>
-    
     <?php include "services.php"; ?>
    
 
 
     <style>
     <?php include "contactheader.php"; ?> 
+    <?php include "contact2.php";?>
     </style>
     
-    <?php include "contact2.php";?>
-
     <?php include "footer.php"; ?>
 
 </body>

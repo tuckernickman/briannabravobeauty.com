@@ -11,7 +11,7 @@
 <body>
 
     <a href="home.php">
-    <div>Welcome</div>
+    <div class="col-sm">Welcome</div>
     </a>
 
 </body>
