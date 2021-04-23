@@ -11,6 +11,7 @@
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
     integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
   </script>
+   <script src="/js/carousel02.js"></script>
 
     <!-- fontawesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" integrity="sha256-46qynGAkLSFpVbEBog43gvNhfrOj+BmwXdxFgVK/Kvc=" crossorigin="anonymous" />
@@ -34,4 +35,5 @@
     <link rel="stylesheet" type="text/css" href="/styles/briannastyle.css">
     <link rel="stylesheet" type="text/css" href="/styles/mystyles2.css">
     <link rel="stylesheet" type="text/css" href="/styles/photo.css">
+    <link rel="stylesheet" href="/styles/carousel02.css">
 </head>
