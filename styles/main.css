@@ -61,8 +61,9 @@ a {
 }
 
 a:hover {
-  color:none;
-  text-decoration:none;
+  padding:0;
+  margin:0;
+  text-decoration: none;
 }
 
 body {
@@ -116,7 +117,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
 p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
  .navbar-brand, .nav-link, .btn :hover {
     color:#415053;
-    text-shadow:1px 3px 30px #9f7726;
+    text-shadow:1px 3px 30px #f8ddc0;
     -moz-transition: all 0.2s ease-in;
     -o-transition: all 0.2s ease-in;
     -webkit-transition: all 0.2s ease-in;
@@ -138,7 +139,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
 
 .footer {
   background:#986572;
-  color:#f8ddc0 ;
+  color:#f8ddc0;
   text-align: center;
   padding: .5em 0;
   font-size: var(--fs-h3);
