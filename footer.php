@@ -14,10 +14,10 @@
                 </ul>
             </div>
             <div class="col-md-6 col-sm-4 col-xs-4 col-4">
-                <p class="footer"> Copyright &copy; 
+                <h6 class="footer"> Copyright &copy; 
                     <?php echo date("Y"); ?> 
                     <a href="#">Brianna Bravo Beauty</a> 
-                </p>
+                </h6>
             </div>
         </div>
     </div>
