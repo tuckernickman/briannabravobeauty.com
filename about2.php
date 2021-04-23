@@ -1,8 +1,7 @@
-<!-- About - Working Draft -->
-
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
     integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" integrity="sha256-46qynGAkLSFpVbEBog43gvNhfrOj+BmwXdxFgVK/Kvc=" crossorigin="anonymous" />  
@@ -22,34 +21,44 @@
 <link rel="stylesheet" href="main.css">
 <link rel="stylesheet" type="text/css" href="mystyles2.css">
 
-<div class=navmenu>
-    <nav class="navbar fixed-top navbar-dark bg-dark">
-    <a class="navbar-brand" href="index.php"><img class="logo"       
-         src="images/logo.jpg"></a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<nav class="navbar navbar-expand-lg navbar-light">
+  <div class="container-fluid" id="grad">
+    <a class="navbar-brand" href="index.php">Brianna Bravo Beauty</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
       <ul class="navbar-nav mr-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
-        </li> <li class="nav-item">
-          <a class="nav-link" href="About.php">About</a>
-        </li> 
-       <li class="nav-item">
-          <a class="nav-link" href="Testimonials.php">Testimonials</a>
-        </li> 
-        <li class="nav-item">
-          <a class="nav-link" href="Contact.php">Contact</a>
-        </li> 
+          <li class="nav-item active">
+              <a class="nav-link" href="about.php">About</a>
+          </li>
+          <li class="nav-item active">
+              <a class="nav-link" href="myservices.php">Services</a>
+          </li>
+          <li class="nav-item active">
+              <a class="nav-link" href="Contact.php">Contact</a>
+          </li>
+      </ul>
       </div>
-      </nav> 
-      </div>
+    </div>
+  </div>
+</nav>
+
+<style>
+  
+  .pat{margin-bottom: 5%;
+    font-size: 300%;
+    text-align: center;
+   }
+  
+</style> 
 
 
 </head>
 <body>
-    <section> 
+    
+  <section> 
     <div class="col section-content perspective">
         <h2>Brianna Bravo Beauty</h2>
             <div id="content" class="col-sm">
@@ -60,16 +69,16 @@
                 </a>
             </div>
             <div id="content" class="col-sm">
-                <h1 class="pat">Hey dollface!</h1>
-    <h6> 
-        <br>I est​ablished my little business in 2018 based on my love for not only makeup, but the way I felt in it.</br>
-        <br>I'm a HMUA who specializes in boudoir and bridal.</br>
-        <br>I'm all about pushing the world's expectations of us as womxn.</br>
-        <br>They expect us to be perfect, perfect body, perfect skin, perfect values.</br> 
-        <br>If you're a mom, you have to be a good mom, but be hot. Be natural, but your natural needs to be flawless.</br>
-        <br>Honey, believe me when I tell you... you are worth so much more than expectations.</br> 
-        <br>Check out my pricing and feel free to contact me with any questions!</br>
-    </h6>
+                <h1>Hey dollface!</h1>
+    <h1>  
+        I est​ablished my little business in 2018 based on my love for not only makeup, but the way I felt in it.
+        I'm a HMUA who specializes in boudoir and bridal.
+        I'm all about pushing the world's expectations of us as womxn.
+        They expect us to be perfect, perfect body, perfect skin, perfect values.
+        If you're a mom, you have to be a good mom, but be hot. Be natural, but your natural needs to be flawless.
+        Honey, believe me when I tell you... you are worth so much more than expectations.
+        Check out my pricing and feel free to contact me with any questions!
+    </h1>
     
             </div>
                 
