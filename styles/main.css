@@ -143,7 +143,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
   background:#986572;
   color:#f8ddc0;
   text-align: center;
-  padding: .2em .2em;
+  padding: .2em;
   font-size: var(--fs-h3);
 }
 
@@ -151,6 +151,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
   color:#f8ddc0;
   text-decoration: none;
 }
+
 .footer, .footer-links a:hover { 
   text-decoration: none;
 }
@@ -169,15 +170,17 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
 }
 
 .social-list {
-  list-style:none ;
+  list-style-type:none ;
   display: flex;
   justify-content: center;
+  align-content: center;
   margin: auto 0 0;
   padding: 0;
 }
 
 .social-list__item {
-  margin: 0 .2em;
+  margin: 0;
+  display: flex;
 }
 
 .social-list__link {
