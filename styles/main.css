@@ -67,6 +67,8 @@ a:hover {
 
 body {
     margin:0;
+    padding:0;
+    box-sizing: border-box;
     min-height: 100vh;
     background-color:  #E8dcbc;
     background-image:url('/assets/logo/logo2.1.svg');
