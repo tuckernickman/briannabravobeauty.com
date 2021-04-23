@@ -6,7 +6,7 @@
         <div class="row social-list">
             <div class="col-md-6 col-sm-4 col-xs-4 col-4">
                 <h6 class="footer" >Quick Links</h6>
-                <ul class="social-list">
+                <ul class="col-md-6 col-sm-4 col-xs-4 col-4 social-list">
                     <li class="social-list__item"><a href="home.php">Home</a></li>
                     <li class="social-list__item"><a href="about.php">About</a></li>
                     <li class="social-list__item"><a href="myservices.php">Services</a></li>

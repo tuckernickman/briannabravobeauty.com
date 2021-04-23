@@ -68,6 +68,7 @@ a:hover {
 }
 
 body {
+  
     margin:0;
     padding:0;
     box-sizing: border-box;
@@ -108,6 +109,11 @@ p, a, label, input, textarea, td, th, h4, h2, h1, h3, h5, h6, header, div {
 
 p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
  .navbar-brand, .nav-link, .btn{
+    background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
+    background-size: cover;
+    color: transparent;
+    -moz-background-clip: text;
+    -webkit-background-clip: text;
     color:#986572;
     text-shadow:1px 3px 30px #986572;
     -moz-transition: all 0.2s ease-in;
@@ -176,17 +182,17 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
   display: flex;
   justify-content: center;
   align-content: center;
-  margin: auto 0 0;
+  margin: 2em 0 0;
   padding: 0;
 }
 
 .social-list__item {
-  margin: 0;
+  margin: 0 .5em;
   display: flex;
 }
 
 .social-list__link {
-  padding: .2em;
+  padding: .5em;
 }
 
 /* Contact Form */
