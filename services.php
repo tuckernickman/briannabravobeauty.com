@@ -22,13 +22,15 @@
 </head>
 
 <body>
+   <div class='container'>
 <section class="intro_services">
   <div class="transbox">
-  <h1><strong>Services I Offer</strong></h1>
+  <h2><strong>Services I Offer</strong></h2>
  <p >
   <h3>Please note that all services include lash application.</h3>
   <h3>I also offer hourly lessons, please email me with any inquiries. </h3>
 </p> 
+</div>
 </div>
 </section>
 
