@@ -63,7 +63,6 @@ a {
 a:hover {
   padding:0;
   margin:0;
-  text-decoration: none;
 }
 
 body {
@@ -105,7 +104,7 @@ p, a, label, input, textarea, td, th, h4, h2, h1, h3, h5, h6, header, div {
 
 p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
  .navbar-brand, .nav-link, .btn{
-    color:#f8ddc0;
+    color:#986572;
     text-shadow:1px 3px 30px #986572;
     -moz-transition: all 0.2s ease-in;
     -o-transition: all 0.2s ease-in;
@@ -116,17 +115,18 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
 
 p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
  .navbar-brand, .nav-link, .btn :hover {
-    color:#547861;
-    text-shadow:1px 3px 30px #f8ddc0;
+    color:#f8ddc0;
+    text-shadow:1px 3px 30px #986572;
     -moz-transition: all 0.2s ease-in;
     -o-transition: all 0.2s ease-in;
     -webkit-transition: all 0.2s ease-in;
     transition: all 0.2s ease-in;
+    text-decoration: none;
 }
 
 .font-change:hover {
-    color:#547861;
-    text-shadow:1px 3px 30px #f8ddc0;
+    color:#f8ddc0;
+    text-shadow:1px 3px 30px #986572;
     -moz-transition: all 0.2s ease-in;
     -o-transition: all 0.2s ease-in;
     -webkit-transition: all 0.2s ease-in;
@@ -147,6 +147,9 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h1, h3, h5, h6, header, li,
 
 .footer, .footer-links a { 
   color:#f8ddc0;
+  text-decoration: none;
+}
+.footer, .footer-links a:hover { 
   text-decoration: none;
 }
 

@@ -2,8 +2,8 @@
 <link rel="stylesheet" href="styles/main.css">
 
 <section>
-    <div class="container">
-        <div class="row">
+    <div class="container social-list">
+        <div class="row social-list">
             <div class="col-md-8 col-sm-6 col-xs-12">
                 <h6 class="footer" >Quick Links</h6>
                 <ul class="social-list">
@@ -20,8 +20,9 @@
                 </p>
             </div>
         </div>
-
-        <div class="row">
+    </div>
+    <div class="container social-list">
+        <div class="row social-list">
             <div class="col-md-8 col-sm-6 col-xs-12">
                 <p class="footer"> Pushing the world's expectations of us as womxn!
                 </p>
