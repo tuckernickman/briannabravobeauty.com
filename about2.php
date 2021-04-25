@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
   
-<style>
+<!-- <style>
   
   .pat{margin-bottom: 5%;
     font-size: 200%;
@@ -13,7 +13,7 @@
   box-shadow: rgb(79, 114, 114);
 
 }
-</style> 
+</style>  -->
 
 </head>
 
@@ -31,18 +31,20 @@
             </div>
     </div>
     <div class="col section-content perspective">
-            <div id="content" class="sat">
-                <h1>Hey dollface!</h1>
-    <h1 class="pat">  
-        I est​ablished my little business in 2018 based on my love for not only makeup, but the way I felt in it.
-        I'm a HMUA who specializes in boudoir and bridal.
-        I'm all about pushing the world's expectations of us as womxn.
-        They expect us to be perfect, perfect body, perfect skin, perfect values.
-        If you're a mom, you have to be a good mom, but be hot. Be natural, but your natural needs to be flawless.
-        Honey, believe me when I tell you... you are worth so much more than expectations.
-        Check out my pricing and feel free to contact me with any questions!
-    </h1>
-      </div>
+        <div id="content" class="sat">
+            <h1>Hey dollface!</h1>
+        </div>
+        <div id="content" class="sat">
+            <h1 class="pat">  
+            I est​ablished my little business in 2018 based on my love for not only makeup, but the way I felt in it. <br>
+            I'm a HMUA who specializes in boudoir and bridal. <br>
+            I'm all about pushing the world's expectations of us as womxn. <br>
+            They expect us to be perfect, perfect body, perfect skin, perfect values. <br>
+            If you're a mom, you have to be a good mom, but be hot. Be natural, but your natural needs to be flawless. <br>
+            Honey, believe me when I tell you... you are worth so much more than expectations. <br>
+            Check out my pricing and feel free to contact me with any questions!
+            </h1>
+        </div>
     </div>
                 
 </section>
