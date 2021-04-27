@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"
-        integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT"
-        crossorigin="anonymous">
-</script>
+
     <!-- Website Title -->
     <title>Brianna Bravo Beauty</title>
 
@@ -19,13 +16,13 @@
     
     <?php include "about2.php"; ?>
 
-<?php include "carousel02.php"; ?>
+    <?php include "carousel02.php"; ?>
 
     <style>
     <?php include "servicesheader.php"; ?>
-    </style>
+    </style
     <?php include "services.php"; ?>
-   
+    </style>
 
 
     <style>
@@ -36,5 +33,4 @@
     <?php include "footer.php"; ?>
 
 </body>
-<script src="/js/carousel02.js"></script>
 </html>
