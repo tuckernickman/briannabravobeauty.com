@@ -19,13 +19,14 @@
     
     <?php include "about2.php"; ?>
 
-<?php include "carousel02.php"; ?>
+    <style>
+    <?php include "carousel02.php"; ?>
+    </style>
 
     <style>
     <?php include "servicesheader.php"; ?>
-    </style>
     <?php include "services.php"; ?>
-   
+    </style>
 
 
     <style>
@@ -36,5 +37,5 @@
     <?php include "footer.php"; ?>
 
 </body>
-<script src="/js/carousel02.js"></script>
+    <script src="/js/carousel02.js"></script>
 </html>
