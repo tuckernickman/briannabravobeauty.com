@@ -16,23 +16,21 @@
     
     <?php include "about2.php"; ?>
 
-    <style>
     <?php include "carousel02.php"; ?>
-    </style>
 
     <style>
     <?php include "servicesheader.php"; ?>
-    <?php include "services.php"; ?>
     </style>
-
+    <?php include "services.php"; ?>
 
     <style>
-    <?php include "contactheader.php"; ?> 
-    <?php include "contact2.php";?>
+    <?php include "contactheader.php"; ?>  
     </style>
+    <?php include "contact2.php";?>
+   
     
     <?php include "footer.php"; ?>
 
 </body>
-    <script src="/js/carousel02.js"></script>
+
 </html>
