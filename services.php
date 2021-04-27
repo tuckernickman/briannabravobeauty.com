@@ -102,7 +102,7 @@
             <h4>Depending on the complexity of what you would like prices are subject to change.</h4>
          </article>
          <img src="/assets/img/stpatricksday.jpg" alt="">
-      </div>
+      </div>   
    </div>
 </div>
 </div>
