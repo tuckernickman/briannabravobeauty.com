@@ -17,7 +17,7 @@
 
     <!--home page-->
     
-    <?php include "about.php"; ?>
+    <?php include "about2.php"; ?>
 
 <?php include "carousel02.php"; ?>
 

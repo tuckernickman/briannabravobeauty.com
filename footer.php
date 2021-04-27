@@ -6,7 +6,7 @@
         <div class="row social-list">
             <div class="col-md-6 col-sm-4 col-xs-4 col-4">
                 <h6 class="footer" >Quick Links</h6>
-                <ul class="social-list">
+                <ul class="col-md-6 col-sm-4 col-xs-4 col-4 social-list">
                     <li class="social-list__item"><a href="home.php">Home</a></li>
                     <li class="social-list__item"><a href="about.php">About</a></li>
                     <li class="social-list__item"><a href="myservices.php">Services</a></li>
@@ -31,7 +31,7 @@
                 <a href="mailto:bribravobeauty@gmail.com" class="footer__link">brianna@briannabravobeauty.com</a>
                 <ul class="social-list">   
                 <li class="social-list__item">
-                    <a class="social-list__link" href="https://twitter.com">
+                    <a class="social-list__social-link" href="https://twitter.com">
                         <i class="fab fa-twitter"></i>
                     </a>
                 </li>
