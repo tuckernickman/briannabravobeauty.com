@@ -154,7 +154,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
     font-family: 'Kumbh Sans', 'Anton', 'Train One'; 
 }
 
-p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
+/* p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
  .navbar-brand, .nav-link, .btn :hover {
     color:#f8ddc0;
     text-shadow:1px 3px 30px #986572;
@@ -173,7 +173,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
     -webkit-transition: all 0.2s ease-in;
     transition: all 0.2s ease-in;
     font-family: 'Anton', 'Kumbh Sans','Train One'; 
-}
+} */
 
 
   /* footer */
@@ -205,7 +205,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
 }
 
 .footer__link:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .social-list {
