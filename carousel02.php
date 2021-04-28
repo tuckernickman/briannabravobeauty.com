@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
 
 <link rel="stylesheet" href="/styles/carousel02.css">
@@ -8,6 +9,8 @@
 </script>
 
 
+=======
+>>>>>>> 95df28e060e96c4e4d1443fbce7446e88f4d55d7
 <div class="card-carousel">
   <div class="my-card"></div>
   <div class="my-card prev"></div>
@@ -16,8 +19,12 @@
   <div class="my-card"></div>
 </div>
 
+<<<<<<< HEAD
 
 
 
 
     <script src="/js/carousel02.js"></script>
+=======
+    <!-- <script src="/js/carousel02.js"></script> -->
+>>>>>>> 95df28e060e96c4e4d1443fbce7446e88f4d55d7
