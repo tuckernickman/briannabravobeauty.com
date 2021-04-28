@@ -19,8 +19,6 @@
     <?php include "carousel02.php"; ?>
 
     <?php include "services.php"; ?>
-    </style>
-    <?php include "services.php"; ?>
 
     <?php include "contact2.php";?>
    
