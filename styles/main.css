@@ -99,7 +99,7 @@ body {
     display:inline-block;
     align-content: center;  
     text-align:center;
-    padding: 5, 10;
+    padding:0;
 }
 
 h1 {
@@ -142,10 +142,8 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
  .navbar-brand, .nav-link, .btn{
     background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
     background-size: cover;
-    color: transparent;
     -moz-background-clip: text;
     -webkit-background-clip: text;
-    color:#986572;
     text-shadow:1px 3px 30px #986572;
     -moz-transition: all 0.2s ease-in;
     -o-transition: all 0.2s ease-in;
@@ -222,7 +220,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
   display: flex;
 }
 
-.social-list__link {
+.social-list__social-link {
   padding: .5em;
 }
 
