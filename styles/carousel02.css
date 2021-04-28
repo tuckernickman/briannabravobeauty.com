@@ -14,9 +14,7 @@
     transform: scale(0.6) translateY(-2rem);
     opacity: 0;
     cursor: pointer;
-    pointer-events: none;
-    background: #2e5266;
-    background: linear-gradient(to top, #2e5266, #6e8898);
+    pointer-events:visible;
     transition: 1s;
   }
   
