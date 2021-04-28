@@ -21,7 +21,6 @@
     <?php include "services.php"; ?>
 
     <?php include "contact2.php";?>
-   
     
     <?php include "footer.php"; ?>
 
