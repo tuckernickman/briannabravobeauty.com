@@ -5,7 +5,7 @@
     <div class="container social-list">
         <div class="row social-list">
             <div class="col-md-6 col-sm-4 col-xs-4 col-4">
-                <h6 class="footer" >Quick Links</h6>
+                <h6 class="social-list" >Quick Links</h6>
                 <ul class="col-md-6 col-sm-4 col-xs-4 col-4 social-list">
                     <li class="social-list__item"><a href="home.php">Home</a></li>
                     <li class="social-list__item"><a href="about.php">About</a></li>
@@ -14,7 +14,7 @@
                 </ul>
             </div>
             <div class="col-md-6 col-sm-4 col-xs-4 col-4">
-                <h6 class="footer"> Copyright &copy; 
+                <h6 class="social-list"> Copyright &copy; 
                     <?php echo date("Y"); ?> 
                     <a href="#">Brianna Bravo Beauty</a> 
                 </h6>
@@ -24,7 +24,7 @@
     <div class="container social-list">
         <div class="row social-list">
             <div class="col-md-6 col-sm-4 col-xs-4 col-4">
-                <p class="footer"> Pushing the world's expectations of us as womxn!
+                <p class="social-list"> Pushing the world's expectations of us as womxn!
                 </p>
             </div>
             <div class="col-md-6 col-sm-4 col-xs-4 col-4">
