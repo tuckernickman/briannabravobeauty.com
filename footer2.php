@@ -1,6 +1,9 @@
 <footer>
   <div class="container pt-5 border-bottom">
     <div class="row">
+        <div class="col-md-3 col-sm-12 mb-3 text-center">
+            <svg class="img-fluid" width="200px" height="60px" viewBox="0 0 200 60" href="assets/logo/logo2.1.svg"></svg>
+        </div>
         <div class="col-md-9 col-sm-12">
         <div class="col-md-3 col-sm-6 col-6 p-0 float-left mb-3">
           <h5 class="mb-4 font-weight-bold text-uppercase">Quick Links</h5>
@@ -26,14 +29,10 @@
           </li>
         </ul>
         </div>
-        
-        
-        <div class="col-md-3 col-sm-6 col-6 p-0 mb-3 float-left">
-          <h5 class="mb-4 font-weight-bold text-uppercase">Developers</h5>
-        </div>  
-
         </div>
-        <div class="col-md-12">
+        <div class="col-md-12"><div class="col-md-3 col-sm-6 col-6 p-0 mb-3 float-left">
+            <h6 class="mb-4 font-weight-bold text-uppercase">Pushing the world's expectations of us as womxn!</h6>
+        </div>  
           <div class="py-4 d-flex justify-content-center align-items-center">
                 <h6 class="mb-4 font-weight-bold text-uppercase"> Copyright &copy; 
                     <?php echo date("Y"); ?> 
