@@ -1,4 +1,4 @@
-
+<body>
 <section>
 <div class="card-carousel">
   <div class="my-card"></div>
@@ -8,3 +8,4 @@
   <div class="my-card"></div>
 </div>
 </section>
+</body>
