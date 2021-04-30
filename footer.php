@@ -1,4 +1,4 @@
-<footer class="footer"> 
+<footer id="footer" class="footer"> 
 <link rel="stylesheet" href="styles/main.css">
 
 <section>

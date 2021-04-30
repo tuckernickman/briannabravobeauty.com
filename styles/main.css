@@ -55,20 +55,16 @@ background-size: cover;
 Blur effect for images
 filter: blur(4px); 
 */
-a {
-    color:#f8ddc0;
-    padding:0;
-    margin:0;
-    list-style-type:none;
-    text-decoration: none;
-    background-color: transparent;
+#footer a {
+    color:#f8ddc0 !important;
+    list-style-type: none !important; 
+    text-decoration: none !important; 
+    background-color: transparent !important; 
 }
 
-a:hover {
-  padding:0;
-  margin:0;
-  list-style-type:none;
-  text-decoration: none;
+#footer a:hover {
+  list-style-type:none !important;
+  text-decoration: none !important;
 }
 
 body {
@@ -90,9 +86,11 @@ body {
     -moz-background-size: no-repeat;
     -o-background-size: no-repeat;
 }
+
 .btn {
     background-color:#ba968e;
 }
+
 .navbar, .btn button{
     background-image: linear-gradient(#99667294,#f8ddc294, #f8ddc000);
 	  background: -webkit-linear-gradient(#98657294,#f8ddc294, #f8ddc000);
@@ -143,12 +141,12 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
 }
 
 p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
- .navbar-brand, .nav-link, .btn{
-    background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
+ .navbar-brand, .nav-link, .btn {
+    background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif) !important;
     background-size: cover;
     -moz-background-clip: text;
     -webkit-background-clip: text;
-    text-shadow:1px 3px 30px #986572;
+    text-shadow:1px 3px 20px #986572;
     -moz-transition: all 0.2s ease-in;
     -o-transition: all 0.2s ease-in;
     -webkit-transition: all 0.2s ease-in;
@@ -156,10 +154,10 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
     font-family: 'Kumbh Sans', 'Anton', 'Train One'; 
 }
 
-/* p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
+p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
  .navbar-brand, .nav-link, .btn :hover {
     color:#f8ddc0;
-    text-shadow:1px 3px 30px #986572;
+    text-shadow:3px 1px 20px #986572;
     -moz-transition: all 0.2s ease-in;
     -o-transition: all 0.2s ease-in;
     -webkit-transition: all 0.2s ease-in;
@@ -167,7 +165,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
     text-decoration: none;
 }
 
-.font-change:hover {
+/* .font-change:hover {
     color:#f8ddc0;
     text-shadow:1px 3px 30px #986572;
     -moz-transition: all 0.2s ease-in;
