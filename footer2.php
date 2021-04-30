@@ -26,16 +26,11 @@
           </li>
         </ul>
         </div>
-        </div>
+    </div>
 
         <div class="col-md-12">
           <div class="py-4 d-flex justify-content-center align-items-center">
               <h5 class="mb-4 font-weight-bold text-uppercase">Pushing the world's expectations of us as womxn!</h5>
-          </div>
-        </div>
-
-        <div class="col-md-12">
-          <div class="py-4 d-flex justify-content-center align-items-center">
                 <h5 class="mb-4 font-weight-bold text-uppercase"> Copyright &copy; 
                     <?php echo date("Y"); ?> 
                     <a href="#">Brianna Bravo Beauty</a> 
