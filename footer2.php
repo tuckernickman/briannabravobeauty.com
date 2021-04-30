@@ -1,9 +1,9 @@
 <footer class="footer">
-  <div class="container pt-5 border-bottom">
+  <div class="container pt-3 border-bottom">
     <div class="row">
         <div class="col-md-9 col-sm-12">
-        <div class="col-md-3 col-sm-6 col-6 p-0 float-left mb-3">
-          <h5 class="mb-4 font-weight-bold text-uppercase">Quick Links</h5>
+        <div class="col-md-3 col-sm-6 col-6 p-0 float-left mb-2">
+          <h5 class="mb-2 font-weight-bold text-uppercase">Quick Links</h5>
         <ul class="list-group">
           <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="home.php">Home</a></li>
           <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="about.php">About</a></li>
@@ -12,8 +12,8 @@
         </ul>
         </div>
 
-        <div class="col-md-3 col-sm-6 col-6 mb-3 p-0 float-left">
-          <h5 class="mb-4 font-weight-bold text-uppercase">Contact Me</h5>
+        <div class="col-md-3 col-sm-6 col-6 mb-3 p-0 float-right">
+          <h5 class="mb-2 font-weight-bold text-uppercase">Contact Me</h5>
         <ul class="list-group">
           <li class="list-group-item bg-transparent border-0 p-0 mb-2">
             <a href="https://twitter.com"><i class="fab fa-twitter mr-1"></i> Twitter</a>       
@@ -26,12 +26,17 @@
           </li>
         </ul>
         </div>
-    </div>
+        </div>
 
         <div class="col-md-12">
-          <div class="py-4 d-flex justify-content-center align-items-center">
-              <h5 class="mb-4 font-weight-bold text-uppercase">Pushing the world's expectations of us as womxn!</h5>
-                <h5 class="mb-4 font-weight-bold text-uppercase"> Copyright &copy; 
+          <div class="py-1 d-flex justify-content-center align-items-center">
+              <h5 class="mb-1 font-weight-bold text-uppercase">Pushing the world's expectations of us as womxn!</h5>
+          </div>
+        </div>
+
+        <div class="col-md-12">
+          <div class="py-1 d-flex justify-content-center align-items-center">
+                <h5 class="mb-1 font-weight-bold text-uppercase"> Copyright &copy; 
                     <?php echo date("Y"); ?> 
                     <a href="#">Brianna Bravo Beauty</a> 
                 </h5>
