@@ -41,15 +41,16 @@
    <div class=" container text-center">
    <div class="row">
       <div class="col container_foto ">
-         <div class="ver_mas text-center">
-        
-         </div>
-         <article class="text-left">
-            <h2>Bridal<br>$85</h2>
+       
+         <article class="text-left container">
+            
+         <h2>Bridal<br>$85</h2>
             <h4>Day of makeup, trials are available at an additional cost. <br>Each bridesmaid is $75</h4>
          </article>
          <img src="/assets/img/simplewedding.jpg" alt="">
       </div>
+
+      
       <div class="col container_foto">
          <div class="ver_mas text-center">
             <span id="click" class="lnr lnr-eye"></span>
@@ -88,20 +89,20 @@
             <span  class="lnr lnr-eye"></span>
          </div>
          <article class="text-left">
-            <h2>Fashion/Editorials<br>$75</h2>
-            <h4>Photo shoot, skin focused</h4>
+            <h2>Hair & Makeup Combo<br> $120+</h2>
+            <h4>Depending on the complexity of what you would like prices are subject to change.</h4>
          </article>
-         <img src="/assets/img/reddress.jpg" alt="">
+         <img src="/assets/img/stpatricksday.jpg" alt="">
       </div>
       <div class="col container_foto">
          <div class="ver_mas text-center">
             <span  class="lnr lnr-eye"></span>
          </div>
          <article class="text-left">
-            <h2>Hair & Makeup Combo<br> $120+</h2>
-            <h4>Depending on the complexity of what you would like prices are subject to change.</h4>
+            <h2>Fashion/Editorials<br>$75</h2>
+            <h4>Photo shoot, skin focused</h4>
          </article>
-         <img src="/assets/img/stpatricksday.jpg" alt="">
+         <img src="/assets/img/reddress.jpg" alt="">
       </div>
    </div>
 </div>
