@@ -56,15 +56,19 @@ Blur effect for images
 filter: blur(4px); 
 */
 a {
+    color:#f8ddc0;
     padding:0;
     margin:0;
-    list-style-type:none
+    list-style-type:none;
+    text-decoration: none;
+    background-color: transparent;
 }
 
 a:hover {
   padding:0;
   margin:0;
-  list-style-type:none
+  list-style-type:none;
+  text-decoration: none;
 }
 
 body {

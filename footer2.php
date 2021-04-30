@@ -27,18 +27,17 @@
         </ul>
         </div>
         
-        
         <div class="col-md-3 col-sm-6 col-6 p-0 mb-3 float-left">
-            <h6 class="mb-4 font-weight-bold text-uppercase">Pushing the world's expectations of us as womxn!</h6>
+            <h5 class="mb-4 font-weight-bold text-uppercase">Pushing the world's expectations of us as womxn!</h5>
         </div>
 
         </div>
         <div class="col-md-12">
           <div class="py-4 d-flex justify-content-center align-items-center">
-                <h6 class="mb-4 font-weight-bold text-uppercase"> Copyright &copy; 
+                <h5 class="mb-4 font-weight-bold text-uppercase"> Copyright &copy; 
                     <?php echo date("Y"); ?> 
                     <a href="#">Brianna Bravo Beauty</a> 
-                </h6>
+                </h5>
           </div>
         </div>
     </div>
