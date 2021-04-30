@@ -19,10 +19,10 @@
             <a href="https://twitter.com"><i class="fab fa-twitter mr-1"></i> Twitter</a>       
           </li class="list-group-item bg-transparent border-0 p-0 mb-2">
           <li class="list-group-item bg-transparent border-0 p-0 mb-2">
-            <a href="https://www.facebook.com/bri.briannabeauty" target="_blank"><i class="fab fa-facebook mr-1"></i> Facebook</a>
+            <a href="https://www.facebook.com/bravo.bribeauty" target="_blank"><i class="fab fa-facebook mr-1"></i> Facebook</a>
           </li>
           <li class="list-group-item bg-transparent border-0 p-0 mb-2">
-            <a href="https://www.instagram.com/barefootbeautybybri/" target="_blank"><i class="fab fa-instagram mr-1"></i> Instagram</a>  
+            <a href="https://www.instagram.com/bravo.bribeauty/" target="_blank"><i class="fab fa-instagram mr-1"></i> Instagram</a>  
           </li>
         </ul>
         </div>

@@ -1,7 +1,7 @@
 .card-carousel {
     display: flex;
-    align-items: center;
-    justify-content: flex;
+    align-content: center;
+    justify-content: center;
     position: relative;
     margin:auto;
     padding-bottom:15%;
@@ -35,7 +35,6 @@
 
   .card-carousel .my-card.active {
     z-index: 3;
-    align-content:center;
     -webkit-transform: scale(1) translateY(0) translateX(0);
     transform: scale(1) translateY(0) translateX(0);
     opacity: 1;
