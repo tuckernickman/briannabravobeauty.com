@@ -1,7 +1,7 @@
 .card-carousel {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex;
     position: relative;
     margin:auto;
     padding-bottom:25%;

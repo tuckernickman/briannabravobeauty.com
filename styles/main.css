@@ -56,7 +56,7 @@ Blur effect for images
 filter: blur(4px); 
 */
 #footer a {
-    color:#f8ddc0 !important;
+    /* color:#f8ddc0 !important; */
     list-style-type: none !important; 
     text-decoration: none !important; 
     background-color: transparent !important; 
@@ -140,7 +140,7 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
     padding: 10px;
 }
 
-p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
+p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, li,
  .navbar-brand, .nav-link, .btn {
     background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif) !important;
     background-size: cover;
@@ -156,7 +156,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
 
 p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
  .navbar-brand, .nav-link, .btn :hover {
-    color:#f8ddc0;
+    color:#f8ddc0 !important;
     text-shadow:3px 1px 20px #986572;
     -moz-transition: all 0.2s ease-in;
     -o-transition: all 0.2s ease-in;
@@ -180,11 +180,14 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
 
 .footer {
   background:#986572;
-  color:#f8ddc0;
+}
+/*   
+
+  color:#f8ddc0;  
   text-align: center;
   padding: .2em;
   font-size: var(--fs-h3);
-}
+
 
 .footer, .footer-links a { 
   color:#f8ddc0;
@@ -224,7 +227,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
 
 .social-list__social-link {
   padding: .5em;
-}
+} */
 
 /* Contact Form */
 /* 

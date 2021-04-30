@@ -29,12 +29,10 @@
         </div>
 
         <div class="col-md-12">
-          <h5 class="mb-2 font-weight-bold text-uppercase">My Mission</h5>
-        <ul class="list-group">
-          <li class="list-group-item bg-transparent border-0 p-0 mb-2">
-            <a href="/aboutme.php">Pushing the world's expectations of us as womxn!</a>       
-          </li class="list-group-item bg-transparent border-0 p-0 mb-2">
-        </ul>
+          <h5 class="mb-2 font-weight-bold text-uppercase">Our Mission</h5>
+          <h6 class="mb-2 font-weight-bold text-uppercase">
+            to push the world's expectations of us as womxn! 
+          </h6>
           <!-- <div class="py-1 d-flex justify-content-center align-items-center">
               <h5 class="mb-1 font-weight-bold text-uppercase">Pushing the world's expectations of us as womxn!</h5>
           </div> -->
