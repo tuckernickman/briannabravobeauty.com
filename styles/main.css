@@ -68,7 +68,6 @@ filter: blur(4px);
 }
 
 body {
-  
     margin:0;
     padding:0;
     box-sizing: border-box;
@@ -85,6 +84,7 @@ body {
     -webkit-background-size: no-repeat;
     -moz-background-size: no-repeat;
     -o-background-size: no-repeat;
+    overflow-x: hidden;
 }
 
 .btn {
@@ -140,13 +140,14 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
     padding: 10px;
 }
 
-p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, li,
+  p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, li,
  .navbar-brand, .nav-link, .btn {
+    color:#f8ddc0;
     background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif) !important;
     background-size: cover;
     -moz-background-clip: text;
     -webkit-background-clip: text;
-    text-shadow:1px 3px 20px #986572;
+    text-shadow:1px 3px 20px #986572 !important;
     -moz-transition: all 0.2s ease-in;
     -o-transition: all 0.2s ease-in;
     -webkit-transition: all 0.2s ease-in;
@@ -154,20 +155,71 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, li,
     font-family: 'Kumbh Sans', 'Anton', 'Train One'; 
 }
 
-p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
- .navbar-brand, .nav-link, .btn :hover {
-    color:#f8ddc0 !important;
-    text-shadow:3px 1px 20px #986572;
+  /* p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, li,
+ .navbar-brand, .nav-link, .btn:hover {
+    color:#f8ddc0;
+    text-shadow:3px 1px 20px #986572 !important;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+    text-decoration: none;
+ } */
+
+ /* light */
+  .light p, a, td, th, h4, h2, h3, h5, h6, li,
+ .navbar-brand, .nav-link, .btn {
+    color:#f8ddc0;
+    text-shadow:3px 1px 20px #986572 !important;
     -moz-transition: all 0.2s ease-in;
     -o-transition: all 0.2s ease-in;
     -webkit-transition: all 0.2s ease-in;
     transition: all 0.2s ease-in;
     text-decoration: none;
 }
+  /* dark */
+  .dark p, a, td, th, h4, h2, h3, h5, h6, li,
+  .navbar-brand, .nav-link, .btn {
+  background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif) !important;
+  background-size: cover;
+  -moz-background-clip: text;
+  -webkit-background-clip: text;
+  text-shadow:1px 3px 20px #f8ddc0 !important;
+  -moz-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  -webkit-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+  font-family: 'Kumbh Sans', 'Anton', 'Train One'; 
+}
+
+
+ /* light :hover */
+ .light p, a, td, th, h4, h2, h3, h5, h6, li .btn:hover{
+    color:#f8ddc0;
+    text-shadow:1px 3px 20px #986572 !important;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+    text-decoration: none;
+}
+  /* dark :hover */
+  .dark p, a, td, th, h4, h2, h3, h5, h6, li .btn:hover {
+  background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif) !important;
+  background-size: cover;
+  -moz-background-clip: text;
+  -webkit-background-clip: text;
+  text-shadow:1px 3px 20px #f8ddc0 !important;
+  -moz-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  -webkit-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+  font-family: 'Kumbh Sans', 'Anton', 'Train One'; 
+}
 
 /* .font-change:hover {
     color:#f8ddc0;
-    text-shadow:1px 3px 30px #986572;
+    text-shadow:1px 3px 30px #986572;   
     -moz-transition: all 0.2s ease-in;
     -o-transition: all 0.2s ease-in;
     -webkit-transition: all 0.2s ease-in;
@@ -181,6 +233,7 @@ p, a, label, input, textarea, td, th, nav, h4, h2, h3, h5, h6, header, li,
 .footer {
   background:#986572;
 }
+
 /*   
 
   color:#f8ddc0;  

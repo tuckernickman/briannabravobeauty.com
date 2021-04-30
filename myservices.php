@@ -14,6 +14,6 @@
 
     <?php include "services3.php"; ?>
 
-    <?php include "footer.php"; ?>
+    <?php include "footer2.php"; ?>
 </body>
 </html>
