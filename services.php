@@ -82,7 +82,7 @@
             <h2>Natural<br>$65</h2>
             <h4>Softer look enhancing your natural features</h4>
          </article>
-         <img src="/assets/img/simplemakeup1.jpg" alt="">
+         <img src="/assets/img/simplemakeup.jpg" alt="">
       </div>
       <div class="col container_foto">
          <div class="ver_mas text-center">
