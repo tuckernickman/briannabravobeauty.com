@@ -12,7 +12,7 @@
 <body>
     <?php include "menu.php"; ?>
 
-    <?php include "services.php"; ?>
+    <?php include "services3.php"; ?>
 
     <?php include "footer.php"; ?>
 </body>
