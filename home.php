@@ -17,18 +17,13 @@
     <?php include "about2.php"; ?>
 
     <?php include "carousel02.php"; ?>
-<<<<<<< HEAD
 
     <style>
     <?php include "servicesheader.php"; ?>
     </style>
-    <?php include "services.php"; ?>
+    <?php include "services3.php"; ?>
     </style>
     
-=======
-    
-    <?php include "services.php"; ?>
->>>>>>> 82870e44a6da33a515118aede14ccdb677e46898
 
     <?php include "contact2.php";?>
     
