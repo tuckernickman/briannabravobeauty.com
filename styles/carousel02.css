@@ -2,20 +2,21 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    position:relative;
+    position: relative;
+    margin:auto;
+    padding-bottom:15%;
   }
   
   .card-carousel .my-card {
-    height: 20rem;
+    height: auto;
     width: 12rem;
     position: relative;
-    z-index: 1;
-    -webkit-transform: scale(0.6) translateY(-2rem);
-    transform: scale(0.6) translateY(-2rem);
+  
+  
     opacity: 0;
     cursor: pointer;
     pointer-events: none;
-
+   
     transition: 1s;
   }
   
@@ -43,7 +44,7 @@
   }
   
   .card-carousel .my-card.prev, .card-carousel .my-card.next {
-    z-index: 2;
+   
     -webkit-transform: scale(0.8) translateY(-1rem) translateX(0);
     transform: scale(0.8) translateY(-1rem) translateX(0);
     opacity: 0.6;
@@ -54,8 +55,8 @@
   .card-carousel .my-card:nth-child(0):before {
     content: url(/assets/img/blacklace.jpg);
     position: relative;
-    top: 50%;
-    left: 50%;
+    top: 30%;
+    left: 45%;
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
     font-size: 3rem;
@@ -66,8 +67,8 @@
   .card-carousel .my-card:nth-child(1):before {
     content: url(/assets/img/purplebudoire.jpg);
     position: relative;
-    top: 50%;
-    left: 50%;
+    top: 30%;
+    left: 45%;
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
     font-size: 3rem;
@@ -78,8 +79,8 @@
   .card-carousel .my-card:nth-child(2):before {
     content: url(/assets/img/headshot.jpg);
     position: relative;
-    top: 50%;
-    left: 50%;
+    top: 30%;
+    left: 45%;
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
     font-size: 3rem;
@@ -90,8 +91,8 @@
   .card-carousel .my-card:nth-child(3):before {
     content: url(/assets/img/whitebudoire.jpg);
     position: relative;
-    top: 50%;
-    left: 50%;
+    top: 30%;
+    left: 45%;
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
     font-size: 3rem;
