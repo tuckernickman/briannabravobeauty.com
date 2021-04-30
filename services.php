@@ -40,7 +40,7 @@
    
    <div class=" container text-center">
    <div class="row">
-      <div class="col container_foto ">
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto ">
        
          <article class="text-left container">
             
@@ -51,7 +51,7 @@
       </div>
 
       
-      <div class="col container_foto">
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
          <div class="ver_mas text-center">
             <span id="click" class="lnr lnr-eye"></span>
          </div>
@@ -61,7 +61,7 @@
          </article>
          <img src="/assets/img/whitebudoire.jpg" alt="">
       </div>
-      <div class="col container_foto">
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
          <div class="ver_mas text-center">
             <span class="lnr lnr-eye"></span>
          </div>
@@ -74,7 +74,7 @@
       </div>
 
       <div class="row">
-      <div class="col container_foto">
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
          <div class="ver_mas text-center">
             <span  class="lnr lnr-eye"></span>
          </div>
@@ -82,9 +82,9 @@
             <h2>Natural<br>$65</h2>
             <h4>Softer look enhancing your natural features</h4>
          </article>
-         <img src="/assets/img/simplemakeup1.jpg" alt="">
+         <img src="/assets/img/simplemakeup.jpg" alt="">
       </div>
-      <div class="col container_foto">
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
          <div class="ver_mas text-center">
             <span  class="lnr lnr-eye"></span>
          </div>
@@ -94,7 +94,7 @@
          </article>
          <img src="/assets/img/stpatricksday.jpg" alt="">
       </div>
-      <div class="col container_foto">
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 container_foto">
          <div class="ver_mas text-center">
             <span  class="lnr lnr-eye"></span>
          </div>
