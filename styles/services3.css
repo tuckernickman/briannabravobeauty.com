@@ -3,9 +3,6 @@
 	padding: 5% 0;
 }
 
-h1 {
-	color: #fcfbfa;
-}
 
 .container_foto {
 	background-color: RGB(152,101,114);
@@ -28,7 +25,7 @@ h1 {
 }
 
 .container_foto h2 {
-	color: #fff;
+	
 	font-weight: 800;
 	font-size: 25px;
 	border-bottom: #fff solid 1px;
@@ -36,7 +33,7 @@ h1 {
 
 .container_foto h4 {
 	font-weight: 300;
-	color: #fff;
+	
 	font-size: 16px;
 }
 
