@@ -140,7 +140,7 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
     padding: 10px;
 }
 
-  p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, li,
+  p, a, label, td, th, h4, h2, h3, h5, h6, header, li,
  .navbar-brand, .nav-link, .btn {
     color:#f8ddc0;
     background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif) !important;
@@ -155,6 +155,15 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
     font-family: 'Kumbh Sans', 'Anton', 'Train One'; 
 }
 
+ input, textarea {
+    color:#f8ddc0;
+    background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif) !important;
+    opacity:0.6;
+    background-size: cover;
+    -moz-background-clip: text;
+    -webkit-background-clip: text;
+    font-family: 'Kumbh Sans', 'Anton', 'Train One'; 
+}
   /* p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, li,
  .navbar-brand, .nav-link, .btn:hover {
     color:#f8ddc0;
