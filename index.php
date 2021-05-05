@@ -10,9 +10,15 @@
 </head>
 <body>
 
-    <a href="home.php">
-    <div class="col-sm">Welcome</div>
-    </a>
+
+<section class='intro'>
+  <div class='intro__text'>Brianna Bravo Beauty</div>
+  <button class='intro__btn' type='button'><a href="home.php">enter</a></button>
+</section>
+
+    
+   
 
 </body>
+<script src="/js/landing.js"></script>
 </html>
