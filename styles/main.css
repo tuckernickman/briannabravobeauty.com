@@ -80,17 +80,18 @@ body {
     padding:0;
 }
 
-h1 {
+h1, h4, h2, h3, h5, h6 {
   background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
   background-size: cover;
-  color: transparent;
   -moz-background-clip: text;
   -webkit-background-clip: text;
+  text-shadow:1px 3px 20px #986572 !important;
   text-transform: uppercase;
   /* font-size: 120px; */
   line-height: .75;
   margin: 10px 0;
 }
+
 /* styling my button */
 
 .white-mode {
@@ -116,8 +117,8 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
     padding: 10px;
 }
 
- /* light */
-  .light-text {
+/* light */
+.light-text {
     color:#f8ddc0 !important;
     text-shadow:3px 1px 20px #986572 !important;
     -moz-transition: all 0.2s ease-in;
@@ -126,8 +127,9 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
     transition: all 0.2s ease-in;
     text-decoration: none;
 }
-  /* dark */
-  .dark-text {
+
+/* dark */
+.dark-text {
   color:#986572 !important;
   text-shadow:1px 3px 20px #f8ddc0 !important;
   -moz-transition: all 0.2s ease-in;
@@ -137,9 +139,8 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
   font-family: 'Kumbh Sans', 'Anton', 'Train One'; 
 }
 
-
- /* light :hover */
- .light-text:hover{
+/* light :hover */
+.light-text:hover{
     color: #986572 !important;
     text-shadow:1px 3px 20px #f8ddc0 !important;
     -moz-transition: all 0.2s ease-in;
@@ -149,8 +150,8 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
     text-decoration: none;
 }
 
-  /* dark :hover */
-  .dark-text:hover {
+/* dark :hover */
+.dark-text:hover {
   color: #f8ddc0 !important;
   text-shadow:1px 3px 20px #986572 !important;
   -moz-transition: all 0.2s ease-in;
@@ -161,7 +162,7 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
 }
 
 
-  /* footer */
+/* footer */
 
 .colored-accent-bkg {
   background:#986572;
@@ -183,6 +184,7 @@ form {
   margin-top: 50px;
   transition: all 4s ease-in-out;
 }
+
 .form-control{
   width: 80vw;
   background: transparent;
@@ -206,6 +208,7 @@ form .submit{
   height: 50px;
   margin-top: 20px;
 }
+
 form .submit:hover{
   background-color: #986572;
   cursor: pointer;
