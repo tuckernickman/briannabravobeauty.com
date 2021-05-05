@@ -46,55 +46,61 @@
 <link rel="stylesheet" href="main.css">
 <link rel="stylesheet" type="text/css" href="mystyles2.css">
 
-<nav class="navbar navbar-expand-lg navbar-light">
-  <div class="container-fluid" id="grad">
-    <a class="navbar-brand" href="index.php">Brianna Bravo Beauty</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <div class="navbar-nav">
-      <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-              <a class="nav-link" href="about.php">About</a>
-          </li>
-          <li class="nav-item active">
-              <a class="nav-link" href="myservices.php">Services</a>
-          </li>
-          <li class="nav-item active">
-              <a class="nav-link" href="Contact.php">Contact</a>
-          </li>
-      </ul>
-      </div>
-    </div>
-  </div>
-</nav>
-
-<div></div>
-
 <style>
  .pat {
-  background-color: lightgrey;
+  background-color:#ffff;
   width: 400px;
-  border: 11px solid gray;
   padding: 15px;
   margin: 20px;
-}
+  background: #fff;
+  
+  background: linear-gradient(to right, white, transparent 70%);
+ 
+  box-shadow: 3px 2px 2px 0;
+  box-shadow: rgba(59, 58, 58, 0.39);
 
+  font-family: ;
+ }
+ 
 .mat {
   text-align: center;
+  
 }
 </style> 
 
 </head>
 <body>
 
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container-fluid" id="grad">
+      <a class="navbar-brand" href="index.php">Brianna Bravo Beauty</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="about.php">About</a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="myservices.php">Services</a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="Contact.php">Contact</a>
+            </li>
+        </ul>
+        </div>
+      </div>
+    </div>
+  </nav>
 
-<br>
+<section>
+<div>
         <h1 class="mat">Brianna Bravo</h1>
 
-        <h2 class="mat">Makeup Artist</h6>
-<br>
+        <h6 class="mat">Makeup Artist</h6>
+</div>
           
 
   <div class="pat">"<strong>Grace Flores-Zamora-</strong> I love you as a person,<br> your soul, vibe, smile, peronality, opinions,<br>
@@ -125,6 +131,7 @@
     You are a makeup magician and i wish i could do makeup like you!!!<br>
     My hair was also fire it stesses me the hell out to have other people do my hair but you did just amazing!""
 </div>
+</section>
   
 <br>
 
