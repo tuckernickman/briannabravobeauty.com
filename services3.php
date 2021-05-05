@@ -10,7 +10,7 @@
 			
 			<article class="text-left">
 				<h2>Bridal<br>$85</h2>
-				<h4>Day of makeup, trials are available at an additional cost.<br>Each bridesmaid is $75</h4>
+				<h4>Day of makeup, trials are available at an additional cost.<br>Each bridesmaid is <br> $75</h4>
 			</article>
 			<img src="/assets/img/simplewedding.jpg" alt="wedding makeup and hair done by Brianna Bravo">
 		</div>
@@ -18,7 +18,7 @@
 		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
 			<article class="text-left">
 				<h2>Boudoir<br>$75-$100</h2>
-				<h4>Embrace your inner goddess <br>* simple hair curls or straightened $100</h4>
+				<h4>Embrace your inner goddess <br>* simple hair curls or straightened <br>$100</h4>
 			</article>
 			<img src="/assets/img/whitebudoire.jpg" alt="Woman in white colored lingere with makeup done by Brianna Bravo">
 		</div>
@@ -47,7 +47,7 @@
 		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
 			<article class="text-left">
 				<h2>Hair & Makeup Combo<br>$120+</h2>
-				<h4>Depending on the complexity of what you would like prices are subject to change.</h4>
+				<h4>Depending on the complexity, prices are subject to change.</h4>
 			</article>
 			<img src="/assets/img/stpatricksday.jpg" alt="saint patricks day makeup look, hair and makup combo">
 		</div>
