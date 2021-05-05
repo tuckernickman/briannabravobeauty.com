@@ -31,30 +31,6 @@ Bright Gray: #363b47
 /////
 */
 
-/* 
-Font Family 1 (retro-sleek-boho)
-font-family: 'Chonburi', 'Lora', 'Oi';  
-*/
-
-/* 
-Font Family 2 (clean-modern-bold)
-font-family: 'Anton', 'Kumbh Sans','Train One'; 
-*/
-
-/* css for background image
-background-image:url('img/1160.jpg');
-background-attachment: fixed;
-background-position: center;
-background-size: cover;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover; 
-*/
-
-/* 
-Blur effect for images
-filter: blur(4px); 
-*/
 #footer a {
     /* color:#f8ddc0 !important; */
     list-style-type: none !important; 
@@ -139,51 +115,6 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
     text-align:center;
     padding: 10px;
 }
-/* 
-  p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, li,
- .navbar-brand, .nav-link, .btn {
-    color:#f8ddc0;
-    background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif) !important;
-    background-size: cover;
-    -moz-background-clip: text;
-    -webkit-background-clip: text;
-    text-shadow:1px 3px 20px #986572 !important;
-    -moz-transition: all 0.2s ease-in;
-    -o-transition: all 0.2s ease-in;
-    -webkit-transition: all 0.2s ease-in;
-    transition: all 0.2s ease-in;
-    font-family: 'Kumbh Sans', 'Anton', 'Train One'; 
-} */
-
-.form-control{
-    display: block;
-    width: 100%;
-    height: calc(1.5em + .75rem + 2px);
-    padding: .375rem .75rem;
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.5;
-    color:#f8ddc0;
-    background-color:#986572;
-    background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif) !important;
-    opacity:0.6;
-    background-size: cover;
-    -moz-background-clip: text;
-    -webkit-background-clip: text;
-    background-clip:padding-box;
-    border:none;
-}
-
-  /* p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, li,
- .navbar-brand, .nav-link, .btn:hover {
-    color:#f8ddc0;
-    text-shadow:3px 1px 20px #986572 !important;
-    -moz-transition: all 0.2s ease-in;
-    -o-transition: all 0.2s ease-in;
-    -webkit-transition: all 0.2s ease-in;
-    transition: all 0.2s ease-in;
-    text-decoration: none;
- } */
 
  /* light */
   .light-text {
@@ -229,16 +160,6 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
   font-family: 'Kumbh Sans', 'Anton', 'Train One'; 
 }
 
-/* .font-change:hover {
-    color:#f8ddc0;
-    text-shadow:1px 3px 30px #986572;   
-    -moz-transition: all 0.2s ease-in;
-    -o-transition: all 0.2s ease-in;
-    -webkit-transition: all 0.2s ease-in;
-    transition: all 0.2s ease-in;
-    font-family: 'Anton', 'Kumbh Sans','Train One'; 
-} */
-
 
   /* footer */
 
@@ -246,35 +167,6 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
   background:#986572;
 }
 
-/*   
-
-  color:#f8ddc0;  
-  text-align: center;
-  padding: .2em;
-  font-size: var(--fs-h3);
-
-
-.footer, .footer-links a { 
-  color:#f8ddc0;
-  text-decoration: none;
-}
-
-.footer, .footer-links a:hover { 
-  text-decoration: none;
-}
-
-.footer__link {
-  font-weight: var(--fw-bold);
-}
-
-.footer__link:hover,
-.social-list__link:hover {
-  opacity: .7;
-}
-
-.footer__link:hover {
-  text-decoration: none;
-}
 
 .social-list {
   list-style-type:none ;
@@ -285,17 +177,8 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
   padding: 0;
 }
 
-.social-list__item {
-  margin: 0 .5em;
-  display: flex;
-}
-
-.social-list__social-link {
-  padding: .5em;
-} */
-
 /* Contact Form */
-/* 
+
 form {
   margin-top: 50px;
   transition: all 4s ease-in-out;
@@ -326,4 +209,4 @@ form .submit{
 form .submit:hover{
   background-color: #986572;
   cursor: pointer;
-} */
+}
