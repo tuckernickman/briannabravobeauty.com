@@ -22,14 +22,23 @@
   <section> 
     <div class="col section-content perspective">
         <h2>Brianna Bravo Beauty</h2>
-            <div id="content" class="col-sm">
+        <div class="row">
+            <div id="content" class="col align-self-start">
                 <a href="" class="field-group-link project-link d-block p-visible">
                     <div class="project-img md">
                         <img class="img-fluid" src="/assets/img/brianna1.jpg" alt="photo of brianna">
                     </div>
                 </a>
             </div>
+            <div class="col align-self-end">
+            <a href="" class="field-group-link project-link d-block p-visible">
+                    <div class="project-img md">
+                        <img class="img-fluid" src="/assets/img/brianna2.jpg" alt="photo of brianna">
+                    </div>
+                </a>
     </div>
+    </div>
+</div>
     <div class="col section-content perspective">
         <div id="content" class="sat">
             <h1>Hey dollface!</h1>
