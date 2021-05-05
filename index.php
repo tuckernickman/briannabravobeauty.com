@@ -13,7 +13,7 @@
 
 <section class='intro'>
   <div class='intro__text'>Brianna Bravo Beauty</div>
-  <button class='intro__btn' type='button'><a href="home.php">enter</a></button>
+  <button class='intro__btn' type='button'><a href="home.php" style="none">enter</a></button>
 </section>
 
     
