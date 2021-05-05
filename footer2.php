@@ -16,10 +16,10 @@
           <h5 class="mb-2 font-weight-bold text-uppercase ">Contact Me</h5>
         <ul class="list-group">
           <li class="list-group-item bg-transparent border-0 p-0 mb-2">
-            <a href="https://twitter.com"><i class="fab fa-envelope mr-1"></i> E-Mail</a>       
+            <a href="https://twitter.com"><i class="fas fa-envelope mr-1"></i> E-Mail</a>       
           </li class="list-group-item bg-transparent border-0 p-0 mb-2">
           <li class="list-group-item bg-transparent border-0 p-0 mb-2">
-            <a href="https://www.facebook.com/bravo.bribeauty" target="_blank"><i class="fab fa-facebook mr-1"></i> Facebook</a>
+            <a href="https://www.facebook.com/bravo.bribeauty" target="_blank"><i class="fab fa-facebook-f mr-1"></i> Facebook</a>
           </li>
           <li class="list-group-item bg-transparent border-0 p-0 mb-2">
             <a href="https://www.instagram.com/bravo.bribeauty/" target="_blank"><i class="fab fa-instagram mr-1"></i> Instagram</a>  
