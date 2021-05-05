@@ -1,9 +1,12 @@
 <div class="container-fluid contenedor text-center">
-	<h1 class="text-center"> Services I Offer</h1>
-  <p>
-  <h3>Please note that all services include lash application.</h3>
-<h3>I also offer hourly lessons, please email me with any inquiries. </h3>
-</p>
+	<div class="colored-accent-bkg">
+		<h1 class="text-center dark-text"> Services I Offer</h1>
+  		<p class="dark-text">
+  		<h3 class="dark-text">Please note that all services include lash application.</h3>
+		<h3 class="dark-text">I also offer hourly lessons, please email me with any inquiries. </h3>
+		</p>
+	</div>
+	
 	<div class=" container text-center">
         <div class="row justify-content-center">
 		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto ">
