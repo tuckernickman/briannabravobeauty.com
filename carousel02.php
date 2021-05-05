@@ -1,6 +1,4 @@
-<body>
-<section>
-<div class="container">
+<div class="col container-fluid">
 <div class="justify-content-center card-carousel">
   <div class="d-flex justify-content-center my-card"></div>
   <div class="d-flex justify-content-center my-card prev"></div>
@@ -9,5 +7,3 @@
   <div class="d-flex justify-content-center my-card"></div>
 </div>
 </div>
-</section>
-</body>

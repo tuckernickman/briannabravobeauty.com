@@ -117,6 +117,13 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
     padding: 10px;
 }
 
+.gif-text {
+  background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
+  background-size: cover;
+  -moz-background-clip: text;
+  -webkit-background-clip: text;
+  text-shadow:1px 3px 20px #986572 !important;
+}
 /* light */
 .light-text {
     color:#f8ddc0 !important;
@@ -187,16 +194,25 @@ form {
 
 .form-control{
   width: 80vw;
-  background: transparent;
+  background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif) !important;
+  background-size: cover;
+  -moz-background-clip: text;
+  -webkit-background-clip: text;
   border: none;
   outline: none;
-  border-bottom: 1px solid gray;
   font-size: 18px;
   margin-bottom: 16px;
 }
 
 input{
   height: 10vh;
+}
+
+textarea {
+  background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif) !important;
+  background-size: cover;
+  -moz-background-clip: text;
+  -webkit-background-clip: text;
 }
 
 form .submit{
@@ -275,4 +291,14 @@ form .submit:hover{
 a, a:hover, a:focus, a:active {
   text-decoration: none;
   color: inherit;
+}
+
+.container-fluid {
+  width: 100vw;
+  height: 100vh;
+  display:block;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
 }
