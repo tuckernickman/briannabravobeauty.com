@@ -4,11 +4,11 @@
     align-content: center;
     justify-content: center;
     position: relative;
-    /* margin:auto; */
-    padding-bottom:15%;
+    margin:auto;
   }
   
   .card-carousel .my-card {
+    display: flex;
     height: auto;
     width: 12rem;
     position: relative;
@@ -36,6 +36,7 @@
 
   .card-carousel .my-card.active {
     z-index: 3;
+    width:50vw;
     -webkit-transform: scale(1) translateY(0) translateX(0);
     transform: scale(1) translateY(0) translateX(0);
     opacity: 1;

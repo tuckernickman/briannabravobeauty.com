@@ -26,10 +26,10 @@
     <!-- CSS -->
  
     <link rel="stylesheet" type="text/css" href="/styles/main.css">
-    <link rel="stylesheet" type="text/css" href="/styles/mystyles2.css>
+    <!-- <link rel="stylesheet" type="text/css" href="/styles/mystyles2.css"> -->
     <link rel="stylesheet" type="text/css" href="/styles/photo.css">
-   <!-- <link rel="stylesheet" type="text/css" href="/styles/briannastyle.css"> -->
-   <link rel="stylesheet" type="text/css" href="/styles/services3.css">
+    <!-- <link rel="stylesheet" type="text/css" href="/styles/briannastyle.css"> -->
+    <link rel="stylesheet" type="text/css" href="/styles/services3.css">
     <link rel="stylesheet" type="text/css" href="/styles/carousel02.css">
     
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

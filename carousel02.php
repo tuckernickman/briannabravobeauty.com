@@ -1,9 +1,9 @@
-<div class="col container-fluid">
-<div class="justify-content-center card-carousel">
-  <div class="d-flex justify-content-center my-card"></div>
-  <div class="d-flex justify-content-center my-card prev"></div>
-  <div class="d-flex justify-content-center my-card active"></div>
-  <div class="d-flex justify-content-center my-card next"></div>
-  <div class="d-flex justify-content-center my-card"></div>
-</div>
+<div class="col-sm container-fluid text-center">
+  <div class="card-carousel">
+    <div class="d-flex my-card"></div>
+    <div class="d-flex my-card prev"></div>
+    <div class="d-flex my-card active"></div>
+    <div class="d-flex my-card next"></div>
+    <div class="d-flex my-card"></div>
+  </div>
 </div>
