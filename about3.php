@@ -3,25 +3,27 @@
 
 <body>
 
-    <div class="card mb-3" >
+<div class="card mb-3" >
   <div class="row g-0">
     <div class="col-md-4">
-    <div id="cf">
-  <img class="rounded float-left bottom" src="/assets/img/brianna1.jpg" />
-  <img class="rounded float-left top" src="/assets/img/brianna2.jpg" />
-</div>
+      <div id="cf">
+        <img class="rounded float-left bottom" src="/assets/img/brianna1.jpg" />
+        <img class="rounded float-left top" src="/assets/img/brianna2.jpg" />
+      </div>
     </div>
     
     <div class="col-lg-8">
       <div class="card-body">
-        <h5 class="card-title">About me</h5>
-        <p class="card-text">    I est​ablished my little business in 2018 based on my love for not only makeup, but the way I felt in it. <br>
+        <h5 class="card-title light-text">About me</h5>
+          <p class="card-text light-text">    
+            I est​ablished my little business in 2018 based on my love for not only makeup, but the way I felt in it. <br>
             I'm a HMUA who specializes in boudoir and bridal. <br>
             I'm all about pushing the world's expectations of us as womxn. <br>
             They expect us to be perfect, perfect body, perfect skin, perfect values. <br>
             If you're a mom, you have to be a good mom, but be hot. Be natural, but your natural needs to be flawless. <br>
             Honey, believe me when I tell you... you are worth so much more than expectations. <br>
-            Check out my pricing and feel free to contact me with any questions!</p>
+            Check out my pricing and feel free to contact me with any questions!
+          </p>
         </div>
       
     </div>
