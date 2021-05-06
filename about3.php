@@ -5,6 +5,7 @@
 
 <div class="card mb-3" >
   <div class="row g-0">
+    
     <div class="col-md-4">
       <div id="cf">
         <img class="rounded float-left bottom" src="/assets/img/brianna1.jpg" />
@@ -12,7 +13,7 @@
       </div>
     </div>
     
-    <div class="col-lg-8">
+    <div class="col-md-4">
       <div class="card-body">
         <h5 class="card-title light-text">About me</h5>
           <p class="card-text light-text">    

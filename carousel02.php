@@ -1,3 +1,4 @@
+<body>
 <div id="content" class="col-sm container-fluid text-center">
   <div id="content" class="card-carousel">
     <div id="content" class="d-flex my-card"></div>
@@ -7,3 +8,4 @@
     <div id="content" class="d-flex my-card"></div>
   </div>
 </div>
+</body>

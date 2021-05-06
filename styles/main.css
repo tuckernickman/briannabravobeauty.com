@@ -50,7 +50,7 @@ body {
     /* background-color:#5c72ee; */
 }
 
-.navbar-light .navbar-toggler {
+.navbar-toggler {
   color:#986572 !important;
   text-shadow:1px 3px 20px #f8ddc0 !important;
   -moz-transition: all 0.2s ease-in;
@@ -60,7 +60,7 @@ body {
 }
 
 
-.navbar-light .navbar-toggler-icon {
+.navbar-toggler-icon {
   background-image:url('/assets/logo/logo2.1.svg');
 }
 
@@ -205,7 +205,7 @@ form {
 
 input, ::placeholder {
   height: 10vh;
-  width: 100vw;
+  width: auto;
 }
 
 input, textarea, ::placeholder {
