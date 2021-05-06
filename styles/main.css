@@ -109,6 +109,7 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
   -moz-background-clip: text;
   -webkit-background-clip: text;
   text-shadow:1px 3px 20px #986572 !important;
+  opacity: 0.5;
 }
 
 /* light */
@@ -189,25 +190,20 @@ form {
 
 input, ::placeholder {
   height: 10vh;
+  width: 100vw;
 }
 
 input, textarea, ::placeholder {
   color: #99667294;
-  background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif) !important;
+  background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
   background-size: cover;
   -moz-background-clip: text;
   -webkit-background-clip: text;
 }
 
-textarea {
-  background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif) !important;
-  background-size: cover;
-  -moz-background-clip: text;
-  -webkit-background-clip: text;
-}
 
 form .submit{
-  background: #ba968e;
+  background: #ba968e !important;
   border-color: transparent;
   font-size: 20px;
   font-weight: bold;
@@ -287,8 +283,8 @@ a, a:hover, a:focus, a:active {
 .container-fluid {
   width: 100vw;
   display:block;
-  padding-right: 15px;
-  padding-left: 15px;
+  /* padding-right: 15px;
+  padding-left: 15px; */
   margin-right: auto;
   margin-left: auto;
 }

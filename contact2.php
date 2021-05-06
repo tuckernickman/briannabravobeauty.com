@@ -7,7 +7,7 @@
             <h2 class="dark-text">Fill out this form to contact me</h2>
         </div>
 
-        <div class="contact-form dark-text">
+        <div class="contact-form">
 
             <form id="contact-form" class="" method="post" action="">
 
