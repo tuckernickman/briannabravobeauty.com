@@ -36,6 +36,7 @@
   <div class="row g-0">
 
     <div class="col-md-6">
+    
       <div id="cf" class="container align-image">
         <img class="rounded float-left bottom" src="/assets/img/brianna1.jpg" />
         <img class="rounded float-left top" src="/assets/img/brianna2.jpg" />
