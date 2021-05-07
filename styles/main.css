@@ -1,34 +1,11 @@
 /*
+
 Logo Color:#547861;
-/////
-Barley Corn: #a4a457
 
-Apricot Peach: #fcd1c6
+Copper Rose: #986572;
 
-Gray Nurse: #e2e8df
+Givry: #f8ddc0;
 
-Luxor Gold: #9f7726
-//////
-Copper Rose: #986572
- 
-Sprout: #cedfbc
-//////
-Quicksand: #ba968e
-
-Tana: #d7d7bd
-
-Limed Spruce: #415053
-
-Bay Leaf: #7baf8e
-//////
-Givry: #f8ddc0
-
-Pablo: #7b7461
-
-Russett: #7d575d
-
-Bright Gray: #363b47
-/////
 */
 
 #footer a {
@@ -73,6 +50,20 @@ body {
     /* background-color:#5c72ee; */
 }
 
+.navbar-toggler {
+  color:#986572 !important;
+  text-shadow:1px 3px 20px #f8ddc0 !important;
+  -moz-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  -webkit-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+}
+
+
+.navbar-toggler-icon {
+  background-image:url('/assets/logo/logo2.1.svg');
+}
+
 #content{
     display:inline-block;
     align-content: center;  
@@ -88,8 +79,22 @@ h1, h4, h2, h3, h5, h6 {
   text-shadow:1px 3px 20px #986572 !important;
   text-transform: uppercase;
   /* font-size: 120px; */
-  line-height: .75;
+  line-height: 1.5;
   margin: 10px 0;
+  font-family: 'Kumbh Sans', 'Anton', 'Train One'; 
+}
+
+a, p, i, td, th, li, ::placeholder {
+  font-family: 'Kumbh Sans', 'Anton', 'Train One'; 
+}
+
+p, i, td, th, li, h1, h4, h2, h3, h5, h6 {
+  color: inherit;
+}
+
+p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
+    text-align:center;
+    padding: 10px;
 }
 
 /* styling my button */
@@ -112,18 +117,16 @@ h1, h4, h2, h3, h5, h6 {
   color: #122;
 }
 
-p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
-    text-align:center;
-    padding: 10px;
-}
-
-.gif-text {
-  background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
+.gif-highlight {
+  background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif) !important;
   background-size: cover;
   -moz-background-clip: text;
   -webkit-background-clip: text;
   text-shadow:1px 3px 20px #986572 !important;
+  opacity: 0.5;
 }
+
+
 /* light */
 .light-text {
     color:#f8ddc0 !important;
@@ -193,27 +196,26 @@ form {
 }
 
 .form-control{
-  width: 80vw;
-  background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif) !important;
-  background-size: cover;
-  -moz-background-clip: text;
-  -webkit-background-clip: text;
+  width: 100vw;
   border: none;
   outline: none;
   font-size: 18px;
   margin-bottom: 16px;
 }
 
-input{
+input, ::placeholder {
   height: 10vh;
+  width: auto;
 }
 
-textarea {
-  background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif) !important;
+input, textarea, ::placeholder {
+  color: #99667294;
+  background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
   background-size: cover;
   -moz-background-clip: text;
   -webkit-background-clip: text;
 }
+
 
 form .submit{
   background: #ba968e;
@@ -239,7 +241,6 @@ form .submit:hover{
 .intro {
   width: 100vw;
   height: 100vh;
-
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -247,6 +248,7 @@ form .submit:hover{
   overflow: hidden;
   font-size: 1rem;
 }
+
 .intro__text {
   color: #986572;
   font-family: "Poppins", sans-serif;
@@ -295,10 +297,9 @@ a, a:hover, a:focus, a:active {
 
 .container-fluid {
   width: 100vw;
-  height: 100vh;
   display:block;
-  padding-right: 15px;
-  padding-left: 15px;
+  /* padding-right: 15px;
+  padding-left: 15px; */
   margin-right: auto;
   margin-left: auto;
 }

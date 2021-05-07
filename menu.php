@@ -1,20 +1,20 @@
 <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container-fluid" id="grad">
-          <a class="navbar-brand" href="index.php">Brianna Bravo Beauty</a>
+          <a class="navbar-brand dark-text" href="home.php">Brianna Bravo Beauty</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
+            <span class="navbar-toggler-icon dark-text"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="aboutme.php">About</a>
+                    <a class="nav-link dark-text" href="aboutme.php">About</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="myservices.php">Services</a>
+                    <a class="nav-link dark-text" href="myservices.php">Services</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="Contact.php">Contact</a>
+                    <a class="nav-link dark-text" href="Contact.php">Contact</a>
                 </li>
             </ul>
             </div>
