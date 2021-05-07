@@ -35,15 +35,14 @@
 <div class="card container mb-3" >
   <div class="row g-0">
 
-    <div class="col-md-6">
-    
+    <div class="container col-md-6">
       <div id="cf" class="container align-image">
-        <img class="rounded float-left bottom" src="/assets/img/brianna1.jpg" />
-        <img class="rounded float-left top" src="/assets/img/brianna2.jpg" />
+        <img class="rounded bottom" src="/assets/img/brianna1.jpg" />
+        <img class="rounded top" src="/assets/img/brianna2.jpg" />
       </div>
     </div>
     
-    <div class="col-md-6">
+    <div class="container col-md-6">
       <div class="container align-image">
         <h5 class="card-title light-text">About me</h5>
           <p class="card-text light-text">    
@@ -55,8 +54,7 @@
             Honey, believe me when I tell you... you are worth so much more than expectations. <br>
             Check out my pricing and feel free to contact me with any questions!
           </p>
-        </div>
-      
+        </div> 
     </div>
   </div>
 </div>
