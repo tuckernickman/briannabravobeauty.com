@@ -1,13 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<style>
-
-</style> 
-
-</head>
 <body>
-
 <section>
 <div>
         <h1 class="mat dark-text">Brianna Bravo</h1>
@@ -16,7 +10,7 @@
 </div>
           
 <div class="container">
-<div class="pat col-lg-4 col-md-4 col-sm-6 col-xs-12">
+<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 pat">
   <p class="dark-text">
     <strong>Grace Flores-Zamora-</strong> 
     "I love you as a person,<br> 
@@ -30,7 +24,7 @@
 
     
   
-<div class="pat col-lg-4 col-md-4 col-sm-6 col-xs-12">
+<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 pat">
   <p class="dark-text">
     <strong>Ashley Beal-</strong> 
     "You being adorable.<br> 

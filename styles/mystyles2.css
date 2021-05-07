@@ -1,11 +1,12 @@
 .pat {
-    /* width: 400px;
-    padding: 15px; */
+    background-color:#ffff;
+    width: 400px;
+    padding: 15px;
     margin: 20px;
+    background: #fff;
     background: linear-gradient(to right, #ba968e, transparent 80%);
-    box-shadow: 3px 2px 2px var(--box-shadow-color);
     --box-shadow-color:#996672;
-    font-family: cursive;
+    box-shadow: 3px 2px 2px var(--box-shadow-color);
     font-size: 60%;
     display: inline-block;
     width: 10%;
