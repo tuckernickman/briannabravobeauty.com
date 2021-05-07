@@ -98,8 +98,10 @@ p, i, td, th, li, h1, h4, h2, h3, h5, h6 {
 }
 
 p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
-    text-align:center;
-    padding: 10px;
+  display:inline-block;
+  align-content: center; 
+  text-align:center;
+  padding: 10px;
 }
 
 /* light */
@@ -285,5 +287,5 @@ a, a:hover, a:focus, a:active {
   padding-left: 15px; */
   margin-right: auto;
   margin-left: auto;
-  justify-content: center space-evenly;
+  justify-content: center;
 }
