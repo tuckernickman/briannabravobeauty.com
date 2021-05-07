@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/styles/carousel3.css">
+<link rel="stylesheet" href="/styles/carousel.css">
 
 <body>
 <div >
@@ -36,7 +36,7 @@
 </div>
 </body>
 <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-<script src="/js/carousel3.js"></script>
+<script src="/js/carousel.js"></script>
 
 <script>
      var coverflow = $("#coverflow").flipster();
