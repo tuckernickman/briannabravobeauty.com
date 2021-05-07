@@ -10,7 +10,7 @@
         <h6 class="mat dark-text">Makeup Artist</h6>
       </div>
               
-      <div class="container">
+      <div class="container col-lg-12 col-md-12 col-sm-12 col-xs-12">
         <div class="pat col-lg-3 col-md-3 col-sm-6 col-xs-12">
           <p class="dark-text">
             <strong>Grace Flores-Zamora:</strong><br>
