@@ -1,6 +1,3 @@
-<link rel="stylesheet" type="text/css" href="/styles/about3.css">
- 
-
 <body>
 
 <div class="container card mb-3" >
