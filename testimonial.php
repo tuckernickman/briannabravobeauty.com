@@ -38,7 +38,7 @@
 </div>
           
 <div class="container">
-<div class="pat">
+<div class="pat col-lg-4 col-md-4 col-sm-6 col-xs-12">
   <p class="dark-text">
     <strong>Grace Flores-Zamora-</strong> 
     "I love you as a person,<br> 
@@ -52,7 +52,7 @@
 
     
   
-<div class="pat">
+<div class="pat col-lg-4 col-md-4 col-sm-6 col-xs-12">
   <p class="dark-text">
     <strong>Ashley Beal-</strong> 
     "You being adorable.<br> 
@@ -66,7 +66,7 @@
    
 
    
-<div class="pat">
+<div class="pat col-lg-4 col-md-4 col-sm-6 col-xs-12">
   <p class="dark-text">
     <strong>Michelle Antionetta Crossley-</strong>
     "You being so easy to talk too,<br> 
@@ -78,7 +78,7 @@
   
 
   
-<div class="pat">
+<div class="pat col-lg-4 col-md-4 col-sm-6 col-xs-12">
   <p class="dark-text"> 
     <strong>Jazalynn Powers-</strong> 
     "You were so sweet and welcoming even<br>

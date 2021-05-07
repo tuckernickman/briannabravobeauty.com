@@ -18,11 +18,7 @@
 
     <?php include "carousel.php"; ?>
 
-    <style>
-    <?php include "servicesheader.php"; ?>
-    </style>
     <?php include "services.php"; ?>
-    </style>
     
     <?php include "testimonial.php";?>
 
