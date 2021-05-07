@@ -1,11 +1,10 @@
 .pat {
-    background-color:#ffff;
-    width: 400px;
-    padding: 15px;
-    margin: 20px;
-    background: #fff;
-    background: linear-gradient(to right, #ba968e, transparent 80%);
-    --box-shadow-color:#996672;
+    width: 100%;
+    height:50%;
+    padding: 5px;
+    margin: 15px;
+    background: linear-gradient(to right, #cab2ac, transparent 80%);
+    --box-shadow-color:#996672af;
     box-shadow: 3px 2px 2px var(--box-shadow-color);
     font-size: 60%;
     display: inline-block;

@@ -10,7 +10,7 @@
 </div>
           
 <div class="container">
-<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 pat">
+<div class="pat col-lg-4 col-md-4 col-sm-6 col-xs-12">
   <p class="dark-text">
     <strong>Grace Flores-Zamora-</strong> 
     "I love you as a person,<br> 
@@ -24,7 +24,7 @@
 
     
   
-<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 pat">
+<div class="pat col-lg-4 col-md-4 col-sm-6 col-xs-12">
   <p class="dark-text">
     <strong>Ashley Beal-</strong> 
     "You being adorable.<br> 
