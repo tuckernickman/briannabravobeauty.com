@@ -30,35 +30,11 @@
 </head>
 <body>
 
-  <nav class="navbar navbar-expand-lg navbar-light">
-    <div class="container-fluid" id="grad">
-      <a class="navbar-brand" href="index.php">Brianna Bravo Beauty</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
-        <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-                <a class="nav-link" href="about.php">About</a>
-            </li>
-            <li class="nav-item active">
-                <a class="nav-link" href="myservices.php">Services</a>
-            </li>
-            <li class="nav-item active">
-                <a class="nav-link" href="Contact.php">Contact</a>
-            </li>
-        </ul>
-        </div>
-      </div>
-    </div>
-  </nav>
-
 <section>
 <div>
-        <h1 class="mat">Brianna Bravo</h1>
+        <h1 class="mat dark-text">Brianna Bravo</h1>
 
-        <h6 class="mat">Makeup Artist</h6>
+        <h6 class="mat dark-text">Makeup Artist</h6>
 </div>
           
 <div class="container">
