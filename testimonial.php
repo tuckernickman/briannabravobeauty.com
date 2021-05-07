@@ -2,29 +2,7 @@
 <html lang="en">
 
 <style>
- .pat {
-  background-color:#ffff;
-  width: 400px;
-  padding: 15px;
-  margin: 20px;
-  background: #fff;
-  
-  background: linear-gradient(to right, white, transparent 70%);
- 
-  box-shadow: 3px 2px 2px 0;
-  box-shadow: rgba(59, 58, 58, 0.39);
 
-  font-family: cursive;
-  font-size: 60%;
-
-  display: inline-block;
-  width: 10%;
- }
- 
-.mat {
-  text-align: center;
-  
-}
 </style> 
 
 </head>
