@@ -12,7 +12,7 @@
 
     <?php include "menu.php"; ?>
 
-    <?php include "about3.php"; ?>
+    <?php include "about.php"; ?>
 
     <?php include "footer2.php"; ?>
 </body>
