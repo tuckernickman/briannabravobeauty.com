@@ -1,8 +1,6 @@
-<!-- Rachel's contact form - not currently being used -->
-
 <?php
-		$nameErr = $emailErr = $yesnoRadioErr = "";
-		$name = $email = $yesnoRadio = $comment = "";
+		$nameErr = $phoneErr = $emailErr = $yesnoRadioErr = "";
+		$name = $phone = $email = $yesnoRadio = $comment = "";
 		$formErr = false;
 
 		if ($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -18,7 +16,19 @@
 					$formErr = true;
 				}
 			}
-			
+
+			if (empty($_POST["phone"])) {
+				$phoneErr = "Phone Number is required.";
+				$formErr = true;
+			} else {
+				$phone = cleanInput($_POST["phone"]);
+				//Use REGEX to accept only phone numbers
+				if (!preg_match("/^(\+\d{1,2}\s)?\(?\d{3}\)?[\s.-]\d{3}[\s.-]\d{4}$/",$phone)) {
+					$phoneErr = "Please enter your phone number";
+					$formErr = true;
+				}
+			}
+
 			if (empty($_POST["email"])) {
 				$emailErr = "Email is required.";
 				$formErr = true;
@@ -70,10 +80,16 @@
 						<div class="form-group">
 							<label for="name">Full Name:</label>
 							<span class="text-white">*<?php echo $nameErr; ?></span>
-							<input type="text" class="form-control" id="name" placeholder="Full Name" name="name" value="<?php if(isset($name)) {echo $name;}?>"" />
-							
+							<input type="text" class="form-control" id="name" placeholder="Full Name" name="name" value="<?php if(isset($name)) {echo $name;}?>" />
 						</div>
 						
+						<!-- Phone Field -->
+						<div class="form-group">
+							<label for="phone">Phone Number:</label>
+							<span class="text-white">*<?php echo $nameErr; ?></span>
+							<input type="phone" class="form-control" id="phone" placeholder="Phone Number" name="phone" value="<?php if(isset($phone)) {echo $phone;}?>" />
+						</div>
+
 						<!-- Email Field -->
 						<div class="form-group">
 							<label for="email">Email address:</label>
@@ -130,11 +146,12 @@
 			$conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION); 
 			
 			//Variable containing SQL command
-			$stmt = $conn->prepare("INSERT INTO rday_table (name, email, yesnoRadio, comments)
-					VALUES (:name, :email, :yesnoRadio, :comment);");
+			$stmt = $conn->prepare("INSERT INTO rday_table (name, phone, email, yesnoRadio, comments)
+					VALUES (:name, :phone, :email, :yesnoRadio, :comment);");
 			
 			//Bind parameters
 			$stmt->bindParam(':name', $name);
+			$stmt->bindParam(':phone', $phone);
 			$stmt->bindParam(':email', $email);
 			$stmt->bindParam(':yesnoRadio', $yesnoRadio);
 			$stmt->bindParam(':comment', $comment);
@@ -164,6 +181,7 @@
 				<ul>
 					<?php
 					if ($name !== "") { echo "<li>NAME: $name </li>"; } 
+					if ($phone !== "") { echo "<li>PHONE: $phone </li>"; }
 					if ($email !== "") { echo "<li>EMAIL: $email </li>"; }
 					if ($yesnoRadio !== "") { echo "<li>CONTACT BACK: $yesnoRadio </li>"; }
 					if ($comment !== "") { echo "<li>COMMENT: $comment </li>"; }

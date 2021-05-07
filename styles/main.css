@@ -211,11 +211,7 @@ input, ::placeholder {
 }
 
 input, textarea, ::placeholder {
-  color: #99667294;
-  background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
-  background-size: cover;
-  -moz-background-clip: text;
-  -webkit-background-clip: text;
+  color: #ba988e;
 }
 
 
