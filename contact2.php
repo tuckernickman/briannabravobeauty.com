@@ -9,7 +9,7 @@
 
         <div class="contact-form">
 
-            <form id="contact-form" class="" method="post" action="">
+            <form id="contact-form" class="" method="post" action="contactform.php">
 
             <input name="name" type="text" class="form-control dark-text" placeholder="Your Name" required><br>
             

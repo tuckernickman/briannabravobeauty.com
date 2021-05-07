@@ -3,18 +3,18 @@
 
 <body>
 
-<div class="card mb-3" >
+<div class="container card mb-3" >
   <div class="row g-0">
-    
-    <div class="col-md-4">
-      <div id="cf">
+
+    <div class="col-md-6">
+      <div id="cf" class="container align-image">
         <img class="rounded float-left bottom" src="/assets/img/brianna1.jpg" />
         <img class="rounded float-left top" src="/assets/img/brianna2.jpg" />
       </div>
     </div>
     
-    <div class="col-md-4">
-      <div class="card-body">
+    <div class="col-md-6">
+      <div class="container align-image">
         <h5 class="card-title light-text">About me</h5>
           <p class="card-text light-text">    
             I est​ablished my little business in 2018 based on my love for not only makeup, but the way I felt in it. <br>

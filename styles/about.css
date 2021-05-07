@@ -1,26 +1,37 @@
 .card {
-    background: #986572;
-    
+  display: block;
+  height: 75vh;
+  width: 100vw;
+  background: #986572;
 }
+
 .card-body{
-    background: #986572;
-    }
+  background: #986572;
+}
+
+.align-image {
+  position:relative;
+  justify-content: center;
+  align-items: center; 
+}   
 
 #cf {
-    height:auto;
-    width:auto;
-    margin:0 auto;
-  }
+  height:100%;
+  width:auto;
+  margin:0 auto;
+}
   
-  #cf img {
-    position:absolute;
-    left:0;
-    -webkit-transition: opacity 1s ease-in-out;
-    -moz-transition: opacity 1s ease-in-out;
-    -o-transition: opacity 1s ease-in-out;
-    transition: opacity 1s ease-in-out;
-  }
+#cf img {
+  width:auto;
+  height:auto;
+  position:absolute;
+  left:0;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
   
-  #cf img.top:hover {
-    opacity:0;
-  }
+#cf img.top:hover {
+  opacity:0;
+}
