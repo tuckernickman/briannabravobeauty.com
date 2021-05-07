@@ -65,7 +65,7 @@
 			<!-- Section Title -->
 			<div class="row justify-content-center text-center">
 				<div class="col-md-6">
-					<h2 class="display-4 font-weight-bold">Contact Me</h2>
+					<h2 class="display-4 font-weight-bold dark-text">Contact Me</h2>
 					<hr />
 				</div>
 			</div>
@@ -99,15 +99,15 @@
 						
 						<!-- Radio Button Field -->
 						<div class="form-group" class="dark-text">
-							<label class="control-label">Can we contact you back?</label>
+							<label class="control-label dark-text">Can we contact you back?</label>
 							<span class="dark-text">*<?php echo $yesnoRadioErr; ?></span>
 							<div class="form-check">
 								<input type="radio" class="form-check-input dark-text" name="contact-back" id="yes" value="Yes"  <?php if ((isset($yesnoRadio)) && ($yesnoRadio == "Yes")) {echo "checked";}?>/>
-								<label class="form-check-label" for="yes" >Yes</label>
+								<label class="form-check-label dark-text" for="yes" >Yes</label>
 							</div>
 							<div class="form-check">
 								<input type="radio" class="form-check-input dark-text" name="contact-back" id="no" value="No" <?php if ((isset($yesnoRadio)) && ($yesnoRadio == "No")) {echo "checked";}?>/>
-								<label class="form-check-label" for="no" >No</label>
+								<label class="form-check-label dark-text" for="no" >No</label>
 							</div>
 						</div>
 						
@@ -122,7 +122,7 @@
 						<div class="dark-text text-right">* Indicates required fields</div>
 						
 						<!-- Submit Button -->
-						<button class="btn btn-secondary mb-2" type="submit" role="button" name="submit">Submit</button>
+						<button class="btn btn-secondary mb-2 submit dark-text" type="submit" role="button" name="submit">Submit</button>
 					</form>
 					
 				</div>
