@@ -78,35 +78,35 @@
 						
 						<!-- Name Field -->
 						<div class="form-group">
-							<label for="name">Full Name:</label>
-							<span class="text-white">*<?php echo $nameErr; ?></span>
-							<input type="text" class="form-control" id="name" placeholder="Full Name" name="name" value="<?php if(isset($name)) {echo $name;}?>" />
+							<label for="name" class="dark-text">Full Name:</label>
+							<span class="dark-text">*<?php echo $nameErr; ?></span>
+							<input type="text" class="form-control dark-text" id="name" placeholder="Full Name" name="name" value="<?php if(isset($name)) {echo $name;}?>" />
 						</div>
 						
 						<!-- Phone Field -->
 						<div class="form-group">
-							<label for="phone">Phone Number:</label>
-							<span class="text-white">*<?php echo $nameErr; ?></span>
-							<input type="phone" class="form-control" id="phone" placeholder="Phone Number" name="phone" value="<?php if(isset($phone)) {echo $phone;}?>" />
+							<label for="phone" class="dark-text">Phone Number:</label>
+							<span class="dark-text">*<?php echo $nameErr; ?></span>
+							<input type="phone" class="form-control dark-text" id="phone" placeholder="Phone Number" name="phone" value="<?php if(isset($phone)) {echo $phone;}?>" />
 						</div>
 
 						<!-- Email Field -->
 						<div class="form-group">
-							<label for="email">Email address:</label>
-							<span class="text-white">*<?php echo $emailErr; ?></span>
-							<input type="email" class="form-control" id="email" placeholder="name@example.com" name="email" value="<?php if(isset($email)) {echo $email;} ?>" />
+							<label for="email" class="dark-text">Email address:</label>
+							<span class="dark-text">*<?php echo $emailErr; ?></span>
+							<input type="email" class="form-control dark-text" id="email" placeholder="name@example.com" name="email" value="<?php if(isset($email)) {echo $email;} ?>" />
 						</div>
 						
 						<!-- Radio Button Field -->
-						<div class="form-group">
+						<div class="form-group" class="dark-text">
 							<label class="control-label">Can we contact you back?</label>
-							<span class="text-white">*<?php echo $yesnoRadioErr; ?></span>
+							<span class="dark-text">*<?php echo $yesnoRadioErr; ?></span>
 							<div class="form-check">
-								<input type="radio" class="form-check-input" name="contact-back" id="yes" value="Yes"  <?php if ((isset($yesnoRadio)) && ($yesnoRadio == "Yes")) {echo "checked";}?>/>
+								<input type="radio" class="form-check-input dark-text" name="contact-back" id="yes" value="Yes"  <?php if ((isset($yesnoRadio)) && ($yesnoRadio == "Yes")) {echo "checked";}?>/>
 								<label class="form-check-label" for="yes" >Yes</label>
 							</div>
 							<div class="form-check">
-								<input type="radio" class="form-check-input" name="contact-back" id="no" value="No" <?php if ((isset($yesnoRadio)) && ($yesnoRadio == "No")) {echo "checked";}?>/>
+								<input type="radio" class="form-check-input dark-text" name="contact-back" id="no" value="No" <?php if ((isset($yesnoRadio)) && ($yesnoRadio == "No")) {echo "checked";}?>/>
 								<label class="form-check-label" for="no" >No</label>
 							</div>
 						</div>
@@ -114,12 +114,12 @@
 						
 						<!-- Comments Field -->
 						<div class="form-group">
-							<label for="comments">Comments:</label>
-							<textarea id="comments" class="form-control" rows="3" name="comments"><?php if (isset($comment)) {echo $comment;} ?></textarea>
+							<label for="comments" class="dark-text">Comments:</label>
+							<textarea id="comments" class="form-control dark-text" rows="3" name="comments"><?php if (isset($comment)) {echo $comment;} ?></textarea>
 						</div>
 
 						<!-- Required Fields Note-->
-						<div class="text-white text-right">* Indicates required fields</div>
+						<div class="dark-text text-right">* Indicates required fields</div>
 						
 						<!-- Submit Button -->
 						<button class="btn btn-secondary mb-2" type="submit" role="button" name="submit">Submit</button>

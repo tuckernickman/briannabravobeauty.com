@@ -32,7 +32,7 @@
 
 
 
-<div class="container card mb-3" >
+<div class="card container mb-3" >
   <div class="row g-0">
 
     <div class="col-md-6">
