@@ -42,8 +42,9 @@
           <div class="py-1 d-flex justify-content-center align-items-center">
                 <h5 class="mb-1 font-weight-bold text-uppercase light-text"> Copyright &copy; 
                     <?php echo date("Y"); ?> 
-                    <a class="light-text" href="#">Brianna Bravo Beauty</a> 
+                    <a class="light-text" href="#">Brianna Bravo Beauty</a>
                 </h5>
+                <h5 class="mb-1 font-weight-bold text-uppercase light-text">EST. 2018</h5>
           </div>
         </div>
 

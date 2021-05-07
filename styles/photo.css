@@ -238,9 +238,9 @@ h2,
 h3 {
   color: #fafafa;
 }
-h3 {
+/* h3 {
   font-size: 50px;
-}
+} */
 .carousel__indicator {
   background-color: #fafafa;
 }
