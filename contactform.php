@@ -115,10 +115,10 @@
 	
 	<?php if (($_SERVER["REQUEST_METHOD"] == "POST") && (!($formErr))) { ?>
 	<?php
-		 $hostname = "phponline2021.slccwebdev.com";
-		 $username = "phponline2021";
-		 $password = "k&UH8PaYKH@E7PZ53E^H";
-		 $databasename = "phponline2021";
+		 $hostname = "briannabravobeauty.com";
+		 $username = "briannaslcc@briannabravobeauty.com";
+		 $password = ".Brinichole23";
+		 $databasename = "BBBdb";
 		
 		
 		try {

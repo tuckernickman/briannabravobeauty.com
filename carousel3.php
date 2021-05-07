@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="/styles/carousel3.css">
 
-
-
+<body>
+<div >
 <div id="coverflow">
     <ul class="flip-items">
         <li data-flip-title="Red">
@@ -33,7 +33,8 @@
         </li>
     </ul>
 </div>
-
+</div>
+</body>
 <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 <script src="/js/carousel3.js"></script>
 
