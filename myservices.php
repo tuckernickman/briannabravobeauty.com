@@ -12,8 +12,8 @@
 <body>
     <?php include "menu.php"; ?>
 
-    <?php include "services3.php"; ?>
+    <?php include "services.php"; ?>
 
-    <?php include "footer2.php"; ?>
+    <?php include "footer.php"; ?>
 </body>
 </html>

@@ -12,7 +12,7 @@
 
 	<!--home page-->
 
-	<?php include "contact2.php"; ?> 
+	<?php include "contactform.php"; ?> 
 
 	<?php include "footer.php"; ?>
 </body>

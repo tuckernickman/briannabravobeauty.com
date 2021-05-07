@@ -24,8 +24,9 @@
     <?php include "services.php"; ?>
     </style>
     
+    <?php include "testimonial.php";?>
 
-    <?php include "contact2.php";?>
+    <?php include "contactform.php";?>
     
     <?php include "footer2.php"; ?>
 
