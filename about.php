@@ -37,8 +37,8 @@
 
     <div class="container col-md-6">
       <div id="cf" class="container align-image">
-        <img class="rounded bottom" src="/assets/img/brianna1.jpg" />
-        <img class="rounded top" src="/assets/img/brianna2.jpg" />
+        <img class="col-md-6 rounded bottom" src="/assets/img/brianna1.jpg" />
+        <img class="col-md-6 rounded top" src="/assets/img/brianna2.jpg" />
       </div>
     </div>
     

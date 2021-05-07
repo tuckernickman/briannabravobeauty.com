@@ -98,36 +98,6 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
     padding: 10px;
 }
 
-/* styling my button */
-
-.white-mode {
-  text-decoration: none;
-  padding: 7px 10px;
-  background-color: #122;
-  border-radius: 3px;
-  color: #FFF;
-  transition: .35s ease-in-out;
-  position: absolute;
-  left: 15px;
-  bottom: 15px;
-  font-family: "Montserrat";
-}
-
-.white-mode:hover {
-  background-color: #FFF;
-  color: #122;
-}
-
-.gif-highlight {
-  background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif) !important;
-  background-size: cover;
-  -moz-background-clip: text;
-  -webkit-background-clip: text;
-  text-shadow:1px 3px 20px #986572 !important;
-  opacity: 0.5;
-}
-
-
 /* light */
 .light-text {
     color:#f8ddc0 !important;
