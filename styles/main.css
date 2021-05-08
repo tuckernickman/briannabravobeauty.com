@@ -139,7 +139,7 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
 
 /* dark :hover */
 .dark-text:hover {
-  color: #ba988e !important;
+  color:#ba988e !important;
   text-shadow:1px 3px 20px #986572 !important;
   -moz-transition: all 0.2s ease-in;
   -o-transition: all 0.2s ease-in;
@@ -148,6 +148,15 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
   font-family: 'Kumbh Sans', 'Anton', 'Train One';
 }
 
+.testimonial-text {
+  color:#f8ddc0 !important;
+  text-shadow:1px 3px 20px #986572 !important;
+  -moz-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  -webkit-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+  font-family: 'Kumbh Sans', 'Anton', 'Train One';
+}
 
 /* footer */
 
