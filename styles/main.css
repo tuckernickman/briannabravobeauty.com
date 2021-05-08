@@ -10,9 +10,9 @@ Givry: #f8ddc0;
 
 #footer a {
     /* color:#f8ddc0 !important; */
-    list-style-type: none !important; 
-    text-decoration: none !important; 
-    background-color: transparent !important; 
+    list-style-type: none !important;
+    text-decoration: none !important;
+    background-color: transparent !important;
 }
 
 #footer a:hover {
@@ -54,7 +54,7 @@ body {
   /* background-color:#5c72ee; */
 }
 
-/* 
+/*
 .navbar-light .navbar-toggler {
   color:#986572 !important;
   text-shadow:1px 3px 20px #f8ddc0 !important;
@@ -71,7 +71,7 @@ body {
 
 #content{
       display:inline-block;
-      align-content: center;  
+      align-content: center;
       text-align:center;
       padding:0;
 }
@@ -86,11 +86,11 @@ h1, h4, h2, h3, h5, h6 {
   /* font-size: 120px; */
   line-height: 1.5;
   margin: 10px 0;
-  font-family: 'Kumbh Sans', 'Anton', 'Train One'; 
+  font-family: 'Kumbh Sans', 'Anton', 'Train One';
 }
 
 a, p, i, td, th, li, ::placeholder {
-  font-family: 'Kumbh Sans', 'Anton', 'Train One'; 
+  font-family: 'Kumbh Sans', 'Anton', 'Train One';
 }
 
 p, i, td, th, li, h1, h4, h2, h3, h5, h6 {
@@ -98,8 +98,8 @@ p, i, td, th, li, h1, h4, h2, h3, h5, h6 {
 }
 
 p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
-  display:inline-block;
-  align-content: center; 
+  /* display:inline-block; */
+  align-content: center;
   text-align:center;
   padding: 10px;
 }
@@ -123,7 +123,7 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
   -o-transition: all 0.2s ease-in;
   -webkit-transition: all 0.2s ease-in;
   transition: all 0.2s ease-in;
-  font-family: 'Kumbh Sans', 'Anton', 'Train One'; 
+  font-family: 'Kumbh Sans', 'Anton', 'Train One';
 }
 
 /* light :hover */
@@ -145,7 +145,7 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
   -o-transition: all 0.2s ease-in;
   -webkit-transition: all 0.2s ease-in;
   transition: all 0.2s ease-in;
-  font-family: 'Kumbh Sans', 'Anton', 'Train One'; 
+  font-family: 'Kumbh Sans', 'Anton', 'Train One';
 }
 
 
@@ -281,7 +281,7 @@ a, a:hover, a:focus, a:active {
   width:100%;
 }
 .container {
-  width: 100%;
+  width:auto;
   display:block;
   /* padding-right: 15px;
   padding-left: 15px; */
