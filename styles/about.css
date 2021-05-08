@@ -17,6 +17,7 @@
 }
 
 .align-image {
+  height:auto;
   position:relative;
   justify-content: center;
   align-items: center; 

@@ -33,7 +33,7 @@
 
 
 <div class="card container mb-3" >
-  <div class="row justify-content-center g-0">
+  <div class="row g-0">
 
     <div class="container col-lg-4 col-md-4 col-sm-6 col-xs-12">
       <div id="cf" class="container align-image">

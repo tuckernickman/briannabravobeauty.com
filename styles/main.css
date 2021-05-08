@@ -289,3 +289,7 @@ a, a:hover, a:focus, a:active {
   margin-left: auto;
   justify-content: center;
 }
+
+.col-6 {
+  width:100%;
+}
