@@ -42,8 +42,8 @@
         <div class="pat col-lg-3 col-md-3 col-sm-6 col-xs-12">
           <p class="dark-text">
             <strong>Michelle Antionetta Crossley:</strong><br>
-            "You being so easy to talk too, 
-            with being sassy as well,
+            "You being so easy to talk to, 
+            and sassy as well,
             but in a good way. 
             Plus making me feel so comfortable!"
           </p>
