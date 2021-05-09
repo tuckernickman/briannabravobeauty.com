@@ -7,7 +7,7 @@
     margin: 5px;
     background:#547861;
     --box-shadow-color:#996672af;
-    box-shadow: 3px 2px 2px var(--box-shadow-color);
+    box-shadow: 5px 6px 15px var(--box-shadow-color);
     display:inline-block;
     justify-content: space-evenly;
 }

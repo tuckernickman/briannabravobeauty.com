@@ -9,10 +9,10 @@ Givry: #f8ddc0;
 */
 
 #footer a {
-    /* color:#f8ddc0 !important; */
-    list-style-type: none !important;
-    text-decoration: none !important;
-    background-color: transparent !important;
+  /* color:#f8ddc0 !important; */
+  list-style-type: none !important;
+  text-decoration: none !important;
+  background-color: transparent !important;
 }
 
 #footer a:hover {
