@@ -23,6 +23,12 @@
   align-items: center; 
 }   
 
+#_cf {
+  height:100%;
+  width:auto;
+  margin:0 auto;
+}
+
 #cf {
   height:100%;
   width:auto;
@@ -31,7 +37,7 @@
   
 #cf img {
   width:auto;
-  height:auto;
+  height:100%;
   position:absolute;
   left:0;
   -webkit-transition: opacity 1s ease-in-out;
