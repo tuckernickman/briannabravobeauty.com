@@ -5,7 +5,7 @@
   -ms-flex-direction: column;
   flex-direction: column;
   min-width: 0;
-  max-width: 98vw;
+  max-width: 90vw;
   word-wrap: break-word;
   background-color:#986572;
   background-clip: border-box;
@@ -26,20 +26,23 @@
 
 #_cf {
   height:100%;
-  width:auto;
+  min-width:50%;
   margin:0 auto;
 }
 
 #cf {
+  position:relative;
+  justify-content: center;
+  align-items: center;
   height:100%;
-  width:auto;
+  width:100%;
   margin:0 auto;
 }
   
 #cf img {
-  width:50vw;
+  width:40%;
   height:auto;
-  position:relative;
+  position:absolute;
   justify-content: center;
   align-items: center; 
   -webkit-transition: opacity 1s ease-in-out;
@@ -52,3 +55,7 @@
   opacity:0;
 }
 
+.card-text, .card-title {
+  max-width: 100%;
+  min-width: 50%
+}

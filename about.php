@@ -42,8 +42,8 @@
       </div>
     </div>
     
-    <div class="container col-lg-4 col-md-4 col-sm-6 col-xs-12">
-      <div class="container align-image">
+    <div id="_cf" class="container col-lg-4 col-md-4 col-sm-6 col-xs-12">
+      <div id="cf" class="container align-image">
         <h5 class="card-title light-text">About me</h5>
         <p class="card-text light-text">    
           I est​ablished my little business in 2018 based on my love for not only makeup, but the way I felt in it. <br>            I'm a HMUA who specializes in boudoir and bridal. <br>
