@@ -38,9 +38,10 @@
         <div class="col-md-12">
           <div class="py-1 d-flex justify-content-center align-items-center">
                 <h5 class="mb-1 font-weight-bold text-uppercase"> 
-                  <span class="light-text">&copy;</span>
-                  <?php echo date("Y"); ?> 
-                  <a class="light-text" href="#">Brianna Bravo Beauty</a>    
+                  <span class="light-text">&copy;
+                  <?php echo date("Y"); ?></span>
+                  <span class="light-text"><a class="light-text" href="#">Brianna Bravo Beauty</a>
+                  </span>    
     	          </h5>
                 <h5 class="mb-1 font-weight-bold text-uppercase"> 
                   <span class="light-text">EST. 2018</span>

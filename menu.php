@@ -17,10 +17,10 @@
                     <a class="nav-link dark-text" href="Contact.php">Contact</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link dark-text" href="https://www.facebook.com/bravo.bribeauty" target="_blank"><i class="fab fa-facebook-f mr-1"></i> Facebook</a>
+                    <a class="nav-link dark-text" href="https://www.facebook.com/bravo.bribeauty" target="_blank"><i class="fab fa-facebook-f mr-1"></i></a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link dark-text" href="https://www.instagram.com/bravo.bribeauty/" target="_blank"><i class="fab fa-instagram mr-1"></i> Instagram</a>
+                    <a class="nav-link dark-text" href="https://www.instagram.com/bravo.bribeauty/" target="_blank"><i class="fab fa-instagram mr-1"></i></a>
                 </li>
             </ul>
             </div>
