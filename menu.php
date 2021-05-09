@@ -16,34 +16,14 @@
                 <li class="nav-item active">
                     <a class="nav-link dark-text" href="Contact.php">Contact</a>
                 </li>
+                <li class="nav-item active">
+                    <a class="nav-link dark-text" href="https://www.facebook.com/bravo.bribeauty" target="_blank"><i class="fab fa-facebook-f mr-1"></i> Facebook</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link dark-text" href="https://www.instagram.com/bravo.bribeauty/" target="_blank"><i class="fab fa-instagram mr-1"></i> Instagram</a>
+                </li>
             </ul>
             </div>
           </div>
         </div>
     </nav>
-<!-- 
-	<div class=navmenu>
-  <nav class="navbar fixed-top navbar-dark bg-dark">
-  <a class="navbar-brand" href="index.php"><img class="logo"       
-       src="images/logo.jpg"></a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
-      </li> <li class="nav-item">
-        <a class="nav-link" href="About.php">About</a>
-      </li> 
-     <li class="nav-item">
-        <a class="nav-link" href="Testimonials.php">Testimonials</a>
-      </li> 
-      <li class="nav-item">
-        <a class="nav-link" href="Contact.php">Contact</a>
-      </li> 
-    </div>
-    </nav> 
-    </div>
-    -->
