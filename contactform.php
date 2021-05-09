@@ -130,23 +130,29 @@
 		</div>
 	</section>
 	
-	<?php if (($_SERVER["REQUEST_METHOD"] == "POST") && (!($formErr))) { ?>
+	<?php  ?>
 	<?php
-		 $hostname = "briannabravobeauty.com";
-		 $username = "briannaslcc@briannabravobeauty.com";
-		 $password = ".Brinichole23";
-		 $databasename = "BBBdb";
-		
-		
-		try {
-			//Create new PDO Object with connection parameters
-			$conn = new PDO("mysql:host=$hostname;dbname=$databasename",$username, $password);
+		function get_db_connection(){
+			$ini_data = parse_ini_file("db.ini");
+			print_r($ini_data);
 			
+			try {
+			//Create new PDO Object with connection parameters
+			$conn = new PDO("mysql:host=$ini_data[$hostname];dbname=$ini_data[$databasename]",$ini_data[$username],$ini_data[$password]);
+			echo "Connected successfully";
 			//Set PDO error mode to exception
 			$conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION); 
-			
+			} catch(PDOException $e){
+				echo "Connection failed: ". $e.getMessage();
+			}
+			return $conn;
+		}
+
+		if (($_SERVER["REQUEST_METHOD"] == "POST") && (!($formErr))){
+		$conn = get_db_connection();
+
 			//Variable containing SQL command
-			$stmt = $conn->prepare("INSERT INTO rday_table (name, phone, email, yesnoRadio, comments)
+			$stmt = $conn->prepare("INSERT INTO bbeauty_table (name, phone, email, yesnoRadio, comments)
 					VALUES (:name, :phone, :email, :yesnoRadio, :comment);");
 			
 			//Bind parameters
@@ -166,11 +172,7 @@
 			echo "A new record was added successfully. The last inserted ID is: " . $last_id;
 
 
-		} catch (PDOException $error) {
-
-			//Return error code if one is created
-			echo "An error occurred: <br>" . $sql . "<br>" . $error->getMessage();
-		}
+		} 
 	?>
     	<section id="results" style="background-color: lightsteelblue;">
 		<div class="container py-2" >
@@ -191,4 +193,4 @@
 		</div>
 	    </section>
 	
-	<?php } ?>
+	<?php?>
