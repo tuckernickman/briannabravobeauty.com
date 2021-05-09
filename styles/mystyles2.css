@@ -1,9 +1,11 @@
+/* linear-gradient(to bottom right, #547861, #cab2ac 80%)*/
+
 .pat {
     /* width:25%; */
     height:50%;
     padding: 5px;
     margin: 5px;
-    background: linear-gradient(to bottom right, #547861, #cab2ac 80%);
+    background:#547861;
     --box-shadow-color:#996672af;
     box-shadow: 3px 2px 2px var(--box-shadow-color);
     display:inline-block;
