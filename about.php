@@ -32,8 +32,8 @@
 
 
 
-<div class="card container mb-3" >
-  <div class="container g-0">
+<div class="container-fluid mb-3" >
+  <div class="card container g-0">
 
     <div id="_cf" class="container col-lg-4 col-md-4 col-sm-6 col-xs-12">
       <div id="cf" class="container align-image">
