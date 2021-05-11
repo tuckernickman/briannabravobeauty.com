@@ -99,13 +99,13 @@
 						
 						<!-- Radio Button Field -->
 						<div class="form-group" class="dark-text">
-							<label class="control-label dark-text">Can we contact you back?</label>
+							<label class="control-label dark-text">May we contact you back?</label>
 							<span class="dark-text">*<?php echo $yesnoRadioErr; ?></span>
-							<div class="form-check">
+							<div class="form-check col-sm">
 								<input type="radio" class="form-check-input dark-text" name="contact-back" id="yes" value="Yes"  <?php if ((isset($yesnoRadio)) && ($yesnoRadio == "Yes")) {echo "checked";}?>/>
 								<label class="form-check-label dark-text" for="yes" >Yes</label>
 							</div>
-							<div class="form-check">
+							<div class="form-check col-sm">
 								<input type="radio" class="form-check-input dark-text" name="contact-back" id="no" value="No" <?php if ((isset($yesnoRadio)) && ($yesnoRadio == "No")) {echo "checked";}?>/>
 								<label class="form-check-label dark-text" for="no" >No</label>
 							</div>
