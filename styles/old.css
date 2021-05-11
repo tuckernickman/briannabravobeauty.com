@@ -156,6 +156,21 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, li,
 
 mystyle2.css
 
+/*
+.navbar-light .navbar-toggler {
+  color:#986572 !important;
+  text-shadow:1px 3px 20px #f8ddc0 !important;
+  -moz-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  -webkit-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+}
+
+
+.navbar-light .navbar-toggler-icon {
+  background-image:url('/assets/logo/logo2.1.svg');
+} 
+
 body{
   margin: 0;
   padding: 0;
