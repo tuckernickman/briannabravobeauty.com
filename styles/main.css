@@ -53,6 +53,7 @@ body {
   background: -webkit-linear-gradient(#98657294,#f8ddc294, #f8ddc000);
 }
 
+/* scrollbar */
 ::-webkit-scrollbar {
   width: 10px;
 }
