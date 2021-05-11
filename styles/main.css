@@ -69,6 +69,26 @@ body {
   background-image:url('/assets/logo/logo2.1.svg');
 } */
 
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background:#E8dcbc; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background:  #ba988e; 
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #986572; 
+}
+
 #content{
       display:inline-block;
       align-content: center;
