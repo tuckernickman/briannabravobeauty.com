@@ -291,17 +291,3 @@ a, a:hover, a:focus, a:active {
 }
 
 
-
-/* .container {
-  width:auto;
-  display:block;
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
-  justify-content: center;
-} */
-
-.col-6 {
-  width:100%;
-}
