@@ -290,17 +290,7 @@ a, a:hover, a:focus, a:active {
   color: inherit;
 }
 
-.container-fluid {
-  width: 100vw;
-  display:block;
-  /* padding-right: 15px;
-  padding-left: 15px; */
-  margin-right: auto;
-  margin-left: auto;
-}
-.container-fluid img {
-  width:100%;
-}
+
 
 /* .container {
   width:auto;
