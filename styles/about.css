@@ -1,16 +1,8 @@
 .card {
-  position: relative;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  min-width: 0;
-  max-width: 90vw;
-  word-wrap: break-word;
-  background-color:#986572;
-  background-clip: border-box;
-  border: none;
-  border-radius: .25rem; 
+  display: block;
+  height: 75vh;
+  width: 100vw;
+  background: #986572;
 }
 
 .card-body{
@@ -18,35 +10,22 @@
 }
 
 .align-image {
-  height:auto;
   position:relative;
   justify-content: center;
   align-items: center; 
 }   
 
-#_cf {
-  height:100%;
-  min-width:50%;
-  margin:0 auto;
-}
-
 #cf {
-  position:relative;
-  justify-content: center;
-  align-items: center;
   height:100%;
-  width:100%;
+  width:auto;
   margin:0 auto;
 }
   
 #cf img {
-  padding:0;
-  margin:0;
-  width:40vw;
+  width:auto;
   height:auto;
   position:absolute;
-  justify-content: center;
-  align-items: center; 
+  left:0;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
   -o-transition: opacity 1s ease-in-out;
@@ -55,9 +34,4 @@
   
 #cf img.top:hover {
   opacity:0;
-}
-
-.card-text, .card-title {
-  max-width: 100%;
-  min-width: 50%
 }
