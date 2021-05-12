@@ -6,7 +6,7 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" integrity="sha256-46qynGAkLSFpVbEBog43gvNhfrOj+BmwXdxFgVK/Kvc=" crossorigin="anonymous" />  
   <link rel="stylesheet" href="/styles/services.css">
   <link rel="stylesheet" href="/styles/main.css">
-
+  <link rel="stylesheet" type="text/css" href="/styles/about.css">
 
   <!--Java-->
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
