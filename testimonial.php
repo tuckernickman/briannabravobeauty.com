@@ -15,13 +15,14 @@
           data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="1500">
-            <div class="pat"><strong>Grace Flores-Zamora:</strong> <br>
+            <div class="pat"><p class="testimonial-text">
+              <strong>Grace Flores-Zamora:</strong> <br>
             "I love you as a person, 
             your soul, vibe, smile, peronality, opinions,
             and genuinely cared about what I wanted. 
             You made me feel amazing and beautiful! 
             You knew what you were doing and I really loved 
-            how you chatted and talked through the process!" 
+            how you chatted and talked through the process!" </p>
             </div>
           </div>
 
@@ -30,14 +31,14 @@
      data-aos-easing="ease-out-cubic"
      data-aos-duration="2000"
      data-aos-offset="300">
-            <div class="pat">
+            <div class="pat"> <p class="testimonial-text">
                 <strong>Ashley Beal:</strong> <br>
             "You being adorable. 
             And just being really open, and making me feel really
             comfortable. Listning to dope music. 
             I absolutly loved the makeup, especially the liner
             (cause I can't every do it myself), 
-            And just got all around good vibes from you!"
+            And just got all around good vibes from you!" </p>
             </div>
           </div>
 
@@ -46,12 +47,12 @@
      data-aos-easing="ease-out-cubic"
      data-aos-duration="2500"
      data-aos-offset="400">
-            <div class="pat">
+            <div class="pat"> <p class="testimonial-text">
                 <strong>Michelle Antionetta Crossley:</strong> <br>
             "You being so easy to talk to, 
             and sassy as well,
             but in a good way. 
-            Plus making me feel so comfortable!"
+            Plus making me feel so comfortable!"</p>
             </div>
           </div>
 
@@ -60,7 +61,7 @@
      data-aos-easing="ease-out-cubic"
      data-aos-duration="3000"
      data-aos-offset="500">
-            <div class="pat"> 
+            <div class="pat"> <p class="testimonial-text">
                 <strong>Jazalynn Powers:</strong> <br>
             "You were so sweet and welcoming even
             through I was SO LATE. 
@@ -68,7 +69,7 @@
             You are a makeup magician and wish I could do makeup like you!!!
             My hair was also fire! 
             It stresses me the hell out when other people do my hair, 
-            but you did just amazing!"
+            but you did just amazing!"</p>
             </div>
           </div>
           </div>
