@@ -21,8 +21,10 @@
 	<!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
 	
+    <!-- aos stylesheet -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    
     <!-- CSS -->
-
     <link rel="stylesheet" type="text/css" href="/styles/main.css">
     <link rel="stylesheet" type="text/css" href="/styles/mystyles2.css">
     <link rel="stylesheet" type="text/css" href="/styles/photo.css">
