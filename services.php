@@ -7,7 +7,7 @@
 		</p>
 	</div>
 
-	<div class=" container text-center">
+	<div class="text-center">
         <div class="row justify-content-center">
 		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto ">
 			
@@ -39,7 +39,7 @@
 	</div>
 </div>
 
-<div class=" container text-center">
+<div class="text-center">
         <div class="row justify-content-center">
 
 		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto ">
