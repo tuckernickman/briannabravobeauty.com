@@ -1,7 +1,7 @@
 <footer id="footer" class="colored-accent-bkg">
   <div class="container pt-3 border-bottom">
-    <div class="row light d-flex justify-content-center">
-      <div class="col-md-9 col-sm-12 justify-content-center">
+    <div class="row light justify-content-center">
+      <div class="col-md-9 col-sm-12 d-flex justify-content-center">
         <div class="col-md-3 col-sm-6 col-6 p-0 float-left mb-2 justify-content-center">
           <h5 class="mb-2 font-weight-bold text-uppercase light-text">Quick Links</h5>
           <ul class="list-group">
