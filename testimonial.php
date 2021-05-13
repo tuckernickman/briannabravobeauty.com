@@ -1,8 +1,11 @@
+
+<!DOCTYPE html>
+<html lang="en">
 <body>
 <section>
 
     <div>
-        <h1><strong>Testimonials</strong></h1>
+        <h1 1 class="dark-text"><strong>Testimonials</strong></h1>
     </div>
 
     <div class="container">
