@@ -17,7 +17,7 @@
     
     <?php include "about.php"; ?>
 
-    <?php include "carousel.php"; ?>
+    <!-- <?php include "carousel.php"; ?> -->
 
     <?php include "services.php"; ?>
     
