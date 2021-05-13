@@ -1,16 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
 <body>
-<!-- I moved the style into mystyle2css -->
-
 <section>
+
     <div>
-        <h1 class="dark-text"><strong>Testimonials</strong></h1>
+        <h1><strong>Testimonials</strong></h1>
     </div>
 
     <div class="container">
         
-        <div class="row">
+    <div class="row">
           <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12"
           data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
@@ -50,40 +47,21 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12"
-          data-aos="flip-left"
-     data-aos-easing="ease-out-cubic"
-     data-aos-duration="3000"
-     data-aos-offset="500">
-            <div class="pat"> <p class="testimonial-text">
-                <strong>Jazalynn Powers:</strong> <br>
-            "You were so sweet and welcoming even
-            through I was SO LATE. 
-            You immediately got me talking and helped me feel so comfortable.
-            You are a makeup magician and wish I could do makeup like you!!!
-            My hair was also fire! 
-            It stresses me the hell out when other people do my hair, 
-            but you did just amazing!"</p>
-            </div>
-          </div>
           </div>
           </div>
    
 </section>
- 
 
-
-       
-          <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
             
-          <script type="text/javascript" src="animate.js"></script>
-          
+<script type="text/javascript" src="animate.js"></script>
+  
     	
-          <script>
-            $(function() {
-                 AOS.init();
-            });
-          </script>
+<script>
+  $(function() {
+    AOS.init();
+  });
+</script>
 </body>
 
 </html>
