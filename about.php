@@ -41,8 +41,8 @@
 
 
 
-<div class="card mb-3" >
-  <div class="container col-lg-8 col-md-8 col-sm-12 col-xs-12 g-0">
+<div class="mb-3" >
+  <div class="card container col-lg-12 col-md-12 col-sm-12 col-xs-12 g-0">
 
     <div id="content" class="flip-box">
       <div class="flip-box-inner align-image">
@@ -59,13 +59,13 @@
       </div>
     </div>
     
-    <div id="_cf" class="container col-lg-8 col-md-8 col-sm-12 col-xs-12">
+    <div id="_cf" class="container col-xl-6 col-lg-8 col-md-8 col-sm-12 col-xs-12">
       <div id="cf" class="align-image">
         <h5 class="card-title light-text">About me</h5>
         <p class="card-text light-text">    
           I est​ablished my little business in 2018 based on my love for not only makeup, but the way I felt in it.            
           I'm a HMUA who specializes in boudoir and bridal.
-          I'm all about pushing the world's expectations of us as womxn. <br>
+          I'm all about pushing the world's expectations of us as womxn! <br>
           <br>
           They expect us to be perfect, perfect body, perfect skin, perfect values.
           If you're a mom, you have to be a good mom, but be hot. Be natural, but your natural needs to be flawless. <br>

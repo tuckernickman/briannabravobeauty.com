@@ -1,8 +1,9 @@
 .card {
   display: block;
   height: 100%;
-  width: 100vw;
+  width: 100%;
   background: #986572;
+
 }
 
 .card-body{
