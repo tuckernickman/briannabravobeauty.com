@@ -11,7 +11,7 @@
     <div class="container">
         
     <div class="row">
-          <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12"
+          <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"
           data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="1500">
@@ -24,7 +24,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12"
+          <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"
           data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="2000"
@@ -38,7 +38,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12"
+          <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"
           data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="2500"
