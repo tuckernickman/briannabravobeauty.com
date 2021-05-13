@@ -24,11 +24,7 @@
     <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="/styles/services.css">
     <link rel="stylesheet" type="text/css" href="/styles/main.css">
-    <link rel="stylesheet" type="text/css" href="/styles/mystyles2.css">
     <link rel="stylesheet" type="text/css" href="/styles/photo.css">
-    
-  
-  
     <link rel="stylesheet" type="text/css" href="/styles/about.css">
     <link rel="stylesheet" type="text/css" href="/styles/carousel.css">
 
