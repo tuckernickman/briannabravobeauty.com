@@ -28,7 +28,7 @@
         <div class="col-md-12 justify-content-center">
           <h5 class="mb-2 font-weight-bold text-uppercase light-text">Our Mission</h5>
           <h6 class="mb-2 font-weight-bold text-uppercase light-text">
-            to push the world's expectations of us as womxn! 
+            to push the world's expectations of us as folx! 
           </h6>
           <!-- <div class="py-1 justify-content-center align-items-center">
               <h5 class="mb-1 font-weight-bold text-uppercase">Pushing the world's expectations of us as womxn!</h5>
