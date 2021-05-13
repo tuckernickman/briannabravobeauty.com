@@ -1,15 +1,20 @@
 /* linear-gradient(to bottom right, #547861, #cab2ac 80%)*/
 
 .pat {
-    /* width:25%; */
-    height:50%;
-    padding: 5px;
-    margin: 5px;
-    background:#547861;
-    --box-shadow-color:#996672af;
-    box-shadow: 5px 6px 15px var(--box-shadow-color);
-    display:inline-block;
-    justify-content: space-evenly;
+    background-color:#986572 ;
+    background: #986572;
+    background: linear-gradient(to right, #986572, transparent 70%); 
+    
+   
+    box-shadow: 5px 0 7px 0;
+    box-shadow: rgba(59, 58, 58, 0.39);
+  
+  
+    margin: 2%;
+    padding: 3%;
+  
+    min-height: 97%;
+    min-width: 100%;
 }
    
 .mat {

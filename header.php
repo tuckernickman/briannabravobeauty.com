@@ -21,13 +21,17 @@
 	<!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
 	
+    <!-- aos stylesheet -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    
     <!-- CSS -->
+<<<<<<< HEAD
   <link rel="stylesheet" type="text/css" href="/styles/services.css">
+=======
+>>>>>>> 7d72e25987eb444cae947740a87064fc0638fe98
     <link rel="stylesheet" type="text/css" href="/styles/main.css">
     <link rel="stylesheet" type="text/css" href="/styles/photo.css">
     <link rel="stylesheet" type="text/css" href="/styles/about.css">
     <link rel="stylesheet" type="text/css" href="/styles/carousel.css">
-
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     
 </head>

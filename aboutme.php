@@ -14,6 +14,6 @@
 
     <?php include "about.php"; ?>
 
-    <?php include "footer2.php"; ?>
+    <?php include "footer.php"; ?>
 </body>
 </html>
