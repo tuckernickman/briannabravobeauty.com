@@ -1,10 +1,7 @@
 /* linear-gradient(to bottom right, #547861, #cab2ac 80%)*/
 
 .pat {
-    background-color:#986572 ;
-    background: #986572;
-    background: linear-gradient(to right, #986572, transparent 70%); 
-    
+    background-color: #B7B7A4; 
    
     box-shadow: 5px 0 7px 0;
     box-shadow: rgba(59, 58, 58, 0.39);

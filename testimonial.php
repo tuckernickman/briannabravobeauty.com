@@ -16,13 +16,11 @@
      data-aos-easing="ease-out-cubic"
      data-aos-duration="1500">
             <div class="pat"><p class="testimonial-text">
-              <strong>Grace Flores-Zamora:</strong> <br>
-            "I love you as a person, 
-            your soul, vibe, smile, peronality, opinions,
-            and genuinely cared about what I wanted. 
-            You made me feel amazing and beautiful! 
-            You knew what you were doing and I really loved 
-            how you chatted and talked through the process!" </p>
+            "Brianna did my makeover for a company holiday party and she did such an amazing job.
+            I appreciate how welcoming she was to me as a trans and masculine person getting a makeover.
+            She did such a great job matching my skin tone which hasn't always been the case for me as a mixed race 
+            person getting makeovers or makeup done. she's a joy to work with and super personable and talented.
+            Highly recommend her for photo shoots, special events, and just to feel really good about yourself!"</p>
             </div>
           </div>
 
@@ -32,13 +30,11 @@
      data-aos-duration="2000"
      data-aos-offset="300">
             <div class="pat"> <p class="testimonial-text">
-                <strong>Ashley Beal:</strong> <br>
-            "You being adorable. 
-            And just being really open, and making me feel really
-            comfortable. Listning to dope music. 
-            I absolutly loved the makeup, especially the liner
-            (cause I can't every do it myself), 
-            And just got all around good vibes from you!" </p>
+              "I use Brianna for my boudoir clients and personal events. She is reliable, consistent,
+              high skilled and so much fun to work with! She continues to blow me away with her work
+              and makes my job so much easier! She is a natural at uplifting you while giving you a
+              relaxing and fun experience! I will always recommend her to someone looking for makeup application,
+              lessons and personal shopping help! Brianna is the best of the best!"</p>
             </div>
           </div>
 
@@ -48,11 +44,9 @@
      data-aos-duration="2500"
      data-aos-offset="400">
             <div class="pat"> <p class="testimonial-text">
-                <strong>Michelle Antionetta Crossley:</strong> <br>
-            "You being so easy to talk to, 
-            and sassy as well,
-            but in a good way. 
-            Plus making me feel so comfortable!"</p>
+              "I absolutley love working with Bri! She makes you feel comfortable throughout the whole
+              process and is fun to be around. She is the ultimate hype woman, and so talented! She has you feeling like
+              your best self inside and out by the end of your appointment. I highly recommend working with her."</p>
             </div>
           </div>
 
