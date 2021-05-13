@@ -57,8 +57,8 @@ body {
 }
 
 .navbar, .btn button{
-  background-image: linear-gradient(#6B705c,#ddbea9b9, #ffe8d600);
-  background: -webkit-linear-gradient(#6B705c,#ddbea9b9, #ffe8d600);
+  background-image: linear-gradient(#CB997e,#ddbea9b9, #ffe8d600);
+  background: -webkit-linear-gradient(#CB997e,#ddbea9b9, #ffe8d600);
 }
 
 /* scrollbar */
@@ -158,8 +158,8 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
 
 /* lighter colored text for the testimonial section */
 .testimonial-text {
-  color:#6b705c !important;
-  text-shadow:1px 3px 20px #CB997e !important;
+  color:#ffe8d6 !important;
+  text-shadow:1px 3px 20px #a5a58d !important;
   -moz-transition: all 0.2s ease-in;
   -o-transition: all 0.2s ease-in;
   -webkit-transition: all 0.2s ease-in;
@@ -169,8 +169,8 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
 
 /* .testimonial-text:hover */
 .testimonial-text:hover {
-  color:#CB997e !important;
-  text-shadow:1px 3px 20px  #ffe8d6!important;
+  color: #ddbea9 !important;
+  text-shadow:1px 3px 20px #ffe8d6 !important;
   -moz-transition: all 0.2s ease-in;
   -o-transition: all 0.2s ease-in;
   -webkit-transition: all 0.2s ease-in;
@@ -181,7 +181,7 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
 /* footer */
 
 .colored-accent-bkg {
-  background:#CB997e;
+  background:#6B705c;
 }
 
 
