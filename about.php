@@ -41,8 +41,8 @@
 
 
 
-<div class="mb-3" >
-  <div class="card container col-lg-8 col-md-8 col-sm-12 col-xs-12 g-0">
+<div class="card mb-3" >
+  <div class="container col-lg-8 col-md-8 col-sm-12 col-xs-12 g-0">
 
     <div id="content" class="flip-box">
       <div class="flip-box-inner align-image">
@@ -59,7 +59,7 @@
       </div>
     </div>
     
-    <div id="_cf" class="container col-lg-6 col-md-6 col-sm-6 col-xs-12">
+    <div id="_cf" class="container col-lg-8 col-md-8 col-sm-12 col-xs-12">
       <div id="cf" class="align-image">
         <h5 class="card-title light-text">About me</h5>
         <p class="card-text light-text">    
