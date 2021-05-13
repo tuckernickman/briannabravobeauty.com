@@ -61,22 +61,6 @@ body {
   background: -webkit-linear-gradient(#CB997e,#ddbea9b9, #ffe8d600);
 }
 
-@media screen and (min-width:768px){
-  .navbar-brand-centered {
-      position: absolute;
-      left: 50%;
-      display: block;
-      width: 160px;
-      text-align: center;
-      background-image: linear-gradient(#CB997e,#ddbea9b9, #ffe8d600);
-      background: -webkit-linear-gradient(#CB997e,#ddbea9b9, #ffe8d600);
-  }
-  .navbar>.container .navbar-brand-centered, 
-  .navbar>.container-fluid .navbar-brand-centered {
-      margin-left: -80px;
-  }
-}
-
 /* scrollbar */
 ::-webkit-scrollbar {
   width: 10px;

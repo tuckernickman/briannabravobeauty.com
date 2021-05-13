@@ -11,7 +11,7 @@
 </head>
 <body>
 
-    <?php include "menu2.php"; ?>
+    <?php include "menu.php"; ?>
 
     <!--home page-->
     
