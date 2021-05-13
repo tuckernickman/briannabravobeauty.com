@@ -79,7 +79,7 @@ body {
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #CB997e; 
+  background: #6B705c; 
 }
 
 #content{
@@ -159,7 +159,7 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
 /* lighter colored text for the testimonial section */
 .testimonial-text {
   color:#ffe8d6 !important;
-  text-shadow:1px 3px 20px #a5a58d !important;
+  text-shadow:1px 3px 20px #6B705c !important;
   -moz-transition: all 0.2s ease-in;
   -o-transition: all 0.2s ease-in;
   -webkit-transition: all 0.2s ease-in;
@@ -169,7 +169,7 @@ p, a, label, input, textarea, td, th, h4, h2, h3, h5, h6, header, div {
 
 /* .testimonial-text:hover */
 .testimonial-text:hover {
-  color: #ddbea9 !important;
+  color: #6B705c !important;
   text-shadow:1px 3px 20px #ffe8d6 !important;
   -moz-transition: all 0.2s ease-in;
   -o-transition: all 0.2s ease-in;

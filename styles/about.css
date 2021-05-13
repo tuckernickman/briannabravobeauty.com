@@ -2,12 +2,11 @@
   display: block;
   height: 100%;
   width: 100%;
-  background: #6B705c;
-
+  background-color:  #ffe8d6;
 }
 
 .card-body{
-  background: #6B705c;
+  background-color:  #ffe8d6;
 }
 
 .align-image {
