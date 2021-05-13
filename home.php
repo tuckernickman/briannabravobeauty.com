@@ -17,6 +17,10 @@
     
     <?php include "about.php"; ?>
 
+<<<<<<< HEAD
+=======
+    <!-- <?php include "carousel.php"; ?> -->
+>>>>>>> b0ad21746c07a6f04c45beccfb92f2d95313f93c
 
     <?php include "services.php"; ?>
     

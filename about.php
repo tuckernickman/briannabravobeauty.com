@@ -65,9 +65,8 @@
         <p class="card-text light-text">    
           I est​ablished my little business in 2018 based on my love for not only makeup, but the way I felt in it.            
           I'm a HMUA who specializes in boudoir and bridal.
-          I'm all about pushing the world's expectations of us as womxn! <br>
+          I'm all about pushing the world's expectations of us as folx! <br>
           <br>
-          They expect us to be perfect, perfect body, perfect skin, perfect values.
           If you're a mom, you have to be a good mom, but be hot. Be natural, but your natural needs to be flawless. <br>
           <br>
           Honey, believe me when I tell you... you are worth so much more than expectations.
