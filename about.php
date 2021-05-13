@@ -41,7 +41,7 @@
 
 
 
-<div class="container-fluid mb-3" >
+<div class="mb-3" >
   <div class="card container col-lg-8 col-md-8 col-sm-12 col-xs-12 g-0">
 
     <div id="content" class="flip-box">
