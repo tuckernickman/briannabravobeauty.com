@@ -7,7 +7,7 @@
 
 
 .container_foto {
-	background-color: RGB(152,101,114);
+	background-color: RGB(107,112,92);
 	padding: 0;
 	overflow: hidden;
 	max-width: 350px;
@@ -30,7 +30,7 @@
 	
 	font-weight: 800;
 	font-size: 25px;
-	border-bottom: #f8ddc0 solid 1px;
+	border-bottom: #ddbea9 solid 1px;
 }
 
 .container_foto h4 {

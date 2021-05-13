@@ -25,10 +25,7 @@
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     
     <!-- CSS -->
-<<<<<<< HEAD
   <link rel="stylesheet" type="text/css" href="/styles/services.css">
-=======
->>>>>>> 7d72e25987eb444cae947740a87064fc0638fe98
     <link rel="stylesheet" type="text/css" href="/styles/main.css">
     <link rel="stylesheet" type="text/css" href="/styles/photo.css">
     <link rel="stylesheet" type="text/css" href="/styles/about.css">
