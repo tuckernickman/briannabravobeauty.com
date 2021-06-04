@@ -3,7 +3,8 @@
 		<h1 class="text-center light-text"> Services I Offer</h1>
   		<p class="light-text">
   		<h3 class="light-text">Please note that all services include lash application.</h3>
-		<h3 class="light-text">I also offer hourly lessons, please email me with any inquiries. </h3>
+		<h3 class="light-text">I also offer hourly lessons for $75 per hour. Please email me with any inquiries. </h3>
+		<small class="light-text">*Tax is included in the pricing.</small>
 		</p>
 	</div>
 
@@ -12,7 +13,7 @@
 		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto ">
 			
 			<article class="text-left">
-				<h2 class="light-text">Bridal<br>$85</h2>
+				<h2 class="light-text">Bridal<br>$160+</h2>
 				
 				<h4 class="light-text">Day of makeup, trials are available at an additional cost.<br>Each bridesmaid is <br> $75</h4>
 			</article>
@@ -21,7 +22,7 @@
 
 		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
 			<article class="text-left">
-				<h2 class="light-text">Boudoir<br>$75-$100</h2>
+				<h2 class="light-text">Boudoir<br>$130</h2>
 				
 				<h4 class="light-text">Embrace your inner goddess <br>* simple hair curls or straightened <br>$100</h4>
 			</article>
@@ -30,7 +31,7 @@
 
 		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
 			<article class="text-left">
-				<h2 class="light-text">Special Occasions<br>$75</h2>
+				<h2 class="light-text">Special Occasions<br>$130</h2>
 				
 				<h4 class="light-text"><br>- Baby Showers <br>- Birthday Parties <br>- Maternity Pictures <br>- Quinceañeras</h4>
 			</article>
@@ -44,7 +45,7 @@
 
 		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto ">
 			<article class="text-left">
-				<h2 class="light-text">Natural<br>$65</h2>
+				<h2 class="light-text">Natural<br>$105</h2>
 				
 				<h4 class="light-text">Softer look enhancing your natural features</h4>
 			</article>
@@ -53,7 +54,7 @@
 
 		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
 			<article class="text-left">
-				<h2 class="light-text">Hair & Makeup<br>$120+</h2>
+				<h2 class="light-text">Hair & Makeup<br>$130</h2>
 				
 				<h4 class="light-text">Prices are subject to change due to complexity.</h4>
 			</article>
@@ -62,7 +63,7 @@
 
 		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
 			<article class="text-left">
-				<h2 class="light-text">Fashion/Editorials<br>$75</h2>
+				<h2 class="light-text">Fashion/Editorials<br>$130</h2>
 				
 				<h4 class="light-text">Skin focused to evoke a stunning photo shoot</h4>
 			</article>
