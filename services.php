@@ -15,7 +15,7 @@
 			<article class="text-left">
 				<h2 class="light-text">Bridal<br>$160+</h2>
 				
-				<h4 class="light-text">Day of makeup, trials are available at an additional cost.<br>Each bridesmaid is <br> $75</h4>
+				<h4 class="light-text">Day of makeup, trials are available at an additional cost.<br>Each bridesmaid is <br> $100</h4>
 			</article>
 			<img src="/assets/img/simplewedding.jpg" alt="wedding makeup and hair done by Brianna Bravo">
 		</div>
@@ -24,7 +24,7 @@
 			<article class="text-left">
 				<h2 class="light-text">Boudoir<br>$130</h2>
 				
-				<h4 class="light-text">Embrace your inner goddess <br>* simple hair curls or straightened <br>$100</h4>
+				<h4 class="light-text">Embrace your inner goddess <br>* simple hair curls or straightened <br>$40</h4>
 			</article>
 			<img src="/assets/img/whitebudoire.jpg" alt="Woman in white colored lingere with makeup done by Brianna Bravo">
 		</div>
