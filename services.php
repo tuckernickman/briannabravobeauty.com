@@ -17,7 +17,7 @@
 				
 				<h4 class="light-text">Day of makeup, trials are available at an additional cost.<br>Each bridesmaid is <br> $100</h4>
 			</article>
-			<img src="/assets/img/simplewedding.jpg" alt="wedding makeup and hair done by Brianna Bravo">
+			<img src="/assets/img/newwedding1.jpg" alt="wedding makeup and hair done by Brianna Bravo">
 		</div>
 
 		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
